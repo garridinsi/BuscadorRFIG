@@ -1,6190 +1,6190 @@
 [
   {
-    "ID": 1003,
+    "NUMERO": 1003,
     "NOMBRE": "ARAHAL"
   },
   {
-    "ID": 1005,
+    "NUMERO": 1005,
     "NOMBRE": "MARCHENA"
   },
   {
-    "ID": 1007,
+    "NUMERO": 1007,
     "NOMBRE": "OSUNA"
   },
   {
-    "ID": 1009,
+    "NUMERO": 1009,
     "NOMBRE": "PEDRERA"
   },
   {
-    "ID": 2002,
+    "NUMERO": 2002,
     "NOMBRE": "PUENTE GENIL-HERRERA"
   },
   {
-    "ID": 2003,
+    "NUMERO": 2003,
     "NOMBRE": "ANTEQUERA-SANTA ANA"
   },
   {
-    "ID": 3001,
+    "NUMERO": 3001,
     "NOMBRE": "MENGIBAR-ARTICHUELA"
   },
   {
-    "ID": 3100,
+    "NUMERO": 3100,
     "NOMBRE": "JAEN"
   },
   {
-    "ID": 3208,
+    "NUMERO": 3208,
     "NOMBRE": "CUENCA FERNANDO ZOBEL"
   },
   {
-    "ID": 3213,
+    "NUMERO": 3213,
     "NOMBRE": "REQUENA-UTIEL"
   },
   {
-    "ID": 3216,
+    "NUMERO": 3216,
     "NOMBRE": "VALENCIA JOAQUIN SOROLLA"
   },
   {
-    "ID": 3309,
-    "NOMBRE": "VILLENA ALTA VELOCIDAD"
+    "NUMERO": 3309,
+    "NOMBRE": "VILLENA ALTA VELOCNUMEROAD"
   },
   {
-    "ID": 3410,
-    "NOMBRE": "ELX ALTA VELOCIDAD"
+    "NUMERO": 3410,
+    "NOMBRE": "ELX ALTA VELOCNUMEROAD"
   },
   {
-    "ID": 4007,
+    "NUMERO": 4007,
     "NOMBRE": "GUADALAJARA-YEBES"
   },
   {
-    "ID": 4040,
+    "NUMERO": 4040,
     "NOMBRE": "ZARAGOZA-DELICIAS"
   },
   {
-    "ID": 4104,
+    "NUMERO": 4104,
     "NOMBRE": "CAMP DE TARRAGONA"
   },
   {
-    "ID": 4307,
+    "NUMERO": 4307,
     "NOMBRE": "FIGUERES-VILAFANT"
   },
   {
-    "ID": 5000,
+    "NUMERO": 5000,
     "NOMBRE": "GRANADA"
   },
   {
-    "ID": 5013,
+    "NUMERO": 5013,
     "NOMBRE": "LOJA-SAN FRANCISCO"
   },
   {
-    "ID": 5019,
+    "NUMERO": 5019,
     "NOMBRE": "ANTEQUERA"
   },
   {
-    "ID": 5102,
+    "NUMERO": 5102,
     "NOMBRE": "SAN XOAN"
   },
   {
-    "ID": 5103,
+    "NUMERO": 5103,
     "NOMBRE": "SANTA ICIA"
   },
   {
-    "ID": 5104,
+    "NUMERO": 5104,
     "NOMBRE": "VIRXE DO MAR"
   },
   {
-    "ID": 5105,
+    "NUMERO": 5105,
     "NOMBRE": "PIÑEIROS"
   },
   {
-    "ID": 5106,
+    "NUMERO": 5106,
     "NOMBRE": "O PONTO"
   },
   {
-    "ID": 5107,
+    "NUMERO": 5107,
     "NOMBRE": "XUVIA"
   },
   {
-    "ID": 5108,
+    "NUMERO": 5108,
     "NOMBRE": "O ALTO DO CASTIÑEIRO"
   },
   {
-    "ID": 5109,
+    "NUMERO": 5109,
     "NOMBRE": "FERRERIAS"
   },
   {
-    "ID": 5111,
+    "NUMERO": 5111,
     "NOMBRE": "SEDES"
   },
   {
-    "ID": 5113,
+    "NUMERO": 5113,
     "NOMBRE": "PEDROSO DE NARON"
   },
   {
-    "ID": 5115,
+    "NUMERO": 5115,
     "NOMBRE": "SAN SADURNIÑO"
   },
   {
-    "ID": 5117,
+    "NUMERO": 5117,
     "NOMBRE": "LAMAS"
   },
   {
-    "ID": 5119,
+    "NUMERO": 5119,
     "NOMBRE": "APALLA"
   },
   {
-    "ID": 5121,
+    "NUMERO": 5121,
     "NOMBRE": "MOECHE"
   },
   {
-    "ID": 5123,
+    "NUMERO": 5123,
     "NOMBRE": "LABACENGOS"
   },
   {
-    "ID": 5125,
+    "NUMERO": 5125,
     "NOMBRE": "ENTRAMBARRIAS"
   },
   {
-    "ID": 5127,
-    "NOMBRE": "CERDIDO"
+    "NUMERO": 5127,
+    "NOMBRE": "CERDNUMEROO"
   },
   {
-    "ID": 5129,
+    "NUMERO": 5129,
     "NOMBRE": "A CUQUEIRA"
   },
   {
-    "ID": 5131,
+    "NUMERO": 5131,
     "NOMBRE": "SANTA MARIA DE MERA"
   },
   {
-    "ID": 5133,
+    "NUMERO": 5133,
     "NOMBRE": "PONTE MERA"
   },
   {
-    "ID": 5135,
+    "NUMERO": 5135,
     "NOMBRE": "SAN CLODIO"
   },
   {
-    "ID": 5137,
+    "NUMERO": 5137,
     "NOMBRE": "SENRA"
   },
   {
-    "ID": 5139,
+    "NUMERO": 5139,
     "NOMBRE": "ORTIGUEIRA"
   },
   {
-    "ID": 5141,
+    "NUMERO": 5141,
     "NOMBRE": "ESPASANTE"
   },
   {
-    "ID": 5143,
+    "NUMERO": 5143,
     "NOMBRE": "LOIBA"
   },
   {
-    "ID": 5145,
+    "NUMERO": 5145,
     "NOMBRE": "O BARQUEIRO"
   },
   {
-    "ID": 5147,
+    "NUMERO": 5147,
     "NOMBRE": "O VICEDO"
   },
   {
-    "ID": 5149,
+    "NUMERO": 5149,
     "NOMBRE": "MOSENDE"
   },
   {
-    "ID": 5151,
+    "NUMERO": 5151,
     "NOMBRE": "FOLGUEIRO"
   },
   {
-    "ID": 5153,
+    "NUMERO": 5153,
     "NOMBRE": "COVAS DE VIVEIRO"
   },
   {
-    "ID": 5155,
+    "NUMERO": 5155,
     "NOMBRE": "VIVEIRO"
   },
   {
-    "ID": 5156,
+    "NUMERO": 5156,
     "NOMBRE": "VIVEIRO-APEADERO"
   },
   {
-    "ID": 5157,
+    "NUMERO": 5157,
     "NOMBRE": "XUANCES"
   },
   {
-    "ID": 5159,
+    "NUMERO": 5159,
     "NOMBRE": "XOVE-POBO"
   },
   {
-    "ID": 5161,
+    "NUMERO": 5161,
     "NOMBRE": "XOVE"
   },
   {
-    "ID": 5163,
+    "NUMERO": 5163,
     "NOMBRE": "LAGO"
   },
   {
-    "ID": 5165,
-    "NOMBRE": "BIDUEIROS"
+    "NUMERO": 5165,
+    "NOMBRE": "BNUMEROUEIROS"
   },
   {
-    "ID": 5167,
+    "NUMERO": 5167,
     "NOMBRE": "SAN CIBRAO"
   },
   {
-    "ID": 5169,
+    "NUMERO": 5169,
     "NOMBRE": "MADEIRO"
   },
   {
-    "ID": 5171,
+    "NUMERO": 5171,
     "NOMBRE": "BURELA"
   },
   {
-    "ID": 5173,
+    "NUMERO": 5173,
     "NOMBRE": "CANGAS DE FOZ"
   },
   {
-    "ID": 5175,
+    "NUMERO": 5175,
     "NOMBRE": "NOIS"
   },
   {
-    "ID": 5177,
+    "NUMERO": 5177,
     "NOMBRE": "FAZOURO"
   },
   {
-    "ID": 5179,
+    "NUMERO": 5179,
     "NOMBRE": "MARZAN"
   },
   {
-    "ID": 5181,
+    "NUMERO": 5181,
     "NOMBRE": "FOZ"
   },
   {
-    "ID": 5183,
+    "NUMERO": 5183,
     "NOMBRE": "BARREIROS"
   },
   {
-    "ID": 5185,
+    "NUMERO": 5185,
     "NOMBRE": "REINANTE"
   },
   {
-    "ID": 5187,
+    "NUMERO": 5187,
     "NOMBRE": "ESTEIRO"
   },
   {
-    "ID": 5189,
+    "NUMERO": 5189,
     "NOMBRE": "OS CASTROS"
   },
   {
-    "ID": 5191,
+    "NUMERO": 5191,
     "NOMBRE": "RINLO"
   },
   {
-    "ID": 5193,
+    "NUMERO": 5193,
     "NOMBRE": "RIBADEO"
   },
   {
-    "ID": 5197,
+    "NUMERO": 5197,
     "NOMBRE": "VEGADEO PUEBLO"
   },
   {
-    "ID": 5199,
+    "NUMERO": 5199,
     "NOMBRE": "VILAVEDELLE"
   },
   {
-    "ID": 5203,
+    "NUMERO": 5203,
     "NOMBRE": "TREMAÑES-CARREÑO"
   },
   {
-    "ID": 5204,
+    "NUMERO": 5204,
     "NOMBRE": "CENTRO DE TRANSPORTES"
   },
   {
-    "ID": 5207,
+    "NUMERO": 5207,
     "NOMBRE": "ABOÑO-APEADERO"
   },
   {
-    "ID": 5208,
+    "NUMERO": 5208,
     "NOMBRE": "XIVARES"
   },
   {
-    "ID": 5209,
+    "NUMERO": 5209,
     "NOMBRE": "PERLORA"
   },
   {
-    "ID": 5210,
+    "NUMERO": 5210,
     "NOMBRE": "CANDAS-APEADERO"
   },
   {
-    "ID": 5211,
+    "NUMERO": 5211,
     "NOMBRE": "CANDAS"
   },
   {
-    "ID": 5213,
+    "NUMERO": 5213,
     "NOMBRE": "REGUERAL"
   },
   {
-    "ID": 5215,
+    "NUMERO": 5215,
     "NOMBRE": "ZANZABORNIN"
   },
   {
-    "ID": 5216,
+    "NUMERO": 5216,
     "NOMBRE": "GUDIN LAMINACION"
   },
   {
-    "ID": 5217,
+    "NUMERO": 5217,
     "NOMBRE": "TRASONA"
   },
   {
-    "ID": 5218,
+    "NUMERO": 5218,
     "NOMBRE": "OFICINAS"
   },
   {
-    "ID": 5219,
+    "NUMERO": 5219,
     "NOMBRE": "LLARANES"
   },
   {
-    "ID": 5220,
+    "NUMERO": 5220,
     "NOMBRE": "CRISTALERIA"
   },
   {
-    "ID": 5221,
+    "NUMERO": 5221,
     "NOMBRE": "AVILES-APEADERO"
   },
   {
-    "ID": 5224,
+    "NUMERO": 5224,
     "NOMBRE": "RAICES"
   },
   {
-    "ID": 5225,
+    "NUMERO": 5225,
     "NOMBRE": "SALINAS"
   },
   {
-    "ID": 5227,
+    "NUMERO": 5227,
     "NOMBRE": "PIEDRAS BLANCAS"
   },
   {
-    "ID": 5229,
+    "NUMERO": 5229,
     "NOMBRE": "VEGARROZADAS"
   },
   {
-    "ID": 5231,
+    "NUMERO": 5231,
     "NOMBRE": "SANTIAGO DEL MONTE"
   },
   {
-    "ID": 5232,
+    "NUMERO": 5232,
     "NOMBRE": "EL PARADOR"
   },
   {
-    "ID": 5233,
+    "NUMERO": 5233,
     "NOMBRE": "SOTO DEL BARCO"
   },
   {
-    "ID": 5235,
+    "NUMERO": 5235,
     "NOMBRE": "RIBERAS"
   },
   {
-    "ID": 5237,
+    "NUMERO": 5237,
     "NOMBRE": "PEÑAULLAN"
   },
   {
-    "ID": 5239,
+    "NUMERO": 5239,
     "NOMBRE": "SANTIANES"
   },
   {
-    "ID": 5241,
+    "NUMERO": 5241,
     "NOMBRE": "LOS CABOS"
   },
   {
-    "ID": 5243,
+    "NUMERO": 5243,
     "NOMBRE": "MUROS DE NALON"
   },
   {
-    "ID": 5244,
+    "NUMERO": 5244,
     "NOMBRE": "EL PITO PIÑERA"
   },
   {
-    "ID": 5245,
+    "NUMERO": 5245,
     "NOMBRE": "CUDILLERO"
   },
   {
-    "ID": 5247,
+    "NUMERO": 5247,
     "NOMBRE": "VILLADEMAR"
   },
   {
-    "ID": 5249,
+    "NUMERO": 5249,
     "NOMBRE": "LA MAGDALENA"
   },
   {
-    "ID": 5251,
+    "NUMERO": 5251,
     "NOMBRE": "SAN MARTIN DE LUIÑA"
   },
   {
-    "ID": 5253,
+    "NUMERO": 5253,
     "NOMBRE": "SAN COSME"
   },
   {
-    "ID": 5255,
+    "NUMERO": 5255,
     "NOMBRE": "SOTO DE LUIÑA"
   },
   {
-    "ID": 5257,
+    "NUMERO": 5257,
     "NOMBRE": "VALDREDO"
   },
   {
-    "ID": 5259,
+    "NUMERO": 5259,
     "NOMBRE": "NOVELLANA"
   },
   {
-    "ID": 5261,
+    "NUMERO": 5261,
     "NOMBRE": "SANTA MARINA"
   },
   {
-    "ID": 5263,
+    "NUMERO": 5263,
     "NOMBRE": "BALLOTA"
   },
   {
-    "ID": 5265,
+    "NUMERO": 5265,
     "NOMBRE": "TABLIZO"
   },
   {
-    "ID": 5267,
+    "NUMERO": 5267,
     "NOMBRE": "CADAVEDO"
   },
   {
-    "ID": 5269,
+    "NUMERO": 5269,
     "NOMBRE": "SAN CRISTOBAL"
   },
   {
-    "ID": 5271,
+    "NUMERO": 5271,
     "NOMBRE": "CANERO"
   },
   {
-    "ID": 5273,
+    "NUMERO": 5273,
     "NOMBRE": "BARCIA"
   },
   {
-    "ID": 5275,
+    "NUMERO": 5275,
     "NOMBRE": "LUARCA"
   },
   {
-    "ID": 5277,
+    "NUMERO": 5277,
     "NOMBRE": "OTUR"
   },
   {
-    "ID": 5279,
+    "NUMERO": 5279,
     "NOMBRE": "VILLAPEDRE"
   },
   {
-    "ID": 5281,
+    "NUMERO": 5281,
     "NOMBRE": "PIÑERA-VILLAORIL"
   },
   {
-    "ID": 5283,
+    "NUMERO": 5283,
     "NOMBRE": "NAVIA"
   },
   {
-    "ID": 5285,
+    "NUMERO": 5285,
     "NOMBRE": "MEDAL"
   },
   {
-    "ID": 5287,
+    "NUMERO": 5287,
     "NOMBRE": "LOZA"
   },
   {
-    "ID": 5289,
+    "NUMERO": 5289,
     "NOMBRE": "CARTAVIO"
   },
   {
-    "ID": 5291,
-    "NOMBRE": "LA CARIDAD"
+    "NUMERO": 5291,
+    "NOMBRE": "LA CARNUMEROAD"
   },
   {
-    "ID": 5293,
+    "NUMERO": 5293,
     "NOMBRE": "TAPIA"
   },
   {
-    "ID": 5295,
+    "NUMERO": 5295,
     "NOMBRE": "TOL"
   },
   {
-    "ID": 5297,
+    "NUMERO": 5297,
     "NOMBRE": "LAS CAMPAS DE CASTROPOL"
   },
   {
-    "ID": 5299,
+    "NUMERO": 5299,
     "NOMBRE": "CASTROPOL"
   },
   {
-    "ID": 5300,
+    "NUMERO": 5300,
     "NOMBRE": "VALLOBIN"
   },
   {
-    "ID": 5301,
+    "NUMERO": 5301,
     "NOMBRE": "LA ARGAÑOSA-LAVAPIES"
   },
   {
-    "ID": 5302,
+    "NUMERO": 5302,
     "NOMBRE": "LAS CAMPAS"
   },
   {
-    "ID": 5303,
+    "NUMERO": 5303,
     "NOMBRE": "LAS MAZAS"
   },
   {
-    "ID": 5304,
+    "NUMERO": 5304,
     "NOMBRE": "SAN CLAUDIO"
   },
   {
-    "ID": 5306,
+    "NUMERO": 5306,
     "NOMBRE": "SAN PEDRO NORA"
   },
   {
-    "ID": 5308,
+    "NUMERO": 5308,
     "NOMBRE": "SOTO UDRION"
   },
   {
-    "ID": 5311,
+    "NUMERO": 5311,
     "NOMBRE": "TRUBIA"
   },
   {
-    "ID": 5313,
+    "NUMERO": 5313,
     "NOMBRE": "SANTA MARIA DE GRADO"
   },
   {
-    "ID": 5315,
+    "NUMERO": 5315,
     "NOMBRE": "VEGA DE ANZO"
   },
   {
-    "ID": 5316,
+    "NUMERO": 5316,
     "NOMBRE": "PEÑAFLOR DE GRADO"
   },
   {
-    "ID": 5317,
+    "NUMERO": 5317,
     "NOMBRE": "GRADO"
   },
   {
-    "ID": 5319,
+    "NUMERO": 5319,
     "NOMBRE": "SANDICHE"
   },
   {
-    "ID": 5320,
+    "NUMERO": 5320,
     "NOMBRE": "ACES"
   },
   {
-    "ID": 5321,
+    "NUMERO": 5321,
     "NOMBRE": "SAN ROMAN"
   },
   {
-    "ID": 5323,
+    "NUMERO": 5323,
     "NOMBRE": "BEIFAR"
   },
   {
-    "ID": 5325,
+    "NUMERO": 5325,
     "NOMBRE": "PRAVIA"
   },
   {
-    "ID": 5327,
+    "NUMERO": 5327,
     "NOMBRE": "SAN RANON"
   },
   {
-    "ID": 5329,
+    "NUMERO": 5329,
     "NOMBRE": "SAN ESTEBAN"
   },
   {
-    "ID": 5361,
+    "NUMERO": 5361,
     "NOMBRE": "BAIÑA"
   },
   {
-    "ID": 5369,
+    "NUMERO": 5369,
     "NOMBRE": "MIERES VASCO"
   },
   {
-    "ID": 5371,
+    "NUMERO": 5371,
     "NOMBRE": "CAUDALIA"
   },
   {
-    "ID": 5373,
+    "NUMERO": 5373,
     "NOMBRE": "FIGAREDO"
   },
   {
-    "ID": 5375,
+    "NUMERO": 5375,
     "NOMBRE": "UJO TARUELO"
   },
   {
-    "ID": 5376,
+    "NUMERO": 5376,
     "NOMBRE": "SANTA CRUZ"
   },
   {
-    "ID": 5377,
+    "NUMERO": 5377,
     "NOMBRE": "CABORANA"
   },
   {
-    "ID": 5379,
+    "NUMERO": 5379,
     "NOMBRE": "MOREDA DE ALLER"
   },
   {
-    "ID": 5380,
+    "NUMERO": 5380,
     "NOMBRE": "SAN ANTONIO"
   },
   {
-    "ID": 5381,
+    "NUMERO": 5381,
     "NOMBRE": "OYANCO"
   },
   {
-    "ID": 5382,
+    "NUMERO": 5382,
     "NOMBRE": "CORIGOS"
   },
   {
-    "ID": 5383,
+    "NUMERO": 5383,
     "NOMBRE": "PIÑERES"
   },
   {
-    "ID": 5384,
+    "NUMERO": 5384,
     "NOMBRE": "SANTA ANA-SOTO"
   },
   {
-    "ID": 5385,
+    "NUMERO": 5385,
     "NOMBRE": "CABAÑAQUINTA"
   },
   {
-    "ID": 5387,
+    "NUMERO": 5387,
     "NOMBRE": "LEVINCO"
   },
   {
-    "ID": 5389,
+    "NUMERO": 5389,
     "NOMBRE": "COLLANZO"
   },
   {
-    "ID": 5403,
+    "NUMERO": 5403,
     "NOMBRE": "TREMAÑES-LANGREO"
   },
   {
-    "ID": 5405,
+    "NUMERO": 5405,
     "NOMBRE": "SOTIELLO"
   },
   {
-    "ID": 5407,
+    "NUMERO": 5407,
     "NOMBRE": "PINZALES"
   },
   {
-    "ID": 5409,
+    "NUMERO": 5409,
     "NOMBRE": "AGUDA"
   },
   {
-    "ID": 5410,
+    "NUMERO": 5410,
     "NOMBRE": "XIXUN"
   },
   {
-    "ID": 5411,
-    "NOMBRE": "LA FLORIDA"
+    "NUMERO": 5411,
+    "NOMBRE": "LA FLORNUMEROA"
   },
   {
-    "ID": 5412,
+    "NUMERO": 5412,
     "NOMBRE": "PUENTE BURACOS"
   },
   {
-    "ID": 5413,
+    "NUMERO": 5413,
     "NOMBRE": "NOREÑA"
   },
   {
-    "ID": 5415,
+    "NUMERO": 5415,
     "NOMBRE": "BENDICION"
   },
   {
-    "ID": 5416,
+    "NUMERO": 5416,
     "NOMBRE": "VALDESOTO"
   },
   {
-    "ID": 5417,
+    "NUMERO": 5417,
     "NOMBRE": "CARBAYIN"
   },
   {
-    "ID": 5420,
+    "NUMERO": 5420,
     "NOMBRE": "CURUXONA"
   },
   {
-    "ID": 5421,
+    "NUMERO": 5421,
     "NOMBRE": "TUILLA"
   },
   {
-    "ID": 5425,
+    "NUMERO": 5425,
     "NOMBRE": "LA FELGUERA-VEGA"
   },
   {
-    "ID": 5429,
+    "NUMERO": 5429,
     "NOMBRE": "SAMA-LOS LLERONES"
   },
   {
-    "ID": 5431,
+    "NUMERO": 5431,
     "NOMBRE": "CIAÑO-ESCOBIO"
   },
   {
-    "ID": 5432,
+    "NUMERO": 5432,
     "NOMBRE": "SAN VICENTE"
   },
   {
-    "ID": 5433,
+    "NUMERO": 5433,
     "NOMBRE": "EL ENTREGO-LA OSCURA"
   },
   {
-    "ID": 5435,
+    "NUMERO": 5435,
     "NOMBRE": "CARROCERA"
   },
   {
-    "ID": 5436,
+    "NUMERO": 5436,
     "NOMBRE": "SAN MARTIN"
   },
   {
-    "ID": 5437,
+    "NUMERO": 5437,
     "NOMBRE": "SOTRONDIO"
   },
   {
-    "ID": 5439,
+    "NUMERO": 5439,
     "NOMBRE": "BLIMEA"
   },
   {
-    "ID": 5441,
+    "NUMERO": 5441,
     "NOMBRE": "BARREDOS"
   },
   {
-    "ID": 5443,
+    "NUMERO": 5443,
     "NOMBRE": "LAVIANA"
   },
   {
-    "ID": 5451,
+    "NUMERO": 5451,
     "NOMBRE": "BILBAO-LA CONCORDIA"
   },
   {
-    "ID": 5455,
+    "NUMERO": 5455,
     "NOMBRE": "BASURTO HOSPITAL"
   },
   {
-    "ID": 5457,
+    "NUMERO": 5457,
     "NOMBRE": "ZORROTZA-ZORROZGOITI"
   },
   {
-    "ID": 5459,
+    "NUMERO": 5459,
     "NOMBRE": "SANTA AGUEDA"
   },
   {
-    "ID": 5460,
+    "NUMERO": 5460,
     "NOMBRE": "KASTREXANA"
   },
   {
-    "ID": 5461,
+    "NUMERO": 5461,
     "NOMBRE": "IRAUREGI"
   },
   {
-    "ID": 5463,
+    "NUMERO": 5463,
     "NOMBRE": "ZARAMILLO"
   },
   {
-    "ID": 5465,
+    "NUMERO": 5465,
     "NOMBRE": "LA QUADRA"
   },
   {
-    "ID": 5467,
+    "NUMERO": 5467,
     "NOMBRE": "SODUPE"
   },
   {
-    "ID": 5469,
+    "NUMERO": 5469,
     "NOMBRE": "ARTXUBE"
   },
   {
-    "ID": 5470,
+    "NUMERO": 5470,
     "NOMBRE": "LAMBARRI"
   },
   {
-    "ID": 5471,
+    "NUMERO": 5471,
     "NOMBRE": "GÜEÑES"
   },
   {
-    "ID": 5473,
+    "NUMERO": 5473,
     "NOMBRE": "ARANGUREN"
   },
   {
-    "ID": 5474,
+    "NUMERO": 5474,
     "NOMBRE": "ARANGUREN-APEADERO"
   },
   {
-    "ID": 5475,
+    "NUMERO": 5475,
     "NOMBRE": "ZALLA"
   },
   {
-    "ID": 5477,
+    "NUMERO": 5477,
     "NOMBRE": "COLEGIO"
   },
   {
-    "ID": 5479,
+    "NUMERO": 5479,
     "NOMBRE": "IBARRA"
   },
   {
-    "ID": 5480,
+    "NUMERO": 5480,
     "NOMBRE": "BOLUNBURU"
   },
   {
-    "ID": 5481,
+    "NUMERO": 5481,
     "NOMBRE": "LA HERRERA"
   },
   {
-    "ID": 5483,
+    "NUMERO": 5483,
     "NOMBRE": "BALMASEDA"
   },
   {
-    "ID": 5484,
+    "NUMERO": 5484,
     "NOMBRE": "MIMETIZ"
   },
   {
-    "ID": 5485,
+    "NUMERO": 5485,
     "NOMBRE": "LA CALZADA"
   },
   {
-    "ID": 5487,
+    "NUMERO": 5487,
     "NOMBRE": "TRASLAVIÑA"
   },
   {
-    "ID": 5489,
+    "NUMERO": 5489,
     "NOMBRE": "ARTZENTALES"
   },
   {
-    "ID": 5493,
+    "NUMERO": 5493,
     "NOMBRE": "VILLAVERDE DE TRUCIOS"
   },
   {
-    "ID": 5497,
+    "NUMERO": 5497,
     "NOMBRE": "KARRANTZA"
   },
   {
-    "ID": 5504,
+    "NUMERO": 5504,
     "NOMBRE": "PARQUE PRINCIPADO"
   },
   {
-    "ID": 5505,
+    "NUMERO": 5505,
     "NOMBRE": "COLLOTO"
   },
   {
-    "ID": 5507,
+    "NUMERO": 5507,
     "NOMBRE": "MERES"
   },
   {
-    "ID": 5508,
+    "NUMERO": 5508,
     "NOMBRE": "FONCIELLO"
   },
   {
-    "ID": 5509,
+    "NUMERO": 5509,
     "NOMBRE": "EL BERRON"
   },
   {
-    "ID": 5511,
+    "NUMERO": 5511,
     "NOMBRE": "LA CARRERA DE SIERO"
   },
   {
-    "ID": 5513,
+    "NUMERO": 5513,
     "NOMBRE": "POLA DE SIERO"
   },
   {
-    "ID": 5515,
+    "NUMERO": 5515,
     "NOMBRE": "LOS CORROS"
   },
   {
-    "ID": 5517,
+    "NUMERO": 5517,
     "NOMBRE": "LIERES"
   },
   {
-    "ID": 5521,
+    "NUMERO": 5521,
     "NOMBRE": "EL REMEDIO"
   },
   {
-    "ID": 5522,
+    "NUMERO": 5522,
     "NOMBRE": "LLAMES"
   },
   {
-    "ID": 5523,
+    "NUMERO": 5523,
     "NOMBRE": "NAVA"
   },
   {
-    "ID": 5525,
+    "NUMERO": 5525,
     "NOMBRE": "FUENTE SANTA DE NAVA"
   },
   {
-    "ID": 5527,
+    "NUMERO": 5527,
     "NOMBRE": "CECEDA"
   },
   {
-    "ID": 5529,
+    "NUMERO": 5529,
     "NOMBRE": "CARANCOS"
   },
   {
-    "ID": 5531,
+    "NUMERO": 5531,
     "NOMBRE": "PINTUELES"
   },
   {
-    "ID": 5533,
+    "NUMERO": 5533,
     "NOMBRE": "INFIESTO"
   },
   {
-    "ID": 5534,
+    "NUMERO": 5534,
     "NOMBRE": "INFIESTO-APEADERO"
   },
   {
-    "ID": 5535,
+    "NUMERO": 5535,
     "NOMBRE": "VILLAMAYOR"
   },
   {
-    "ID": 5537,
+    "NUMERO": 5537,
     "NOMBRE": "SEBARES"
   },
   {
-    "ID": 5539,
+    "NUMERO": 5539,
     "NOMBRE": "SOTO DE DUEÑAS"
   },
   {
-    "ID": 5541,
+    "NUMERO": 5541,
     "NOMBRE": "OZANES"
   },
   {
-    "ID": 5542,
+    "NUMERO": 5542,
     "NOMBRE": "POLICLINICO"
   },
   {
-    "ID": 5543,
+    "NUMERO": 5543,
     "NOMBRE": "ARRIONDAS"
   },
   {
-    "ID": 5545,
+    "NUMERO": 5545,
     "NOMBRE": "FUENTES"
   },
   {
-    "ID": 5547,
+    "NUMERO": 5547,
     "NOMBRE": "TORAÑO"
   },
   {
-    "ID": 5549,
+    "NUMERO": 5549,
     "NOMBRE": "CUEVAS"
   },
   {
-    "ID": 5551,
+    "NUMERO": 5551,
     "NOMBRE": "LLOVIO"
   },
   {
-    "ID": 5552,
+    "NUMERO": 5552,
     "NOMBRE": "RIBADESELLA PUERTO"
   },
   {
-    "ID": 5553,
+    "NUMERO": 5553,
     "NOMBRE": "RIBADESELLA"
   },
   {
-    "ID": 5555,
+    "NUMERO": 5555,
     "NOMBRE": "CAMANGO"
   },
   {
-    "ID": 5557,
+    "NUMERO": 5557,
     "NOMBRE": "BELMONTE DE PRIA"
   },
   {
-    "ID": 5559,
+    "NUMERO": 5559,
     "NOMBRE": "NUEVA"
   },
   {
-    "ID": 5561,
+    "NUMERO": 5561,
     "NOMBRE": "VILLAHORMES"
   },
   {
-    "ID": 5563,
+    "NUMERO": 5563,
     "NOMBRE": "POSADA"
   },
   {
-    "ID": 5565,
+    "NUMERO": 5565,
     "NOMBRE": "BALMORI"
   },
   {
-    "ID": 5567,
+    "NUMERO": 5567,
     "NOMBRE": "CELORIO"
   },
   {
-    "ID": 5569,
+    "NUMERO": 5569,
     "NOMBRE": "POO"
   },
   {
-    "ID": 5571,
+    "NUMERO": 5571,
     "NOMBRE": "LLANES"
   },
   {
-    "ID": 5573,
+    "NUMERO": 5573,
     "NOMBRE": "SAN ROQUE DEL ACEBAL"
   },
   {
-    "ID": 5575,
-    "NOMBRE": "VIDIAGO"
+    "NUMERO": 5575,
+    "NOMBRE": "VNUMEROIAGO"
   },
   {
-    "ID": 5577,
+    "NUMERO": 5577,
     "NOMBRE": "PENDUELES"
   },
   {
-    "ID": 5579,
+    "NUMERO": 5579,
     "NOMBRE": "COLOMBRES"
   },
   {
-    "ID": 5602,
+    "NUMERO": 5602,
     "NOMBRE": "VALDECILLA LA MARGA"
   },
   {
-    "ID": 5603,
+    "NUMERO": 5603,
     "NOMBRE": "CAZOÑA"
   },
   {
-    "ID": 5604,
+    "NUMERO": 5604,
     "NOMBRE": "ADARZO"
   },
   {
-    "ID": 5605,
+    "NUMERO": 5605,
     "NOMBRE": "BEZANA"
   },
   {
-    "ID": 5607,
+    "NUMERO": 5607,
     "NOMBRE": "MORTERA"
   },
   {
-    "ID": 5609,
+    "NUMERO": 5609,
     "NOMBRE": "BOO DE PIELAGOS"
   },
   {
-    "ID": 5611,
+    "NUMERO": 5611,
     "NOMBRE": "MOGRO"
   },
   {
-    "ID": 5613,
+    "NUMERO": 5613,
     "NOMBRE": "GORNAZO"
   },
   {
-    "ID": 5615,
+    "NUMERO": 5615,
     "NOMBRE": "MAR"
   },
   {
-    "ID": 5617,
+    "NUMERO": 5617,
     "NOMBRE": "REQUEJADA"
   },
   {
-    "ID": 5619,
+    "NUMERO": 5619,
     "NOMBRE": "BARREDA"
   },
   {
-    "ID": 5620,
+    "NUMERO": 5620,
     "NOMBRE": "ALTAMIRA"
   },
   {
-    "ID": 5621,
+    "NUMERO": 5621,
     "NOMBRE": "TORRELAVEGA-CENTRO"
   },
   {
-    "ID": 5622,
+    "NUMERO": 5622,
     "NOMBRE": "GANZO"
   },
   {
-    "ID": 5623,
+    "NUMERO": 5623,
     "NOMBRE": "PUENTE SAN MIGUEL"
   },
   {
-    "ID": 5625,
+    "NUMERO": 5625,
     "NOMBRE": "SANTA ISABEL DE QUIJAS"
   },
   {
-    "ID": 5627,
+    "NUMERO": 5627,
     "NOMBRE": "SAN PEDRO DE RUDAGÜERA"
   },
   {
-    "ID": 5629,
+    "NUMERO": 5629,
     "NOMBRE": "GOLBARDO"
   },
   {
-    "ID": 5631,
+    "NUMERO": 5631,
     "NOMBRE": "CASAR DE PERIEDO"
   },
   {
-    "ID": 5633,
+    "NUMERO": 5633,
     "NOMBRE": "VIRGEN DE LA PEÑA"
   },
   {
-    "ID": 5635,
+    "NUMERO": 5635,
     "NOMBRE": "ONTORIA"
   },
   {
-    "ID": 5637,
+    "NUMERO": 5637,
     "NOMBRE": "CABEZON DE LA SAL"
   },
   {
-    "ID": 5641,
+    "NUMERO": 5641,
     "NOMBRE": "TRECEÑO"
   },
   {
-    "ID": 5643,
+    "NUMERO": 5643,
     "NOMBRE": "ROIZ"
   },
   {
-    "ID": 5644,
+    "NUMERO": 5644,
     "NOMBRE": "EL BARCENAL"
   },
   {
-    "ID": 5645,
+    "NUMERO": 5645,
     "NOMBRE": "SAN VICENTE DE LA BARQUERA"
   },
   {
-    "ID": 5647,
+    "NUMERO": 5647,
     "NOMBRE": "PESUES"
   },
   {
-    "ID": 5649,
+    "NUMERO": 5649,
     "NOMBRE": "UNQUERA"
   },
   {
-    "ID": 5651,
+    "NUMERO": 5651,
     "NOMBRE": "NUEVA MONTAÑA"
   },
   {
-    "ID": 5652,
+    "NUMERO": 5652,
     "NOMBRE": "VALLE REAL"
   },
   {
-    "ID": 5655,
-    "NOMBRE": "MALIAÑO LA VIDRIERA"
+    "NUMERO": 5655,
+    "NOMBRE": "MALIAÑO LA VNUMERORIERA"
   },
   {
-    "ID": 5657,
+    "NUMERO": 5657,
     "NOMBRE": "ASTILLERO"
   },
   {
-    "ID": 5658,
+    "NUMERO": 5658,
     "NOMBRE": "LA CANTABRICA"
   },
   {
-    "ID": 5659,
+    "NUMERO": 5659,
     "NOMBRE": "SAN SALVADOR"
   },
   {
-    "ID": 5661,
+    "NUMERO": 5661,
     "NOMBRE": "HERAS"
   },
   {
-    "ID": 5663,
+    "NUMERO": 5663,
     "NOMBRE": "OREJO"
   },
   {
-    "ID": 5665,
+    "NUMERO": 5665,
     "NOMBRE": "SOLARES"
   },
   {
-    "ID": 5667,
+    "NUMERO": 5667,
     "NOMBRE": "CECEÑAS"
   },
   {
-    "ID": 5669,
+    "NUMERO": 5669,
     "NOMBRE": "LA CAVADA"
   },
   {
-    "ID": 5671,
+    "NUMERO": 5671,
     "NOMBRE": "LIERGANES"
   },
   {
-    "ID": 5672,
+    "NUMERO": 5672,
     "NOMBRE": "PUENTE AGÜERO"
   },
   {
-    "ID": 5673,
+    "NUMERO": 5673,
     "NOMBRE": "VILLAVERDE  DE PONTONES"
   },
   {
-    "ID": 5675,
+    "NUMERO": 5675,
     "NOMBRE": "HOZ DE ANERO"
   },
   {
-    "ID": 5677,
+    "NUMERO": 5677,
     "NOMBRE": "BERANGA"
   },
   {
-    "ID": 5679,
+    "NUMERO": 5679,
     "NOMBRE": "GAMA"
   },
   {
-    "ID": 5681,
+    "NUMERO": 5681,
     "NOMBRE": "CICERO"
   },
   {
-    "ID": 5683,
+    "NUMERO": 5683,
     "NOMBRE": "TRETO"
   },
   {
-    "ID": 5685,
+    "NUMERO": 5685,
     "NOMBRE": "LIMPIAS"
   },
   {
-    "ID": 5687,
+    "NUMERO": 5687,
     "NOMBRE": "MARRON"
   },
   {
-    "ID": 5689,
+    "NUMERO": 5689,
     "NOMBRE": "UDALLA"
   },
   {
-    "ID": 5691,
+    "NUMERO": 5691,
     "NOMBRE": "GIBAJA"
   },
   {
-    "ID": 5721,
+    "NUMERO": 5721,
     "NOMBRE": "ARLA BERRON"
   },
   {
-    "ID": 5722,
+    "NUMERO": 5722,
     "NOMBRE": "UNGO NAVA"
   },
   {
-    "ID": 5724,
+    "NUMERO": 5724,
     "NOMBRE": "MERCADILLO-VILLASANA"
   },
   {
-    "ID": 5727,
+    "NUMERO": 5727,
     "NOMBRE": "CADAGUA"
   },
   {
-    "ID": 5730,
+    "NUMERO": 5730,
     "NOMBRE": "BERCEDO-MONTIJA"
   },
   {
-    "ID": 5731,
+    "NUMERO": 5731,
     "NOMBRE": "QUINTANA DE LOS PRADOS"
   },
   {
-    "ID": 5732,
+    "NUMERO": 5732,
     "NOMBRE": "ESPINOSA DE LOS MONTEROS"
   },
   {
-    "ID": 5733,
+    "NUMERO": 5733,
     "NOMBRE": "REDONDO"
   },
   {
-    "ID": 5734,
+    "NUMERO": 5734,
     "NOMBRE": "SOTOSCUEVA"
   },
   {
-    "ID": 5735,
+    "NUMERO": 5735,
     "NOMBRE": "PEDROSA"
   },
   {
-    "ID": 5736,
-    "NOMBRE": "DOSANTE CIDAD"
+    "NUMERO": 5736,
+    "NOMBRE": "DOSANTE CNUMEROAD"
   },
   {
-    "ID": 5737,
+    "NUMERO": 5737,
     "NOMBRE": "ROBREDO AHEDO"
   },
   {
-    "ID": 5738,
+    "NUMERO": 5738,
     "NOMBRE": "SONCILLO"
   },
   {
-    "ID": 5739,
+    "NUMERO": 5739,
     "NOMBRE": "CABAÑAS DE VIRTUS"
   },
   {
-    "ID": 5740,
+    "NUMERO": 5740,
     "NOMBRE": "ARIJA"
   },
   {
-    "ID": 5741,
+    "NUMERO": 5741,
     "NOMBRE": "LLANO"
   },
   {
-    "ID": 5742,
+    "NUMERO": 5742,
     "NOMBRE": "LAS ROZAS DE VALDEARROYO"
   },
   {
-    "ID": 5743,
+    "NUMERO": 5743,
     "NOMBRE": "MONTES CLAROS"
   },
   {
-    "ID": 5744,
+    "NUMERO": 5744,
     "NOMBRE": "LOS CARABEOS"
   },
   {
-    "ID": 5747,
+    "NUMERO": 5747,
     "NOMBRE": "CILLAMAYOR"
   },
   {
-    "ID": 5748,
+    "NUMERO": 5748,
     "NOMBRE": "SALINAS DE PISUERGA"
   },
   {
-    "ID": 5749,
+    "NUMERO": 5749,
     "NOMBRE": "VADO-CERVERA"
   },
   {
-    "ID": 5750,
+    "NUMERO": 5750,
     "NOMBRE": "CASTREJON DE LA PEÑA"
   },
   {
-    "ID": 5751,
+    "NUMERO": 5751,
     "NOMBRE": "VILLAVERDE TARILONTE"
   },
   {
-    "ID": 5752,
+    "NUMERO": 5752,
     "NOMBRE": "SANTIBAÑEZ DE LA PEÑA"
   },
   {
-    "ID": 5753,
+    "NUMERO": 5753,
     "NOMBRE": "GUARDO-APEADERO"
   },
   {
-    "ID": 5754,
+    "NUMERO": 5754,
     "NOMBRE": "GUARDO"
   },
   {
-    "ID": 5755,
+    "NUMERO": 5755,
     "NOMBRE": "LA LLAMA DE LA GUZPEÑA"
   },
   {
-    "ID": 5756,
+    "NUMERO": 5756,
     "NOMBRE": "LA ESPINA"
   },
   {
-    "ID": 5757,
+    "NUMERO": 5757,
     "NOMBRE": "VALCUENDE"
   },
   {
-    "ID": 5758,
+    "NUMERO": 5758,
     "NOMBRE": "PUENTE ALMUHEY"
   },
   {
-    "ID": 5759,
+    "NUMERO": 5759,
     "NOMBRE": "PRADO DE LA GUZPEÑA"
   },
   {
-    "ID": 5760,
+    "NUMERO": 5760,
     "NOMBRE": "VALLE DE LAS CASAS"
   },
   {
-    "ID": 5761,
+    "NUMERO": 5761,
     "NOMBRE": "CISTIERNA"
   },
   {
-    "ID": 5762,
+    "NUMERO": 5762,
     "NOMBRE": "YUGUEROS"
   },
   {
-    "ID": 5763,
+    "NUMERO": 5763,
     "NOMBRE": "LA ERCINA"
   },
   {
-    "ID": 5764,
+    "NUMERO": 5764,
     "NOMBRE": "BARRILLOS"
   },
   {
-    "ID": 5765,
+    "NUMERO": 5765,
     "NOMBRE": "LA LOSILLA"
   },
   {
-    "ID": 5766,
+    "NUMERO": 5766,
     "NOMBRE": "BOÑAR"
   },
   {
-    "ID": 5767,
+    "NUMERO": 5767,
     "NOMBRE": "LA VECILLA"
   },
   {
-    "ID": 5768,
+    "NUMERO": 5768,
     "NOMBRE": "AVIADOS"
   },
   {
-    "ID": 5769,
+    "NUMERO": 5769,
     "NOMBRE": "LA VALCUEVA"
   },
   {
-    "ID": 5770,
+    "NUMERO": 5770,
     "NOMBRE": "MATALLANA"
   },
   {
-    "ID": 5771,
+    "NUMERO": 5771,
     "NOMBRE": "PARDAVE"
   },
   {
-    "ID": 5772,
+    "NUMERO": 5772,
     "NOMBRE": "PEDRUN"
   },
   {
-    "ID": 5773,
+    "NUMERO": 5773,
     "NOMBRE": "MANZANEDA"
   },
   {
-    "ID": 5774,
+    "NUMERO": 5774,
     "NOMBRE": "GARRAFE"
   },
   {
-    "ID": 5775,
+    "NUMERO": 5775,
     "NOMBRE": "PALAZUELO"
   },
   {
-    "ID": 5776,
+    "NUMERO": 5776,
     "NOMBRE": "SAN FELIZ"
   },
   {
-    "ID": 5777,
+    "NUMERO": 5777,
     "NOMBRE": "VILLAQUILAMBRE"
   },
   {
-    "ID": 5778,
+    "NUMERO": 5778,
     "NOMBRE": "LEÓN, PADRE ISLA"
   },
   {
-    "ID": 5784,
+    "NUMERO": 5784,
     "NOMBRE": "HOSPITALES"
   },
   {
-    "ID": 5785,
+    "NUMERO": 5785,
     "NOMBRE": "VILLASINTA"
   },
   {
-    "ID": 5786,
+    "NUMERO": 5786,
     "NOMBRE": "MATUECA"
   },
   {
-    "ID": 5787,
+    "NUMERO": 5787,
     "NOMBRE": "NAREDO"
   },
   {
-    "ID": 5788,
+    "NUMERO": 5788,
     "NOMBRE": "ROBLES"
   },
   {
-    "ID": 5789,
+    "NUMERO": 5789,
     "NOMBRE": "CAMPOHERMOSO"
   },
   {
-    "ID": 5790,
+    "NUMERO": 5790,
     "NOMBRE": "SORRIBA"
   },
   {
-    "ID": 5793,
+    "NUMERO": 5793,
     "NOMBRE": "LA MATA DE LA RIBA"
   },
   {
-    "ID": 5794,
+    "NUMERO": 5794,
     "NOMBRE": "LA RAYA"
   },
   {
-    "ID": 5795,
+    "NUMERO": 5795,
     "NOMBRE": "OTERO"
   },
   {
-    "ID": 5796,
+    "NUMERO": 5796,
     "NOMBRE": "VILLA ROMANA"
   },
   {
-    "ID": 5797,
+    "NUMERO": 5797,
     "NOMBRE": "VALDEPIELAGO"
   },
   {
-    "ID": 5798,
+    "NUMERO": 5798,
     "NOMBRE": "LA DEVESA"
   },
   {
-    "ID": 5799,
+    "NUMERO": 5799,
     "NOMBRE": "CEREZAL DE LA GUZPEÑA"
   },
   {
-    "ID": 5801,
+    "NUMERO": 5801,
     "NOMBRE": "VENTAS SAN MAMES"
   },
   {
-    "ID": 5803,
-    "NOMBRE": "LA ASUNCION UNIVERSIDAD"
+    "NUMERO": 5803,
+    "NOMBRE": "LA ASUNCION UNIVERSNUMEROAD"
   },
   {
-    "ID": 5805,
+    "NUMERO": 5805,
     "NOMBRE": "BARRIO DE LAS OLLAS"
   },
   {
-    "ID": 5807,
+    "NUMERO": 5807,
     "NOMBRE": "VALDERILLA"
   },
   {
-    "ID": 5951,
+    "NUMERO": 5951,
     "NOMBRE": "CARTAGENA-PLAZA BASTARRECHE"
   },
   {
-    "ID": 5952,
+    "NUMERO": 5952,
     "NOMBRE": "HOSPITAL"
   },
   {
-    "ID": 5953,
+    "NUMERO": 5953,
     "NOMBRE": "MEDIA LEGUA"
   },
   {
-    "ID": 5955,
+    "NUMERO": 5955,
     "NOMBRE": "VISTA ALEGRE"
   },
   {
-    "ID": 5957,
+    "NUMERO": 5957,
     "NOMBRE": "ABREVADERO"
   },
   {
-    "ID": 5959,
+    "NUMERO": 5959,
     "NOMBRE": "ALUMBRES"
   },
   {
-    "ID": 5961,
+    "NUMERO": 5961,
     "NOMBRE": "LA ESPERANZA"
   },
   {
-    "ID": 5963,
+    "NUMERO": 5963,
     "NOMBRE": "LA UNION VIEJA"
   },
   {
-    "ID": 5965,
+    "NUMERO": 5965,
     "NOMBRE": "LA UNION"
   },
   {
-    "ID": 5967,
+    "NUMERO": 5967,
     "NOMBRE": "SIERRA MINERA"
   },
   {
-    "ID": 5969,
+    "NUMERO": 5969,
     "NOMBRE": "LLANO DEL BEAL"
   },
   {
-    "ID": 5971,
+    "NUMERO": 5971,
     "NOMBRE": "EL ESTRECHO"
   },
   {
-    "ID": 5973,
+    "NUMERO": 5973,
     "NOMBRE": "LOS NIETOS-VIEJOS"
   },
   {
-    "ID": 5975,
+    "NUMERO": 5975,
     "NOMBRE": "LOS NIETOS-PESCADERIA"
   },
   {
-    "ID": 5977,
+    "NUMERO": 5977,
     "NOMBRE": "LOS NIETOS"
   },
   {
-    "ID": 6001,
+    "NUMERO": 6001,
     "NOMBRE": "LIBRILLA"
   },
   {
-    "ID": 6002,
+    "NUMERO": 6002,
     "NOMBRE": "ALHAMA DE MURCIA"
   },
   {
-    "ID": 6003,
+    "NUMERO": 6003,
     "NOMBRE": "TOTANA"
   },
   {
-    "ID": 6004,
+    "NUMERO": 6004,
     "NOMBRE": "LA HOYA"
   },
   {
-    "ID": 6005,
+    "NUMERO": 6005,
     "NOMBRE": "LORCA-SAN DIEGO"
   },
   {
-    "ID": 6006,
+    "NUMERO": 6006,
     "NOMBRE": "LORCA-SUTULLENA"
   },
   {
-    "ID": 6007,
+    "NUMERO": 6007,
     "NOMBRE": "PUERTO LUMBRERAS"
   },
   {
-    "ID": 6008,
+    "NUMERO": 6008,
     "NOMBRE": "ALCANTARILLA-LOS ROMANOS"
   },
   {
-    "ID": 6100,
+    "NUMERO": 6100,
     "NOMBRE": "ALMENDRICOS"
   },
   {
-    "ID": 7001,
+    "NUMERO": 7001,
     "NOMBRE": "PULPI"
   },
   {
-    "ID": 7003,
+    "NUMERO": 7003,
     "NOMBRE": "JARAVIA"
   },
   {
-    "ID": 7004,
+    "NUMERO": 7004,
     "NOMBRE": "AGUILAS"
   },
   {
-    "ID": 7007,
+    "NUMERO": 7007,
     "NOMBRE": "AGUILAS-EL LABRADORCICO"
   },
   {
-    "ID": 8004,
+    "NUMERO": 8004,
     "NOMBRE": "SEGOVIA-GUIOMAR"
   },
   {
-    "ID": 8223,
+    "NUMERO": 8223,
     "NOMBRE": "VIGO URZAIZ"
   },
   {
-    "ID": 8224,
+    "NUMERO": 8224,
     "NOMBRE": "REDONDELA-AV"
   },
   {
-    "ID": 8240,
+    "NUMERO": 8240,
     "NOMBRE": "MEDINA DEL CAMPO A.V."
   },
   {
-    "ID": 8247,
-    "NOMBRE": "SANABRIA ALTA VELOCIDAD"
+    "NUMERO": 8247,
+    "NOMBRE": "SANABRIA ALTA VELOCNUMEROAD"
   },
   {
-    "ID": 10000,
-    "NOMBRE": "MADRID-PRINCIPE PIO"
+    "NUMERO": 10000,
+    "NOMBRE": "MADRNUMERO-PRINCIPE PIO"
   },
   {
-    "ID": 10001,
+    "NUMERO": 10001,
     "NOMBRE": "ARAVACA"
   },
   {
-    "ID": 10002,
+    "NUMERO": 10002,
     "NOMBRE": "POZUELO"
   },
   {
-    "ID": 10005,
+    "NUMERO": 10005,
     "NOMBRE": "LAS ROZAS"
   },
   {
-    "ID": 10007,
+    "NUMERO": 10007,
     "NOMBRE": "MAJADAHONDA"
   },
   {
-    "ID": 10010,
+    "NUMERO": 10010,
     "NOMBRE": "EL BARRIAL-CENTRO COMERCIAL-POZUELO"
   },
   {
-    "ID": 10100,
+    "NUMERO": 10100,
     "NOMBRE": "PINAR DE LAS ROZAS"
   },
   {
-    "ID": 10101,
+    "NUMERO": 10101,
     "NOMBRE": "LAS MATAS"
   },
   {
-    "ID": 10103,
+    "NUMERO": 10103,
     "NOMBRE": "TORRELODONES"
   },
   {
-    "ID": 10104,
+    "NUMERO": 10104,
     "NOMBRE": "GALAPAGAR-LA NAVATA"
   },
   {
-    "ID": 10200,
+    "NUMERO": 10200,
     "NOMBRE": "VILLALBA DE GUADARRAMA"
   },
   {
-    "ID": 10201,
+    "NUMERO": 10201,
     "NOMBRE": "SAN YAGO"
   },
   {
-    "ID": 10202,
+    "NUMERO": 10202,
     "NOMBRE": "LAS ZORRERAS-NAVALQUEJIGO"
   },
   {
-    "ID": 10203,
+    "NUMERO": 10203,
     "NOMBRE": "EL ESCORIAL"
   },
   {
-    "ID": 10204,
+    "NUMERO": 10204,
     "NOMBRE": "ZARZALEJO"
   },
   {
-    "ID": 10205,
+    "NUMERO": 10205,
     "NOMBRE": "ROBLEDO DE CHAVELA"
   },
   {
-    "ID": 10206,
+    "NUMERO": 10206,
     "NOMBRE": "SANTA MARIA DE LA ALAMEDA-PEGUERINOS"
   },
   {
-    "ID": 10207,
+    "NUMERO": 10207,
     "NOMBRE": "LAS NAVAS DEL MARQUES"
   },
   {
-    "ID": 10208,
+    "NUMERO": 10208,
     "NOMBRE": "NAVALPERAL"
   },
   {
-    "ID": 10209,
+    "NUMERO": 10209,
     "NOMBRE": "EL PIMPOLLAR"
   },
   {
-    "ID": 10300,
+    "NUMERO": 10300,
     "NOMBRE": "HERRADON-LA CAÑADA"
   },
   {
-    "ID": 10302,
+    "NUMERO": 10302,
     "NOMBRE": "GUIMORCONDO"
   },
   {
-    "ID": 10400,
+    "NUMERO": 10400,
     "NOMBRE": "AVILA"
   },
   {
-    "ID": 10409,
+    "NUMERO": 10409,
     "NOMBRE": "AREVALO"
   },
   {
-    "ID": 10500,
+    "NUMERO": 10500,
     "NOMBRE": "MEDINA DEL CAMPO"
   },
   {
-    "ID": 10501,
+    "NUMERO": 10501,
     "NOMBRE": "POZALDEZ"
   },
   {
-    "ID": 10502,
+    "NUMERO": 10502,
     "NOMBRE": "MATAPOZUELOS"
   },
   {
-    "ID": 10503,
+    "NUMERO": 10503,
     "NOMBRE": "VALDESTILLAS"
   },
   {
-    "ID": 10504,
+    "NUMERO": 10504,
     "NOMBRE": "VIANA"
   },
   {
-    "ID": 10600,
-    "NOMBRE": "VALLADOLID-CAMPO GRANDE"
+    "NUMERO": 10600,
+    "NOMBRE": "VALLADOLNUMERO-CAMPO GRANDE"
   },
   {
-    "ID": 10602,
+    "NUMERO": 10602,
     "NOMBRE": "CABEZON DEL PISUERGA"
   },
   {
-    "ID": 10603,
+    "NUMERO": 10603,
     "NOMBRE": "CORCOS-AGUILAREJO"
   },
   {
-    "ID": 10604,
+    "NUMERO": 10604,
     "NOMBRE": "CUBILLAS DE SANTA MARTA"
   },
   {
-    "ID": 10605,
+    "NUMERO": 10605,
     "NOMBRE": "DUEÑAS"
   },
   {
-    "ID": 10610,
-    "NOMBRE": "VALLADOLID UNIVERSIDAD"
+    "NUMERO": 10610,
+    "NOMBRE": "VALLADOLNUMERO UNIVERSNUMEROAD"
   },
   {
-    "ID": 11000,
+    "NUMERO": 11000,
     "NOMBRE": "VENTA DE BAÑOS"
   },
   {
-    "ID": 11004,
+    "NUMERO": 11004,
     "NOMBRE": "MAGAZ"
   },
   {
-    "ID": 11006,
+    "NUMERO": 11006,
     "NOMBRE": "QUINTANA DEL PUENTE"
   },
   {
-    "ID": 11009,
+    "NUMERO": 11009,
     "NOMBRE": "VILLAQUIRAN"
   },
   {
-    "ID": 11014,
+    "NUMERO": 11014,
     "NOMBRE": "BURGOS ROSA DE LIMA"
   },
   {
-    "ID": 11109,
+    "NUMERO": 11109,
     "NOMBRE": "BRIVIESCA"
   },
   {
-    "ID": 11111,
+    "NUMERO": 11111,
     "NOMBRE": "PANCORBO"
   },
   {
-    "ID": 11200,
+    "NUMERO": 11200,
     "NOMBRE": "MIRANDA DE EBRO"
   },
   {
-    "ID": 11203,
+    "NUMERO": 11203,
     "NOMBRE": "MANZANOS"
   },
   {
-    "ID": 11204,
+    "NUMERO": 11204,
     "NOMBRE": "LA PUEBLA DE ARGANZON"
   },
   {
-    "ID": 11205,
+    "NUMERO": 11205,
     "NOMBRE": "NANCLARES-LANGRAIZ"
   },
   {
-    "ID": 11208,
+    "NUMERO": 11208,
     "NOMBRE": "VITORIA/GASTEIZ"
   },
   {
-    "ID": 11210,
+    "NUMERO": 11210,
     "NOMBRE": "ALEGRIA-DULANTZI"
   },
   {
-    "ID": 11212,
+    "NUMERO": 11212,
     "NOMBRE": "AGURAIN/SALVATIERRA DE ALAVA"
   },
   {
-    "ID": 11213,
+    "NUMERO": 11213,
     "NOMBRE": "ARAIA"
   },
   {
-    "ID": 11300,
+    "NUMERO": 11300,
     "NOMBRE": "ALTSASU"
   },
   {
-    "ID": 11305,
+    "NUMERO": 11305,
     "NOMBRE": "BRINKOLA"
   },
   {
-    "ID": 11306,
+    "NUMERO": 11306,
     "NOMBRE": "LEGAZPI"
   },
   {
-    "ID": 11400,
+    "NUMERO": 11400,
     "NOMBRE": "ZUMARRAGA"
   },
   {
-    "ID": 11402,
+    "NUMERO": 11402,
     "NOMBRE": "ORMAIZTEGUI"
   },
   {
-    "ID": 11404,
+    "NUMERO": 11404,
     "NOMBRE": "BEASAIN"
   },
   {
-    "ID": 11405,
+    "NUMERO": 11405,
     "NOMBRE": "ORDIZIA"
   },
   {
-    "ID": 11406,
+    "NUMERO": 11406,
     "NOMBRE": "ITSASONDO"
   },
   {
-    "ID": 11407,
+    "NUMERO": 11407,
     "NOMBRE": "LEGORRETA"
   },
   {
-    "ID": 11408,
+    "NUMERO": 11408,
     "NOMBRE": "IKAZTEGIETA"
   },
   {
-    "ID": 11409,
+    "NUMERO": 11409,
     "NOMBRE": "ALEGIA"
   },
   {
-    "ID": 11500,
+    "NUMERO": 11500,
     "NOMBRE": "TOLOSA"
   },
   {
-    "ID": 11501,
+    "NUMERO": 11501,
     "NOMBRE": "TOLOSA-CENTRO"
   },
   {
-    "ID": 11502,
+    "NUMERO": 11502,
     "NOMBRE": "ANOETA"
   },
   {
-    "ID": 11503,
+    "NUMERO": 11503,
     "NOMBRE": "BILLABONA-ZIZURKIL"
   },
   {
-    "ID": 11504,
+    "NUMERO": 11504,
     "NOMBRE": "ANDOAIN-CENTRO"
   },
   {
-    "ID": 11505,
+    "NUMERO": 11505,
     "NOMBRE": "ANDOAIN"
   },
   {
-    "ID": 11506,
+    "NUMERO": 11506,
     "NOMBRE": "URNIETA"
   },
   {
-    "ID": 11507,
+    "NUMERO": 11507,
     "NOMBRE": "HERNANI-CENTRO"
   },
   {
-    "ID": 11508,
+    "NUMERO": 11508,
     "NOMBRE": "HERNANI"
   },
   {
-    "ID": 11509,
+    "NUMERO": 11509,
     "NOMBRE": "MARTUTENE"
   },
   {
-    "ID": 11510,
+    "NUMERO": 11510,
     "NOMBRE": "LOIOLA"
   },
   {
-    "ID": 11511,
+    "NUMERO": 11511,
     "NOMBRE": "SAN SEBASTIAN/DONOSTIA"
   },
   {
-    "ID": 11512,
+    "NUMERO": 11512,
     "NOMBRE": "GROS"
   },
   {
-    "ID": 11513,
+    "NUMERO": 11513,
     "NOMBRE": "ATEGORRIETA"
   },
   {
-    "ID": 11514,
+    "NUMERO": 11514,
     "NOMBRE": "HERRERA"
   },
   {
-    "ID": 11515,
+    "NUMERO": 11515,
     "NOMBRE": "PASAIA"
   },
   {
-    "ID": 11516,
+    "NUMERO": 11516,
     "NOMBRE": "LEZO-RENTERIA"
   },
   {
-    "ID": 11518,
+    "NUMERO": 11518,
     "NOMBRE": "VENTAS DE IRUN"
   },
   {
-    "ID": 11522,
+    "NUMERO": 11522,
     "NOMBRE": "INTXAURRONDO"
   },
   {
-    "ID": 11600,
+    "NUMERO": 11600,
     "NOMBRE": "IRUN"
   },
   {
-    "ID": 11602,
+    "NUMERO": 11602,
     "NOMBRE": "HENDAYA"
   },
   {
-    "ID": 12001,
+    "NUMERO": 12001,
     "NOMBRE": "LOS NEGRALES"
   },
   {
-    "ID": 12002,
+    "NUMERO": 12002,
     "NOMBRE": "ALPEDRETE"
   },
   {
-    "ID": 12004,
+    "NUMERO": 12004,
     "NOMBRE": "COLLADO MEDIANO"
   },
   {
-    "ID": 12005,
+    "NUMERO": 12005,
     "NOMBRE": "LOS MOLINOS-GUADARRAMA"
   },
   {
-    "ID": 12006,
+    "NUMERO": 12006,
     "NOMBRE": "CERCEDILLA"
   },
   {
-    "ID": 12007,
+    "NUMERO": 12007,
     "NOMBRE": "TABLADA"
   },
   {
-    "ID": 12008,
+    "NUMERO": 12008,
     "NOMBRE": "GUDILLOS"
   },
   {
-    "ID": 12009,
+    "NUMERO": 12009,
     "NOMBRE": "SAN RAFAEL"
   },
   {
-    "ID": 12010,
+    "NUMERO": 12010,
     "NOMBRE": "EL ESPINAR"
   },
   {
-    "ID": 12011,
+    "NUMERO": 12011,
     "NOMBRE": "LOS ANGELES DE SAN RAFAEL"
   },
   {
-    "ID": 12012,
+    "NUMERO": 12012,
     "NOMBRE": "OTERO-HERREROS"
   },
   {
-    "ID": 12013,
+    "NUMERO": 12013,
     "NOMBRE": "ORTIGOSA DEL MONTE"
   },
   {
-    "ID": 12014,
+    "NUMERO": 12014,
     "NOMBRE": "NAVAS DE RIOFRIO-LA LOSA"
   },
   {
-    "ID": 12020,
+    "NUMERO": 12020,
     "NOMBRE": "PUERTO DE NAVACERRADA"
   },
   {
-    "ID": 12023,
+    "NUMERO": 12023,
     "NOMBRE": "LOS COTOS"
   },
   {
-    "ID": 12100,
+    "NUMERO": 12100,
     "NOMBRE": "SEGOVIA"
   },
   {
-    "ID": 13100,
+    "NUMERO": 13100,
     "NOMBRE": "ORDUÑA"
   },
   {
-    "ID": 13101,
+    "NUMERO": 13101,
     "NOMBRE": "AMURRIO"
   },
   {
-    "ID": 13102,
+    "NUMERO": 13102,
     "NOMBRE": "SALBIO"
   },
   {
-    "ID": 13103,
+    "NUMERO": 13103,
     "NOMBRE": "LUIAONDO"
   },
   {
-    "ID": 13104,
+    "NUMERO": 13104,
     "NOMBRE": "SANTA CRUZ DE LLODIO"
   },
   {
-    "ID": 13106,
+    "NUMERO": 13106,
     "NOMBRE": "LLODIO"
   },
   {
-    "ID": 13107,
+    "NUMERO": 13107,
     "NOMBRE": "ARETA"
   },
   {
-    "ID": 13108,
-    "NOMBRE": "ARBIDE"
+    "NUMERO": 13108,
+    "NOMBRE": "ARBNUMEROE"
   },
   {
-    "ID": 13109,
+    "NUMERO": 13109,
     "NOMBRE": "ARRANKUDIAGA"
   },
   {
-    "ID": 13110,
+    "NUMERO": 13110,
     "NOMBRE": "UGAO-MIRABALLES"
   },
   {
-    "ID": 13111,
+    "NUMERO": 13111,
     "NOMBRE": "ARRIGORRIAGA"
   },
   {
-    "ID": 13112,
+    "NUMERO": 13112,
     "NOMBRE": "BASAURI"
   },
   {
-    "ID": 13113,
-    "NOMBRE": "BIDEBIETA-BASAURI"
+    "NUMERO": 13113,
+    "NOMBRE": "BNUMEROEBIETA-BASAURI"
   },
   {
-    "ID": 13114,
+    "NUMERO": 13114,
     "NOMBRE": "OLLARGAN"
   },
   {
-    "ID": 13115,
+    "NUMERO": 13115,
     "NOMBRE": "BAKIOLA"
   },
   {
-    "ID": 13116,
+    "NUMERO": 13116,
     "NOMBRE": "IÑARRATXU"
   },
   {
-    "ID": 13117,
+    "NUMERO": 13117,
     "NOMBRE": "ARAKALDO"
   },
   {
-    "ID": 13118,
+    "NUMERO": 13118,
     "NOMBRE": "ABAROA-SAN MIGUEL"
   },
   {
-    "ID": 13119,
+    "NUMERO": 13119,
     "NOMBRE": "LA PEÑA DE BILBAO"
   },
   {
-    "ID": 13120,
+    "NUMERO": 13120,
     "NOMBRE": "MIRIBILLA"
   },
   {
-    "ID": 13121,
+    "NUMERO": 13121,
     "NOMBRE": "AMURRIO IPARRALDE"
   },
   {
-    "ID": 13200,
+    "NUMERO": 13200,
     "NOMBRE": "INTERMODAL ABANDO INDALECIO PRIETO"
   },
   {
-    "ID": 13205,
+    "NUMERO": 13205,
     "NOMBRE": "ZABALBURU"
   },
   {
-    "ID": 13206,
+    "NUMERO": 13206,
     "NOMBRE": "AMETZOLA"
   },
   {
-    "ID": 13207,
+    "NUMERO": 13207,
     "NOMBRE": "AUTONOMIA"
   },
   {
-    "ID": 13208,
+    "NUMERO": 13208,
     "NOMBRE": "SAN MAMES"
   },
   {
-    "ID": 13303,
+    "NUMERO": 13303,
     "NOMBRE": "OLABEAGA"
   },
   {
-    "ID": 13304,
+    "NUMERO": 13304,
     "NOMBRE": "ZORROTZA"
   },
   {
-    "ID": 13305,
+    "NUMERO": 13305,
     "NOMBRE": "LUTXANA-BARAKALDO"
   },
   {
-    "ID": 13400,
+    "NUMERO": 13400,
     "NOMBRE": "DESERTU-BARAKALDO"
   },
   {
-    "ID": 13401,
+    "NUMERO": 13401,
     "NOMBRE": "SESTAO"
   },
   {
-    "ID": 13402,
+    "NUMERO": 13402,
     "NOMBRE": "LA IBERIA"
   },
   {
-    "ID": 13403,
+    "NUMERO": 13403,
     "NOMBRE": "PORTUGALETE"
   },
   {
-    "ID": 13404,
+    "NUMERO": 13404,
     "NOMBRE": "PEÑOTA"
   },
   {
-    "ID": 13405,
+    "NUMERO": 13405,
     "NOMBRE": "SANTURTZI"
   },
   {
-    "ID": 13501,
+    "NUMERO": 13501,
     "NOMBRE": "GALINDO"
   },
   {
-    "ID": 13502,
+    "NUMERO": 13502,
     "NOMBRE": "TRAPAGA"
   },
   {
-    "ID": 13503,
+    "NUMERO": 13503,
     "NOMBRE": "VALLE DE TRAPAGA/TRAPAGARAN"
   },
   {
-    "ID": 13504,
+    "NUMERO": 13504,
     "NOMBRE": "ORTUELLA"
   },
   {
-    "ID": 13505,
+    "NUMERO": 13505,
     "NOMBRE": "PUTXETA"
   },
   {
-    "ID": 13506,
+    "NUMERO": 13506,
     "NOMBRE": "MUSKIZ"
   },
   {
-    "ID": 13507,
+    "NUMERO": 13507,
     "NOMBRE": "URIOSTE"
   },
   {
-    "ID": 13508,
+    "NUMERO": 13508,
     "NOMBRE": "GALLARTA"
   },
   {
-    "ID": 13509,
+    "NUMERO": 13509,
     "NOMBRE": "SAGRADA FAMILIA"
   },
   {
-    "ID": 14100,
+    "NUMERO": 14100,
     "NOMBRE": "PALENCIA"
   },
   {
-    "ID": 14101,
+    "NUMERO": 14101,
     "NOMBRE": "MONZON DE CAMPOS"
   },
   {
-    "ID": 14102,
+    "NUMERO": 14102,
     "NOMBRE": "AMUSCO"
   },
   {
-    "ID": 14103,
+    "NUMERO": 14103,
     "NOMBRE": "PIÑA"
   },
   {
-    "ID": 14104,
+    "NUMERO": 14104,
     "NOMBRE": "FROMISTA"
   },
   {
-    "ID": 14107,
+    "NUMERO": 14107,
     "NOMBRE": "OSORNO"
   },
   {
-    "ID": 14108,
+    "NUMERO": 14108,
     "NOMBRE": "ESPINOSA DE VILLAGONZALO"
   },
   {
-    "ID": 14111,
+    "NUMERO": 14111,
     "NOMBRE": "HERRERA DEL PISUERGA"
   },
   {
-    "ID": 14112,
+    "NUMERO": 14112,
     "NOMBRE": "ALAR DEL REY"
   },
   {
-    "ID": 14113,
+    "NUMERO": 14113,
     "NOMBRE": "MAVE"
   },
   {
-    "ID": 14114,
+    "NUMERO": 14114,
     "NOMBRE": "AGUILAR DE CAMPOO"
   },
   {
-    "ID": 14115,
+    "NUMERO": 14115,
     "NOMBRE": "QUINTANILLA DE LAS TORRES"
   },
   {
-    "ID": 14117,
+    "NUMERO": 14117,
     "NOMBRE": "EL CARRION"
   },
   {
-    "ID": 14200,
+    "NUMERO": 14200,
     "NOMBRE": "MATAPORQUERA"
   },
   {
-    "ID": 14202,
+    "NUMERO": 14202,
     "NOMBRE": "REINOSA"
   },
   {
-    "ID": 14203,
+    "NUMERO": 14203,
     "NOMBRE": "LANTUENO-SANTIURDE"
   },
   {
-    "ID": 14204,
+    "NUMERO": 14204,
     "NOMBRE": "PESQUERA"
   },
   {
-    "ID": 14206,
+    "NUMERO": 14206,
     "NOMBRE": "BARCENA"
   },
   {
-    "ID": 14207,
+    "NUMERO": 14207,
     "NOMBRE": "MOLLEDO-PORTOLIN"
   },
   {
-    "ID": 14208,
+    "NUMERO": 14208,
     "NOMBRE": "SANTA CRUZ DE IGUÑA"
   },
   {
-    "ID": 14209,
+    "NUMERO": 14209,
     "NOMBRE": "LAS FRAGUAS"
   },
   {
-    "ID": 14210,
+    "NUMERO": 14210,
     "NOMBRE": "LOS CORRALES DE BUELNA"
   },
   {
-    "ID": 14211,
+    "NUMERO": 14211,
     "NOMBRE": "LAS CALDAS DE BESAYA"
   },
   {
-    "ID": 14212,
+    "NUMERO": 14212,
     "NOMBRE": "VIERNOLES"
   },
   {
-    "ID": 14213,
+    "NUMERO": 14213,
     "NOMBRE": "TORRELAVEGA"
   },
   {
-    "ID": 14214,
+    "NUMERO": 14214,
     "NOMBRE": "SIERRAPANDO"
   },
   {
-    "ID": 14215,
+    "NUMERO": 14215,
     "NOMBRE": "ZURITA"
   },
   {
-    "ID": 14216,
+    "NUMERO": 14216,
     "NOMBRE": "RENEDO"
   },
   {
-    "ID": 14217,
+    "NUMERO": 14217,
     "NOMBRE": "PARBAYON"
   },
   {
-    "ID": 14218,
+    "NUMERO": 14218,
     "NOMBRE": "GUARNIZO"
   },
   {
-    "ID": 14219,
+    "NUMERO": 14219,
     "NOMBRE": "BOO"
   },
   {
-    "ID": 14220,
+    "NUMERO": 14220,
     "NOMBRE": "MALIAÑO"
   },
   {
-    "ID": 14223,
+    "NUMERO": 14223,
     "NOMBRE": "SANTANDER"
   },
   {
-    "ID": 14230,
+    "NUMERO": 14230,
     "NOMBRE": "VALDECILLA"
   },
   {
-    "ID": 14231,
+    "NUMERO": 14231,
     "NOMBRE": "NUEVA MONTAÑA"
   },
   {
-    "ID": 14232,
+    "NUMERO": 14232,
     "NOMBRE": "LOMBERA"
   },
   {
-    "ID": 14233,
+    "NUMERO": 14233,
     "NOMBRE": "RIO EBRO"
   },
   {
-    "ID": 14234,
+    "NUMERO": 14234,
     "NOMBRE": "PUJAYO"
   },
   {
-    "ID": 14235,
+    "NUMERO": 14235,
     "NOMBRE": "ARENAS DE IGUÑA"
   },
   {
-    "ID": 14236,
+    "NUMERO": 14236,
     "NOMBRE": "VIOÑO"
   },
   {
-    "ID": 14237,
+    "NUMERO": 14237,
     "NOMBRE": "MURIEDAS-BAHIA"
   },
   {
-    "ID": 15001,
+    "NUMERO": 15001,
     "NOMBRE": "GRIJOTA"
   },
   {
-    "ID": 15003,
+    "NUMERO": 15003,
     "NOMBRE": "BECERRIL"
   },
   {
-    "ID": 15004,
+    "NUMERO": 15004,
     "NOMBRE": "PAREDES DE NAVA"
   },
   {
-    "ID": 15006,
+    "NUMERO": 15006,
     "NOMBRE": "CISNEROS"
   },
   {
-    "ID": 15007,
+    "NUMERO": 15007,
     "NOMBRE": "VILLADA"
   },
   {
-    "ID": 15008,
+    "NUMERO": 15008,
     "NOMBRE": "GRAJAL"
   },
   {
-    "ID": 15009,
+    "NUMERO": 15009,
     "NOMBRE": "SAHAGUN"
   },
   {
-    "ID": 15012,
+    "NUMERO": 15012,
     "NOMBRE": "EL BURGO RANERO"
   },
   {
-    "ID": 15014,
+    "NUMERO": 15014,
     "NOMBRE": "SANTAS MARTAS"
   },
   {
-    "ID": 15015,
+    "NUMERO": 15015,
     "NOMBRE": "PALANQUINOS"
   },
   {
-    "ID": 15100,
+    "NUMERO": 15100,
     "NOMBRE": "LEON"
   },
   {
-    "ID": 15106,
+    "NUMERO": 15106,
     "NOMBRE": "LA ROBLA"
   },
   {
-    "ID": 15108,
+    "NUMERO": 15108,
     "NOMBRE": "LA POLA DE GORDON"
   },
   {
-    "ID": 15109,
+    "NUMERO": 15109,
     "NOMBRE": "SANTA LUCIA"
   },
   {
-    "ID": 15112,
+    "NUMERO": 15112,
     "NOMBRE": "VILLAMANIN"
   },
   {
-    "ID": 15113,
+    "NUMERO": 15113,
     "NOMBRE": "BUSDONGO"
   },
   {
-    "ID": 15116,
+    "NUMERO": 15116,
     "NOMBRE": "LINARES-CONGOSTINAS"
   },
   {
-    "ID": 15118,
+    "NUMERO": 15118,
     "NOMBRE": "PUENTE DE LOS FIERROS"
   },
   {
-    "ID": 15119,
+    "NUMERO": 15119,
     "NOMBRE": "LA FRECHA"
   },
   {
-    "ID": 15120,
+    "NUMERO": 15120,
     "NOMBRE": "CAMPOMANES"
   },
   {
-    "ID": 15121,
+    "NUMERO": 15121,
     "NOMBRE": "LA COBERTORIA"
   },
   {
-    "ID": 15122,
+    "NUMERO": 15122,
     "NOMBRE": "POLA DE LENA"
   },
   {
-    "ID": 15123,
+    "NUMERO": 15123,
     "NOMBRE": "VILLALLANA"
   },
   {
-    "ID": 15200,
+    "NUMERO": 15200,
     "NOMBRE": "UJO"
   },
   {
-    "ID": 15202,
+    "NUMERO": 15202,
     "NOMBRE": "SANTULLANO"
   },
   {
-    "ID": 15203,
+    "NUMERO": 15203,
     "NOMBRE": "MIERES-PUENTE"
   },
   {
-    "ID": 15205,
+    "NUMERO": 15205,
     "NOMBRE": "ABLAÑA"
   },
   {
-    "ID": 15206,
+    "NUMERO": 15206,
     "NOMBRE": "LA PEREDA-RIOSA"
   },
   {
-    "ID": 15207,
+    "NUMERO": 15207,
     "NOMBRE": "OLLONIEGO"
   },
   {
-    "ID": 15208,
+    "NUMERO": 15208,
     "NOMBRE": "SOTO DE REY"
   },
   {
-    "ID": 15209,
+    "NUMERO": 15209,
     "NOMBRE": "LAS SEGADAS"
   },
   {
-    "ID": 15210,
+    "NUMERO": 15210,
     "NOMBRE": "EL CALEYO"
   },
   {
-    "ID": 15211,
+    "NUMERO": 15211,
     "NOMBRE": "OVIEDO"
   },
   {
-    "ID": 15212,
+    "NUMERO": 15212,
     "NOMBRE": "LUGONES"
   },
   {
-    "ID": 15217,
+    "NUMERO": 15217,
     "NOMBRE": "LA CORREDORIA"
   },
   {
-    "ID": 15218,
+    "NUMERO": 15218,
     "NOMBRE": "LLAMAQUIQUE"
   },
   {
-    "ID": 15300,
+    "NUMERO": 15300,
     "NOMBRE": "LUGO DE LLANERA"
   },
   {
-    "ID": 15301,
+    "NUMERO": 15301,
     "NOMBRE": "VILLABONA DE ASTURIAS"
   },
   {
-    "ID": 15302,
+    "NUMERO": 15302,
     "NOMBRE": "SERIN"
   },
   {
-    "ID": 15303,
+    "NUMERO": 15303,
     "NOMBRE": "MONTEANA"
   },
   {
-    "ID": 15305,
+    "NUMERO": 15305,
     "NOMBRE": "VILLABONA TABLADIELLO"
   },
   {
-    "ID": 15400,
+    "NUMERO": 15400,
     "NOMBRE": "VERIÑA"
   },
   {
-    "ID": 15401,
+    "NUMERO": 15401,
     "NOMBRE": "CALZADA DE ASTURIAS"
   },
   {
-    "ID": 15410,
+    "NUMERO": 15410,
     "NOMBRE": "GIJON-SANZ CRESPO"
   },
   {
-    "ID": 16001,
+    "NUMERO": 16001,
     "NOMBRE": "SANTA EULALIA DE MANZANEDA"
   },
   {
-    "ID": 16002,
+    "NUMERO": 16002,
     "NOMBRE": "TUDELA-VEGUIN"
   },
   {
-    "ID": 16005,
+    "NUMERO": 16005,
     "NOMBRE": "PEÑA RUBIA"
   },
   {
-    "ID": 16006,
+    "NUMERO": 16006,
     "NOMBRE": "BARROS"
   },
   {
-    "ID": 16008,
+    "NUMERO": 16008,
     "NOMBRE": "LA FELGUERA"
   },
   {
-    "ID": 16009,
+    "NUMERO": 16009,
     "NOMBRE": "SAMA"
   },
   {
-    "ID": 16010,
+    "NUMERO": 16010,
     "NOMBRE": "CIAÑO"
   },
   {
-    "ID": 16011,
+    "NUMERO": 16011,
     "NOMBRE": "EL ENTREGO"
   },
   {
-    "ID": 16301,
+    "NUMERO": 16301,
     "NOMBRE": "FERROÑES"
   },
   {
-    "ID": 16302,
+    "NUMERO": 16302,
     "NOMBRE": "CANCIENES"
   },
   {
-    "ID": 16400,
+    "NUMERO": 16400,
     "NOMBRE": "NUBLEDO"
   },
   {
-    "ID": 16401,
+    "NUMERO": 16401,
     "NOMBRE": "VILLALEGRE"
   },
   {
-    "ID": 16402,
+    "NUMERO": 16402,
     "NOMBRE": "LA ROCICA"
   },
   {
-    "ID": 16403,
+    "NUMERO": 16403,
     "NOMBRE": "AVILES"
   },
   {
-    "ID": 16405,
+    "NUMERO": 16405,
     "NOMBRE": "SAN JUAN DE NIEVA"
   },
   {
-    "ID": 16408,
+    "NUMERO": 16408,
     "NOMBRE": "LOS CAMPOS"
   },
   {
-    "ID": 17000,
-    "NOMBRE": "MADRID-CHAMARTIN"
+    "NUMERO": 17000,
+    "NOMBRE": "MADRNUMERO-CHAMARTIN"
   },
   {
-    "ID": 17001,
+    "NUMERO": 17001,
     "NOMBRE": "FUENCARRAL"
   },
   {
-    "ID": 17003,
+    "NUMERO": 17003,
     "NOMBRE": "EL GOLOSO"
   },
   {
-    "ID": 17004,
+    "NUMERO": 17004,
     "NOMBRE": "TRES CANTOS"
   },
   {
-    "ID": 17005,
+    "NUMERO": 17005,
     "NOMBRE": "COLMENAR VIEJO"
   },
   {
-    "ID": 17009,
-    "NOMBRE": "UNIVERSIDAD-CANTOBLANCO"
+    "NUMERO": 17009,
+    "NOMBRE": "UNIVERSNUMEROAD-CANTOBLANCO"
   },
   {
-    "ID": 18000,
-    "NOMBRE": "MADRID-ATOCHA CERCANIAS"
+    "NUMERO": 18000,
+    "NOMBRE": "MADRNUMERO-ATOCHA CERCANIAS"
   },
   {
-    "ID": 18001,
-    "NOMBRE": "MADRID-RECOLETOS"
+    "NUMERO": 18001,
+    "NOMBRE": "MADRNUMERO-RECOLETOS"
   },
   {
-    "ID": 18002,
-    "NOMBRE": "MADRID-NUEVOS MINISTERIOS"
+    "NUMERO": 18002,
+    "NOMBRE": "MADRNUMERO-NUEVOS MINISTERIOS"
   },
   {
-    "ID": 18003,
+    "NUMERO": 18003,
     "NOMBRE": "MENDEZ ALVARO"
   },
   {
-    "ID": 18004,
+    "NUMERO": 18004,
     "NOMBRE": "DELICIAS"
   },
   {
-    "ID": 18005,
-    "NOMBRE": "PIRAMIDES"
+    "NUMERO": 18005,
+    "NOMBRE": "PIRAMNUMEROES"
   },
   {
-    "ID": 18101,
+    "NUMERO": 18101,
     "NOMBRE": "SOL"
   },
   {
-    "ID": 19001,
-    "NOMBRE": "UNIVERSIDAD PONTIFICIA DE COMILLAS"
+    "NUMERO": 19001,
+    "NOMBRE": "UNIVERSNUMEROAD PONTIFICIA DE COMILLAS"
   },
   {
-    "ID": 19002,
+    "NUMERO": 19002,
     "NOMBRE": "VALDELASFUENTES"
   },
   {
-    "ID": 19003,
+    "NUMERO": 19003,
     "NOMBRE": "ALCOBENDAS SAN SEBASTIAN DE LOS REYES"
   },
   {
-    "ID": 20002,
+    "NUMERO": 20002,
     "NOMBRE": "QUINTANA-RANEROS"
   },
   {
-    "ID": 20005,
+    "NUMERO": 20005,
     "NOMBRE": "VEGUELLINA"
   },
   {
-    "ID": 20006,
+    "NUMERO": 20006,
     "NOMBRE": "BARRIENTOS"
   },
   {
-    "ID": 20007,
+    "NUMERO": 20007,
     "NOMBRE": "NISTAL"
   },
   {
-    "ID": 20008,
+    "NUMERO": 20008,
     "NOMBRE": "VILLABANTE"
   },
   {
-    "ID": 20100,
+    "NUMERO": 20100,
     "NOMBRE": "ASTORGA"
   },
   {
-    "ID": 20102,
+    "NUMERO": 20102,
     "NOMBRE": "VEGA-MAGAZ"
   },
   {
-    "ID": 20103,
+    "NUMERO": 20103,
     "NOMBRE": "PORQUEROS"
   },
   {
-    "ID": 20104,
+    "NUMERO": 20104,
     "NOMBRE": "BRAÑUELAS"
   },
   {
-    "ID": 20106,
+    "NUMERO": 20106,
     "NOMBRE": "LA GRANJA"
   },
   {
-    "ID": 20109,
+    "NUMERO": 20109,
     "NOMBRE": "TORRE DEL BIERZO"
   },
   {
-    "ID": 20111,
+    "NUMERO": 20111,
     "NOMBRE": "BEMBIBRE"
   },
   {
-    "ID": 20113,
+    "NUMERO": 20113,
     "NOMBRE": "SAN MIGUEL DE LAS DUEÑAS"
   },
   {
-    "ID": 20200,
+    "NUMERO": 20200,
     "NOMBRE": "PONFERRADA"
   },
   {
-    "ID": 20203,
+    "NUMERO": 20203,
     "NOMBRE": "VILLADEPALOS"
   },
   {
-    "ID": 20204,
+    "NUMERO": 20204,
     "NOMBRE": "TORAL DE LOS VADOS"
   },
   {
-    "ID": 20207,
+    "NUMERO": 20207,
     "NOMBRE": "COVAS"
   },
   {
-    "ID": 20208,
+    "NUMERO": 20208,
     "NOMBRE": "QUEREÑO"
   },
   {
-    "ID": 20210,
+    "NUMERO": 20210,
     "NOMBRE": "SOBRADELO"
   },
   {
-    "ID": 20211,
+    "NUMERO": 20211,
     "NOMBRE": "O BARCO DE VALDEORRAS"
   },
   {
-    "ID": 20212,
+    "NUMERO": 20212,
     "NOMBRE": "VILAMARTIN DE VALDEORRAS"
   },
   {
-    "ID": 20213,
+    "NUMERO": 20213,
     "NOMBRE": "A RUA-PETIN"
   },
   {
-    "ID": 20214,
+    "NUMERO": 20214,
     "NOMBRE": "MONTEFURADO"
   },
   {
-    "ID": 20216,
+    "NUMERO": 20216,
     "NOMBRE": "SAN CLODIO-QUIROGA"
   },
   {
-    "ID": 20218,
+    "NUMERO": 20218,
     "NOMBRE": "POBRA DE BROLLON"
   },
   {
-    "ID": 20300,
+    "NUMERO": 20300,
     "NOMBRE": "MONFORTE DE LEMOS"
   },
   {
-    "ID": 20305,
+    "NUMERO": 20305,
     "NOMBRE": "SARRIA"
   },
   {
-    "ID": 20306,
+    "NUMERO": 20306,
     "NOMBRE": "PEDRELO-CELTIGOS"
   },
   {
-    "ID": 20309,
+    "NUMERO": 20309,
     "NOMBRE": "LUGO"
   },
   {
-    "ID": 20310,
+    "NUMERO": 20310,
     "NOMBRE": "RABADE"
   },
   {
-    "ID": 20312,
+    "NUMERO": 20312,
     "NOMBRE": "BAAMONDE"
   },
   {
-    "ID": 20313,
+    "NUMERO": 20313,
     "NOMBRE": "PARGA"
   },
   {
-    "ID": 20314,
+    "NUMERO": 20314,
     "NOMBRE": "GUITIRIZ"
   },
   {
-    "ID": 20316,
+    "NUMERO": 20316,
     "NOMBRE": "TEIXEIRO"
   },
   {
-    "ID": 20317,
+    "NUMERO": 20317,
     "NOMBRE": "CURTIS"
   },
   {
-    "ID": 20318,
+    "NUMERO": 20318,
     "NOMBRE": "PIÑOI"
   },
   {
-    "ID": 20319,
+    "NUMERO": 20319,
     "NOMBRE": "CESURAS"
   },
   {
-    "ID": 20320,
+    "NUMERO": 20320,
     "NOMBRE": "OZA DOS RIOS"
   },
   {
-    "ID": 20400,
+    "NUMERO": 20400,
     "NOMBRE": "BETANZOS-INFESTA"
   },
   {
-    "ID": 20402,
+    "NUMERO": 20402,
     "NOMBRE": "CECEBRE"
   },
   {
-    "ID": 20403,
+    "NUMERO": 20403,
     "NOMBRE": "CAMBRE"
   },
   {
-    "ID": 20404,
+    "NUMERO": 20404,
     "NOMBRE": "O BURGO-SANTIAGO"
   },
   {
-    "ID": 20410,
-    "NOMBRE": "ELVIÑA-UNIVERSIDADE"
+    "NUMERO": 20410,
+    "NOMBRE": "ELVIÑA-UNIVERSNUMEROADE"
   },
   {
-    "ID": 21001,
-    "NOMBRE": "BETANZOS-CIDADE"
+    "NUMERO": 21001,
+    "NOMBRE": "BETANZOS-CNUMEROADE"
   },
   {
-    "ID": 21002,
+    "NUMERO": 21002,
     "NOMBRE": "MIÑO"
   },
   {
-    "ID": 21003,
+    "NUMERO": 21003,
     "NOMBRE": "PERBES"
   },
   {
-    "ID": 21004,
+    "NUMERO": 21004,
     "NOMBRE": "PONTEDEUME"
   },
   {
-    "ID": 21005,
+    "NUMERO": 21005,
     "NOMBRE": "CABANAS"
   },
   {
-    "ID": 21007,
+    "NUMERO": 21007,
     "NOMBRE": "BARALLOBRE"
   },
   {
-    "ID": 21008,
+    "NUMERO": 21008,
     "NOMBRE": "PERLIO"
   },
   {
-    "ID": 21009,
+    "NUMERO": 21009,
     "NOMBRE": "NEDA"
   },
   {
-    "ID": 21010,
+    "NUMERO": 21010,
     "NOMBRE": "FERROL"
   },
   {
-    "ID": 22001,
+    "NUMERO": 22001,
     "NOMBRE": "CANABAL"
   },
   {
-    "ID": 22002,
+    "NUMERO": 22002,
     "NOMBRE": "AREAS"
   },
   {
-    "ID": 22003,
+    "NUMERO": 22003,
     "NOMBRE": "SAN ESTEVO DO SIL"
   },
   {
-    "ID": 22004,
+    "NUMERO": 22004,
     "NOMBRE": "SAN PEDRO DO SIL"
   },
   {
-    "ID": 22005,
+    "NUMERO": 22005,
     "NOMBRE": "OS PEARES"
   },
   {
-    "ID": 22006,
+    "NUMERO": 22006,
     "NOMBRE": "BARRA DE MIÑO"
   },
   {
-    "ID": 22100,
+    "NUMERO": 22100,
     "NOMBRE": "OURENSE"
   },
   {
-    "ID": 22101,
+    "NUMERO": 22101,
     "NOMBRE": "BARBANTES"
   },
   {
-    "ID": 22102,
+    "NUMERO": 22102,
     "NOMBRE": "RIBADAVIA"
   },
   {
-    "ID": 22103,
+    "NUMERO": 22103,
     "NOMBRE": "FILGUEIRA"
   },
   {
-    "ID": 22104,
+    "NUMERO": 22104,
     "NOMBRE": "FRIEIRA"
   },
   {
-    "ID": 22105,
+    "NUMERO": 22105,
     "NOMBRE": "POUSA-CRECENTE"
   },
   {
-    "ID": 22106,
+    "NUMERO": 22106,
     "NOMBRE": "ARBO"
   },
   {
-    "ID": 22107,
+    "NUMERO": 22107,
     "NOMBRE": "SELA"
   },
   {
-    "ID": 22108,
+    "NUMERO": 22108,
     "NOMBRE": "AS NEVES"
   },
   {
-    "ID": 22109,
+    "NUMERO": 22109,
     "NOMBRE": "SALVATERRA"
   },
   {
-    "ID": 22110,
+    "NUMERO": 22110,
     "NOMBRE": "CALDELAS"
   },
   {
-    "ID": 22200,
+    "NUMERO": 22200,
     "NOMBRE": "GUILLAREI"
   },
   {
-    "ID": 22201,
+    "NUMERO": 22201,
     "NOMBRE": "O PORRIÑO"
   },
   {
-    "ID": 22300,
+    "NUMERO": 22300,
     "NOMBRE": "REDONDELA"
   },
   {
-    "ID": 22308,
+    "NUMERO": 22308,
     "NOMBRE": "VIGO-GUIXAR"
   },
   {
-    "ID": 22401,
+    "NUMERO": 22401,
     "NOMBRE": "TUI"
   },
   {
-    "ID": 22402,
+    "NUMERO": 22402,
     "NOMBRE": "VALENÇA DO MINHO"
   },
   {
-    "ID": 23000,
+    "NUMERO": 23000,
     "NOMBRE": "REDONDELA-PICOTA"
   },
   {
-    "ID": 23001,
+    "NUMERO": 23001,
     "NOMBRE": "CESANTES"
   },
   {
-    "ID": 23002,
+    "NUMERO": 23002,
     "NOMBRE": "ARCADE"
   },
   {
-    "ID": 23004,
+    "NUMERO": 23004,
     "NOMBRE": "PONTEVEDRA"
   },
   {
-    "ID": 23005,
+    "NUMERO": 23005,
     "NOMBRE": "PORTELA"
   },
   {
-    "ID": 23008,
+    "NUMERO": 23008,
     "NOMBRE": "VILAGARCIA DE AROUSA"
   },
   {
-    "ID": 23009,
+    "NUMERO": 23009,
     "NOMBRE": "CATOIRA"
   },
   {
-    "ID": 23010,
+    "NUMERO": 23010,
     "NOMBRE": "PONTECESURES"
   },
   {
-    "ID": 23011,
+    "NUMERO": 23011,
     "NOMBRE": "PADRON"
   },
   {
-    "ID": 23013,
+    "NUMERO": 23013,
     "NOMBRE": "OSEBE"
   },
   {
-    "ID": 23018,
-    "NOMBRE": "PONTEVEDRA-UNIVERSIDAD"
+    "NUMERO": 23018,
+    "NOMBRE": "PONTEVEDRA-UNIVERSNUMEROAD"
   },
   {
-    "ID": 23021,
+    "NUMERO": 23021,
     "NOMBRE": "PADRON BARBANZA"
   },
   {
-    "ID": 30000,
+    "NUMERO": 30000,
     "NOMBRE": "MONFRAGÜE"
   },
   {
-    "ID": 30002,
+    "NUMERO": 30002,
     "NOMBRE": "PLASENCIA"
   },
   {
-    "ID": 30100,
+    "NUMERO": 30100,
     "NOMBRE": "SALAMANCA"
   },
   {
-    "ID": 30200,
+    "NUMERO": 30200,
     "NOMBRE": "ZAMORA"
   },
   {
-    "ID": 31002,
+    "NUMERO": 31002,
     "NOMBRE": "NAVA DEL REY"
   },
   {
-    "ID": 31006,
+    "NUMERO": 31006,
     "NOMBRE": "TORO"
   },
   {
-    "ID": 31104,
+    "NUMERO": 31104,
     "NOMBRE": "CARBAJALES DE ALBA"
   },
   {
-    "ID": 31106,
+    "NUMERO": 31106,
     "NOMBRE": "FERRERUELA DE TABARA"
   },
   {
-    "ID": 31107,
+    "NUMERO": 31107,
     "NOMBRE": "ABEJERA"
   },
   {
-    "ID": 31108,
+    "NUMERO": 31108,
     "NOMBRE": "SARRACIN DE ALISTE"
   },
   {
-    "ID": 31109,
+    "NUMERO": 31109,
     "NOMBRE": "CABAÑAS DE ALISTE"
   },
   {
-    "ID": 31112,
+    "NUMERO": 31112,
     "NOMBRE": "LINAREJOS-PEDROSO"
   },
   {
-    "ID": 31200,
+    "NUMERO": 31200,
     "NOMBRE": "PUEBLA DE SANABRIA"
   },
   {
-    "ID": 31205,
+    "NUMERO": 31205,
     "NOMBRE": "A GUDIÑA"
   },
   {
-    "ID": 31215,
+    "NUMERO": 31215,
     "NOMBRE": "OURENSE-SAN FRANCISCO"
   },
   {
-    "ID": 31303,
-    "NOMBRE": "A FRIELA-MASIDE"
+    "NUMERO": 31303,
+    "NOMBRE": "A FRIELA-MASNUMEROE"
   },
   {
-    "ID": 31304,
+    "NUMERO": 31304,
     "NOMBRE": "O CARBALLIÑO"
   },
   {
-    "ID": 31306,
+    "NUMERO": 31306,
     "NOMBRE": "O IRIXO"
   },
   {
-    "ID": 31308,
+    "NUMERO": 31308,
     "NOMBRE": "LALIN"
   },
   {
-    "ID": 31400,
+    "NUMERO": 31400,
     "NOMBRE": "SANTIAGO DE COMPOSTELA"
   },
   {
-    "ID": 31411,
+    "NUMERO": 31411,
     "NOMBRE": "UXES"
   },
   {
-    "ID": 31412,
+    "NUMERO": 31412,
     "NOMBRE": "A CORUÑA"
   },
   {
-    "ID": 31415,
+    "NUMERO": 31415,
     "NOMBRE": "ORDES"
   },
   {
-    "ID": 31416,
+    "NUMERO": 31416,
     "NOMBRE": "CERCEDA-MEIRAMA"
   },
   {
-    "ID": 32001,
+    "NUMERO": 32001,
     "NOMBRE": "CAMPILLO"
   },
   {
-    "ID": 32002,
+    "NUMERO": 32002,
     "NOMBRE": "EL CARPIO"
   },
   {
-    "ID": 32003,
+    "NUMERO": 32003,
     "NOMBRE": "FRESNO EL VIEJO"
   },
   {
-    "ID": 32004,
+    "NUMERO": 32004,
     "NOMBRE": "CANTALAPIEDRA"
   },
   {
-    "ID": 32006,
+    "NUMERO": 32006,
     "NOMBRE": "EL PEDROSO DE LA ARMUÑA"
   },
   {
-    "ID": 32007,
+    "NUMERO": 32007,
     "NOMBRE": "PITIEGUA"
   },
   {
-    "ID": 32008,
+    "NUMERO": 32008,
     "NOMBRE": "GOMECELLO"
   },
   {
-    "ID": 32009,
+    "NUMERO": 32009,
     "NOMBRE": "MORISCOS"
   },
   {
-    "ID": 33013,
+    "NUMERO": 33013,
     "NOMBRE": "CIUDAD RODRIGO"
   },
   {
-    "ID": 33016,
+    "NUMERO": 33016,
     "NOMBRE": "FUENTES DE OÑORO"
   },
   {
-    "ID": 34002,
+    "NUMERO": 34002,
     "NOMBRE": "CARDEÑOSA DE AVILA"
   },
   {
-    "ID": 34005,
+    "NUMERO": 34005,
     "NOMBRE": "SAN PEDRO DEL ARROYO"
   },
   {
-    "ID": 34007,
+    "NUMERO": 34007,
     "NOMBRE": "CRESPOS"
   },
   {
-    "ID": 34008,
+    "NUMERO": 34008,
     "NOMBRE": "NARROS DEL CASTILLO"
   },
   {
-    "ID": 34010,
+    "NUMERO": 34010,
     "NOMBRE": "PEÑARANDA DE BRACAMONTE"
   },
   {
-    "ID": 34011,
+    "NUMERO": 34011,
     "NOMBRE": "VILLAR DE GALLIMAZO"
   },
   {
-    "ID": 34012,
+    "NUMERO": 34012,
     "NOMBRE": "BABILAFUENTE"
   },
   {
-    "ID": 34013,
+    "NUMERO": 34013,
     "NOMBRE": "SAN MORALES"
   },
   {
-    "ID": 34014,
+    "NUMERO": 34014,
     "NOMBRE": "ALDEALENGUA"
   },
   {
-    "ID": 35001,
+    "NUMERO": 35001,
     "NOMBRE": "LEGANES"
   },
   {
-    "ID": 35002,
+    "NUMERO": 35002,
     "NOMBRE": "FUENLABRADA"
   },
   {
-    "ID": 35005,
+    "NUMERO": 35005,
     "NOMBRE": "ILLESCAS"
   },
   {
-    "ID": 35009,
+    "NUMERO": 35009,
     "NOMBRE": "ZARZAQUEMADA"
   },
   {
-    "ID": 35010,
+    "NUMERO": 35010,
     "NOMBRE": "LA SERNA-FUENLABRADA"
   },
   {
-    "ID": 35011,
+    "NUMERO": 35011,
     "NOMBRE": "PARQUE POLVORANCA"
   },
   {
-    "ID": 35012,
+    "NUMERO": 35012,
     "NOMBRE": "HUMANES"
   },
   {
-    "ID": 35105,
+    "NUMERO": 35105,
     "NOMBRE": "TORRIJOS"
   },
   {
-    "ID": 35107,
+    "NUMERO": 35107,
     "NOMBRE": "ERUSTES"
   },
   {
-    "ID": 35109,
+    "NUMERO": 35109,
     "NOMBRE": "MONTEARAGON"
   },
   {
-    "ID": 35200,
+    "NUMERO": 35200,
     "NOMBRE": "TALAVERA DE LA REINA"
   },
   {
-    "ID": 35203,
+    "NUMERO": 35203,
     "NOMBRE": "OROPESA DE TOLEDO"
   },
   {
-    "ID": 35206,
+    "NUMERO": 35206,
     "NOMBRE": "NAVALMORAL DE LA MATA"
   },
   {
-    "ID": 35207,
+    "NUMERO": 35207,
     "NOMBRE": "CASATEJADA"
   },
   {
-    "ID": 35301,
+    "NUMERO": 35301,
     "NOMBRE": "MIRABEL"
   },
   {
-    "ID": 35302,
+    "NUMERO": 35302,
     "NOMBRE": "CASAS DE MILLAN"
   },
   {
-    "ID": 35303,
+    "NUMERO": 35303,
     "NOMBRE": "CAÑAVERAL"
   },
   {
-    "ID": 35400,
+    "NUMERO": 35400,
     "NOMBRE": "CACERES"
   },
   {
-    "ID": 35402,
-    "NOMBRE": "ARROYO DE MALPARTIDA"
+    "NUMERO": 35402,
+    "NOMBRE": "ARROYO DE MALPARTNUMEROA"
   },
   {
-    "ID": 35405,
+    "NUMERO": 35405,
     "NOMBRE": "SAN VICENTE DE ALCANTARA"
   },
   {
-    "ID": 35406,
+    "NUMERO": 35406,
     "NOMBRE": "VALENCIA DE ALCANTARA"
   },
   {
-    "ID": 35600,
+    "NUMERO": 35600,
     "NOMBRE": "ALUCHE"
   },
   {
-    "ID": 35601,
+    "NUMERO": 35601,
     "NOMBRE": "FANJUL"
   },
   {
-    "ID": 35602,
+    "NUMERO": 35602,
     "NOMBRE": "LAS AGUILAS"
   },
   {
-    "ID": 35603,
+    "NUMERO": 35603,
     "NOMBRE": "CUATRO VIENTOS"
   },
   {
-    "ID": 35604,
+    "NUMERO": 35604,
     "NOMBRE": "SAN JOSE DE VALDERAS"
   },
   {
-    "ID": 35605,
+    "NUMERO": 35605,
     "NOMBRE": "ALCORCON"
   },
   {
-    "ID": 35606,
+    "NUMERO": 35606,
     "NOMBRE": "MOSTOLES"
   },
   {
-    "ID": 35607,
+    "NUMERO": 35607,
     "NOMBRE": "MOSTOLES-EL SOTO"
   },
   {
-    "ID": 35608,
+    "NUMERO": 35608,
     "NOMBRE": "LAGUNA"
   },
   {
-    "ID": 35609,
+    "NUMERO": 35609,
     "NOMBRE": "EMBAJADORES"
   },
   {
-    "ID": 35610,
+    "NUMERO": 35610,
     "NOMBRE": "LAS RETAMAS"
   },
   {
-    "ID": 35701,
+    "NUMERO": 35701,
     "NOMBRE": "MENDEZ ALVARO"
   },
   {
-    "ID": 35702,
+    "NUMERO": 35702,
     "NOMBRE": "DOCE DE OCTUBRE"
   },
   {
-    "ID": 35703,
+    "NUMERO": 35703,
     "NOMBRE": "ORCASITAS"
   },
   {
-    "ID": 35704,
+    "NUMERO": 35704,
     "NOMBRE": "PUENTE ALCOCER"
   },
   {
-    "ID": 37001,
+    "NUMERO": 37001,
     "NOMBRE": "VILLAVERDE ALTO"
   },
   {
-    "ID": 37002,
+    "NUMERO": 37002,
     "NOMBRE": "GETAFE-CENTRO"
   },
   {
-    "ID": 37010,
+    "NUMERO": 37010,
     "NOMBRE": "LAS MARGARITAS"
   },
   {
-    "ID": 37011,
+    "NUMERO": 37011,
     "NOMBRE": "GETAFE-SECTOR 3"
   },
   {
-    "ID": 37012,
+    "NUMERO": 37012,
     "NOMBRE": "PARLA"
   },
   {
-    "ID": 37200,
+    "NUMERO": 37200,
     "NOMBRE": "CIUDAD REAL"
   },
   {
-    "ID": 37300,
+    "NUMERO": 37300,
     "NOMBRE": "PUERTOLLANO"
   },
   {
-    "ID": 37302,
+    "NUMERO": 37302,
     "NOMBRE": "BRAZATORTAS-VEREDAS"
   },
   {
-    "ID": 37305,
+    "NUMERO": 37305,
     "NOMBRE": "ALMADENEJOS-ALMADEN"
   },
   {
-    "ID": 37308,
+    "NUMERO": 37308,
     "NOMBRE": "GUADALMEZ-LOS PEDROCHES"
   },
   {
-    "ID": 37311,
+    "NUMERO": 37311,
     "NOMBRE": "CABEZA DEL BUEY"
   },
   {
-    "ID": 37400,
+    "NUMERO": 37400,
     "NOMBRE": "ALMORCHON"
   },
   {
-    "ID": 37402,
+    "NUMERO": 37402,
     "NOMBRE": "CASTUERA"
   },
   {
-    "ID": 37404,
+    "NUMERO": 37404,
     "NOMBRE": "CAMPANARIO"
   },
   {
-    "ID": 37406,
+    "NUMERO": 37406,
     "NOMBRE": "VILLANUEVA DE LA SERENA"
   },
   {
-    "ID": 37407,
+    "NUMERO": 37407,
     "NOMBRE": "DON BENITO"
   },
   {
-    "ID": 37409,
+    "NUMERO": 37409,
     "NOMBRE": "VALDETORRES"
   },
   {
-    "ID": 37410,
+    "NUMERO": 37410,
     "NOMBRE": "GUAREÑA"
   },
   {
-    "ID": 37500,
-    "NOMBRE": "MERIDA"
+    "NUMERO": 37500,
+    "NOMBRE": "MERNUMEROA"
   },
   {
-    "ID": 37600,
+    "NUMERO": 37600,
     "NOMBRE": "ALJUCEN"
   },
   {
-    "ID": 37603,
+    "NUMERO": 37603,
     "NOMBRE": "MONTIJO"
   },
   {
-    "ID": 37604,
+    "NUMERO": 37604,
     "NOMBRE": "GUADIANA"
   },
   {
-    "ID": 37606,
+    "NUMERO": 37606,
     "NOMBRE": "BADAJOZ"
   },
   {
-    "ID": 37608,
+    "NUMERO": 37608,
     "NOMBRE": "MONTIJO-EL MOLINO"
   },
   {
-    "ID": 37611,
+    "NUMERO": 37611,
     "NOMBRE": "GARROVILLA-LAS VEGAS"
   },
   {
-    "ID": 37700,
+    "NUMERO": 37700,
     "NOMBRE": "PUERTOLLANO (AV)"
   },
   {
-    "ID": 37704,
+    "NUMERO": 37704,
     "NOMBRE": "VILLANUEVA DE CORDOBA"
   },
   {
-    "ID": 40002,
+    "NUMERO": 40002,
     "NOMBRE": "CALAMONTE"
   },
   {
-    "ID": 40004,
+    "NUMERO": 40004,
     "NOMBRE": "ALMENDRALEJO"
   },
   {
-    "ID": 40005,
+    "NUMERO": 40005,
     "NOMBRE": "VILLAFRANCA DE LOS BARROS"
   },
   {
-    "ID": 40006,
+    "NUMERO": 40006,
     "NOMBRE": "LOS SANTOS DE MAIMONA"
   },
   {
-    "ID": 40008,
+    "NUMERO": 40008,
     "NOMBRE": "ZAFRA FERIA"
   },
   {
-    "ID": 40100,
+    "NUMERO": 40100,
     "NOMBRE": "ZAFRA"
   },
   {
-    "ID": 40105,
+    "NUMERO": 40105,
     "NOMBRE": "LLERENA"
   },
   {
-    "ID": 40107,
+    "NUMERO": 40107,
     "NOMBRE": "FUENTE DEL ARCO"
   },
   {
-    "ID": 40108,
+    "NUMERO": 40108,
     "NOMBRE": "GUADALCANAL"
   },
   {
-    "ID": 40113,
+    "NUMERO": 40113,
     "NOMBRE": "CAZALLA-CONSTANTINA"
   },
   {
-    "ID": 40115,
+    "NUMERO": 40115,
     "NOMBRE": "PEDROSO"
   },
   {
-    "ID": 40119,
+    "NUMERO": 40119,
     "NOMBRE": "VILLANUEVA DEL RIO-MINAS"
   },
   {
-    "ID": 40121,
+    "NUMERO": 40121,
     "NOMBRE": "ALCOLEA DEL RIO"
   },
   {
-    "ID": 40122,
+    "NUMERO": 40122,
     "NOMBRE": "TOCINA"
   },
   {
-    "ID": 42005,
+    "NUMERO": 42005,
     "NOMBRE": "FREGENAL DE LA SIERRA"
   },
   {
-    "ID": 42006,
+    "NUMERO": 42006,
     "NOMBRE": "CUMBRES MAYORES"
   },
   {
-    "ID": 42008,
+    "NUMERO": 42008,
     "NOMBRE": "JABUGO-GALAROZA"
   },
   {
-    "ID": 42009,
+    "NUMERO": 42009,
     "NOMBRE": "ALMONASTER-CORTEGANA"
   },
   {
-    "ID": 42012,
+    "NUMERO": 42012,
     "NOMBRE": "VALDELAMUSA"
   },
   {
-    "ID": 42013,
+    "NUMERO": 42013,
     "NOMBRE": "EL TAMUJOSO"
   },
   {
-    "ID": 42015,
+    "NUMERO": 42015,
     "NOMBRE": "CALAÑAS"
   },
   {
-    "ID": 42016,
+    "NUMERO": 42016,
     "NOMBRE": "LOS MILANOS"
   },
   {
-    "ID": 42018,
+    "NUMERO": 42018,
     "NOMBRE": "EL COBUJON"
   },
   {
-    "ID": 42019,
+    "NUMERO": 42019,
     "NOMBRE": "BELMONTE"
   },
   {
-    "ID": 42020,
+    "NUMERO": 42020,
     "NOMBRE": "GIBRALEON"
   },
   {
-    "ID": 43000,
+    "NUMERO": 43000,
     "NOMBRE": "SAN JERONIMO"
   },
   {
-    "ID": 43002,
+    "NUMERO": 43002,
     "NOMBRE": "CAMAS"
   },
   {
-    "ID": 43003,
+    "NUMERO": 43003,
     "NOMBRE": "VILLANUEVA DEL ARISCAL Y OLIVARES"
   },
   {
-    "ID": 43004,
+    "NUMERO": 43004,
     "NOMBRE": "SANLUCAR LA MAYOR"
   },
   {
-    "ID": 43005,
+    "NUMERO": 43005,
     "NOMBRE": "BENACAZON"
   },
   {
-    "ID": 43008,
+    "NUMERO": 43008,
     "NOMBRE": "CARRION DE LOS CESPEDES"
   },
   {
-    "ID": 43009,
+    "NUMERO": 43009,
     "NOMBRE": "ESCACENA"
   },
   {
-    "ID": 43011,
+    "NUMERO": 43011,
     "NOMBRE": "LA PALMA DEL CONDADO"
   },
   {
-    "ID": 43012,
+    "NUMERO": 43012,
     "NOMBRE": "VILLARRASA"
   },
   {
-    "ID": 43015,
+    "NUMERO": 43015,
     "NOMBRE": "NIEBLA-PUERTA DEL BUEY"
   },
   {
-    "ID": 43019,
+    "NUMERO": 43019,
     "NOMBRE": "HUELVA-TERMINO"
   },
   {
-    "ID": 43021,
+    "NUMERO": 43021,
     "NOMBRE": "SAN JUAN DEL PUERTO"
   },
   {
-    "ID": 43026,
+    "NUMERO": 43026,
     "NOMBRE": "VALENCINA-SANTIPONCE"
   },
   {
-    "ID": 43027,
+    "NUMERO": 43027,
     "NOMBRE": "SALTERAS"
   },
   {
-    "ID": 50002,
+    "NUMERO": 50002,
     "NOMBRE": "CINCO CASAS"
   },
   {
-    "ID": 50100,
+    "NUMERO": 50100,
     "NOMBRE": "MANZANARES"
   },
   {
-    "ID": 50102,
+    "NUMERO": 50102,
     "NOMBRE": "VALDEPEÑAS"
   },
   {
-    "ID": 50200,
+    "NUMERO": 50200,
     "NOMBRE": "SANTA CRUZ DE MUDELA"
   },
   {
-    "ID": 50202,
+    "NUMERO": 50202,
     "NOMBRE": "ALMURADIEL-VISO DEL MARQUES"
   },
   {
-    "ID": 50207,
+    "NUMERO": 50207,
     "NOMBRE": "VILCHES"
   },
   {
-    "ID": 50300,
+    "NUMERO": 50300,
     "NOMBRE": "LINARES-BAEZA"
   },
   {
-    "ID": 50400,
+    "NUMERO": 50400,
     "NOMBRE": "ESPELUY"
   },
   {
-    "ID": 50403,
+    "NUMERO": 50403,
     "NOMBRE": "ANDUJAR"
   },
   {
-    "ID": 50407,
+    "NUMERO": 50407,
     "NOMBRE": "VILLA DEL RIO"
   },
   {
-    "ID": 50417,
+    "NUMERO": 50417,
     "NOMBRE": "CAMPUS UNIVERSITARIO DE RABANALES"
   },
   {
-    "ID": 50500,
+    "NUMERO": 50500,
     "NOMBRE": "CORDOBA"
   },
   {
-    "ID": 50504,
+    "NUMERO": 50504,
     "NOMBRE": "POSADAS"
   },
   {
-    "ID": 50506,
+    "NUMERO": 50506,
     "NOMBRE": "PALMA DEL RIO"
   },
   {
-    "ID": 50507,
+    "NUMERO": 50507,
     "NOMBRE": "PEÑAFLOR"
   },
   {
-    "ID": 50600,
+    "NUMERO": 50600,
     "NOMBRE": "LORA DEL RIO"
   },
   {
-    "ID": 50602,
+    "NUMERO": 50602,
     "NOMBRE": "GUADAJOZ"
   },
   {
-    "ID": 50700,
+    "NUMERO": 50700,
     "NOMBRE": "LOS ROSALES"
   },
   {
-    "ID": 50701,
+    "NUMERO": 50701,
     "NOMBRE": "CANTILLANA"
   },
   {
-    "ID": 50702,
+    "NUMERO": 50702,
     "NOMBRE": "BRENES"
   },
   {
-    "ID": 50703,
+    "NUMERO": 50703,
     "NOMBRE": "LA RINCONADA"
   },
   {
-    "ID": 50704,
+    "NUMERO": 50704,
     "NOMBRE": "EL CAÑAMO"
   },
   {
-    "ID": 51003,
+    "NUMERO": 51003,
     "NOMBRE": "SEVILLA-SANTA JUSTA"
   },
   {
-    "ID": 51009,
+    "NUMERO": 51009,
     "NOMBRE": "PALACIO DE CONGRESOS"
   },
   {
-    "ID": 51010,
+    "NUMERO": 51010,
     "NOMBRE": "PADRE PIO-PALMETE"
   },
   {
-    "ID": 51050,
+    "NUMERO": 51050,
     "NOMBRE": "CARTUJA"
   },
   {
-    "ID": 51051,
+    "NUMERO": 51051,
     "NOMBRE": "ESTADIO OLIMPICO"
   },
   {
-    "ID": 51100,
+    "NUMERO": 51100,
     "NOMBRE": "SAN BERNARDO"
   },
   {
-    "ID": 51103,
+    "NUMERO": 51103,
     "NOMBRE": "DOS HERMANAS"
   },
   {
-    "ID": 51110,
+    "NUMERO": 51110,
     "NOMBRE": "VIRGEN DEL ROCIO"
   },
   {
-    "ID": 51111,
+    "NUMERO": 51111,
     "NOMBRE": "BELLAVISTA"
   },
   {
-    "ID": 51112,
+    "NUMERO": 51112,
     "NOMBRE": "CANTAELGALLO"
   },
   {
-    "ID": 51113,
+    "NUMERO": 51113,
     "NOMBRE": "JARDINES DE HERCULES"
   },
   {
-    "ID": 51200,
+    "NUMERO": 51200,
     "NOMBRE": "UTRERA"
   },
   {
-    "ID": 51202,
+    "NUMERO": 51202,
     "NOMBRE": "LAS CABEZAS DE SAN JUAN"
   },
   {
-    "ID": 51203,
+    "NUMERO": 51203,
     "NOMBRE": "LEBRIJA"
   },
   {
-    "ID": 51205,
+    "NUMERO": 51205,
     "NOMBRE": "AEROPUERTO DE JEREZ"
   },
   {
-    "ID": 51300,
+    "NUMERO": 51300,
     "NOMBRE": "JEREZ DE LA FRONTERA"
   },
   {
-    "ID": 51400,
+    "NUMERO": 51400,
     "NOMBRE": "PUERTO DE SANTA MARIA"
   },
   {
-    "ID": 51401,
+    "NUMERO": 51401,
     "NOMBRE": "PUERTO REAL"
   },
   {
-    "ID": 51402,
+    "NUMERO": 51402,
     "NOMBRE": "SAN FERNANDO-CENTRO"
   },
   {
-    "ID": 51404,
+    "NUMERO": 51404,
     "NOMBRE": "SEGUNDA AGUADA"
   },
   {
-    "ID": 51405,
+    "NUMERO": 51405,
     "NOMBRE": "CADIZ"
   },
   {
-    "ID": 51406,
+    "NUMERO": 51406,
     "NOMBRE": "SAN FERNANDO-BAHIA SUR"
   },
   {
-    "ID": 51407,
+    "NUMERO": 51407,
     "NOMBRE": "CORTADURA"
   },
   {
-    "ID": 51409,
+    "NUMERO": 51409,
     "NOMBRE": "ESTADIO"
   },
   {
-    "ID": 51414,
+    "NUMERO": 51414,
     "NOMBRE": "SAN SEVERIANO"
   },
   {
-    "ID": 51415,
+    "NUMERO": 51415,
     "NOMBRE": "LAS ALETAS"
   },
   {
-    "ID": 51416,
-    "NOMBRE": "UNIVERSIDAD DE CADIZ"
+    "NUMERO": 51416,
+    "NOMBRE": "UNIVERSNUMEROAD DE CADIZ"
   },
   {
-    "ID": 51417,
+    "NUMERO": 51417,
     "NOMBRE": "VALDELAGRANA"
   },
   {
-    "ID": 54400,
+    "NUMERO": 54400,
     "NOMBRE": "BOBADILLA"
   },
   {
-    "ID": 54403,
+    "NUMERO": 54403,
     "NOMBRE": "EL CHORRO-CAMINITO DEL REY"
   },
   {
-    "ID": 54404,
+    "NUMERO": 54404,
     "NOMBRE": "LAS MELLIZAS"
   },
   {
-    "ID": 54405,
+    "NUMERO": 54405,
     "NOMBRE": "ALORA"
   },
   {
-    "ID": 54406,
+    "NUMERO": 54406,
     "NOMBRE": "PIZARRA"
   },
   {
-    "ID": 54407,
+    "NUMERO": 54407,
     "NOMBRE": "ALJAIMA"
   },
   {
-    "ID": 54408,
+    "NUMERO": 54408,
     "NOMBRE": "CARTAMA"
   },
   {
-    "ID": 54410,
+    "NUMERO": 54410,
     "NOMBRE": "CAMPANILLAS"
   },
   {
-    "ID": 54412,
+    "NUMERO": 54412,
     "NOMBRE": "LOS PRADOS"
   },
   {
-    "ID": 54413,
+    "NUMERO": 54413,
     "NOMBRE": "MALAGA MARIA ZAMBRANO"
   },
   {
-    "ID": 54501,
+    "NUMERO": 54501,
     "NOMBRE": "VICTORIA KENT"
   },
   {
-    "ID": 54503,
+    "NUMERO": 54503,
     "NOMBRE": "GUADALHORCE"
   },
   {
-    "ID": 54505,
+    "NUMERO": 54505,
     "NOMBRE": "AEROPUERTO"
   },
   {
-    "ID": 54508,
+    "NUMERO": 54508,
     "NOMBRE": "LA COLINA"
   },
   {
-    "ID": 54509,
+    "NUMERO": 54509,
     "NOMBRE": "TORREMOLINOS"
   },
   {
-    "ID": 54510,
+    "NUMERO": 54510,
     "NOMBRE": "EL PINILLO"
   },
   {
-    "ID": 54511,
+    "NUMERO": 54511,
     "NOMBRE": "BENALMADENA-ARROYO DE LA MIEL"
   },
   {
-    "ID": 54512,
+    "NUMERO": 54512,
     "NOMBRE": "TORREMUELLE"
   },
   {
-    "ID": 54513,
+    "NUMERO": 54513,
     "NOMBRE": "CARVAJAL"
   },
   {
-    "ID": 54514,
+    "NUMERO": 54514,
     "NOMBRE": "TORREBLANCA"
   },
   {
-    "ID": 54515,
+    "NUMERO": 54515,
     "NOMBRE": "LOS BOLICHES"
   },
   {
-    "ID": 54516,
+    "NUMERO": 54516,
     "NOMBRE": "FUENGIROLA"
   },
   {
-    "ID": 54517,
+    "NUMERO": 54517,
     "NOMBRE": "MALAGA-CENTRO ALAMEDA"
   },
   {
-    "ID": 54518,
+    "NUMERO": 54518,
     "NOMBRE": "LOS ALAMOS"
   },
   {
-    "ID": 54519,
+    "NUMERO": 54519,
     "NOMBRE": "MONTEMAR ALTO"
   },
   {
-    "ID": 54520,
+    "NUMERO": 54520,
     "NOMBRE": "PLAZA MAYOR"
   },
   {
-    "ID": 55001,
+    "NUMERO": 55001,
     "NOMBRE": "CAMPILLOS"
   },
   {
-    "ID": 55003,
+    "NUMERO": 55003,
     "NOMBRE": "ALMARGEN-CAÑETE LA REAL"
   },
   {
-    "ID": 55005,
+    "NUMERO": 55005,
     "NOMBRE": "SETENIL"
   },
   {
-    "ID": 55007,
+    "NUMERO": 55007,
     "NOMBRE": "RONDA"
   },
   {
-    "ID": 55008,
+    "NUMERO": 55008,
     "NOMBRE": "ARRIATE"
   },
   {
-    "ID": 55010,
+    "NUMERO": 55010,
     "NOMBRE": "BENAOJAN-MONTEJAQUE"
   },
   {
-    "ID": 55011,
+    "NUMERO": 55011,
     "NOMBRE": "JIMERA DE LIBAR"
   },
   {
-    "ID": 55012,
+    "NUMERO": 55012,
     "NOMBRE": "CORTES DE LA FRONTERA"
   },
   {
-    "ID": 55013,
+    "NUMERO": 55013,
     "NOMBRE": "GAUCIN"
   },
   {
-    "ID": 55014,
+    "NUMERO": 55014,
     "NOMBRE": "SAN PABLO"
   },
   {
-    "ID": 55015,
+    "NUMERO": 55015,
     "NOMBRE": "JIMENA DE LA FRONTERA"
   },
   {
-    "ID": 55017,
+    "NUMERO": 55017,
     "NOMBRE": "ALMORAIMA"
   },
   {
-    "ID": 55018,
+    "NUMERO": 55018,
     "NOMBRE": "SAN ROQUE-LA LINEA"
   },
   {
-    "ID": 55019,
+    "NUMERO": 55019,
     "NOMBRE": "LOS BARRIOS"
   },
   {
-    "ID": 55020,
+    "NUMERO": 55020,
     "NOMBRE": "ALGECIRAS"
   },
   {
-    "ID": 56004,
+    "NUMERO": 56004,
     "NOMBRE": "JODAR-UBEDA"
   },
   {
-    "ID": 56009,
+    "NUMERO": 56009,
     "NOMBRE": "CABRA DEL SANTO CRISTO Y ALICUN"
   },
   {
-    "ID": 56100,
+    "NUMERO": 56100,
     "NOMBRE": "MOREDA"
   },
   {
-    "ID": 56103,
+    "NUMERO": 56103,
     "NOMBRE": "BENALUA DE GUADIX"
   },
   {
-    "ID": 56200,
+    "NUMERO": 56200,
     "NOMBRE": "GUADIX"
   },
   {
-    "ID": 56301,
+    "NUMERO": 56301,
     "NOMBRE": "FIÑANA"
   },
   {
-    "ID": 56305,
+    "NUMERO": 56305,
     "NOMBRE": "GERGAL"
   },
   {
-    "ID": 56308,
+    "NUMERO": 56308,
     "NOMBRE": "GADOR"
   },
   {
-    "ID": 56310,
+    "NUMERO": 56310,
     "NOMBRE": "HUERCAL-VIATOR"
   },
   {
-    "ID": 56312,
+    "NUMERO": 56312,
     "NOMBRE": "ALMERIA"
   },
   {
-    "ID": 57003,
+    "NUMERO": 57003,
     "NOMBRE": "IZNALLOZ"
   },
   {
-    "ID": 60000,
-    "NOMBRE": "MADRID-PUERTA DE ATOCHA"
+    "NUMERO": 60000,
+    "NOMBRE": "MADRNUMERO-PUERTA DE ATOCHA"
   },
   {
-    "ID": 60100,
+    "NUMERO": 60100,
     "NOMBRE": "VILLAVERDE BAJO"
   },
   {
-    "ID": 60101,
+    "NUMERO": 60101,
     "NOMBRE": "SAN CRISTOBAL INDUSTRIAL"
   },
   {
-    "ID": 60102,
+    "NUMERO": 60102,
     "NOMBRE": "GETAFE-INDUSTRIAL"
   },
   {
-    "ID": 60103,
+    "NUMERO": 60103,
     "NOMBRE": "PINTO"
   },
   {
-    "ID": 60104,
+    "NUMERO": 60104,
     "NOMBRE": "VALDEMORO"
   },
   {
-    "ID": 60105,
+    "NUMERO": 60105,
     "NOMBRE": "CIEMPOZUELOS"
   },
   {
-    "ID": 60107,
+    "NUMERO": 60107,
     "NOMBRE": "SAN CRISTOBAL DE LOS ANGELES"
   },
   {
-    "ID": 60109,
+    "NUMERO": 60109,
     "NOMBRE": "EL CASAR"
   },
   {
-    "ID": 60200,
+    "NUMERO": 60200,
     "NOMBRE": "ARANJUEZ"
   },
   {
-    "ID": 60202,
+    "NUMERO": 60202,
     "NOMBRE": "CASTILLEJO-AÑOVER"
   },
   {
-    "ID": 60203,
+    "NUMERO": 60203,
     "NOMBRE": "VILLASEQUILLA"
   },
   {
-    "ID": 60206,
+    "NUMERO": 60206,
     "NOMBRE": "TEMBLEQUE"
   },
   {
-    "ID": 60207,
+    "NUMERO": 60207,
     "NOMBRE": "EL ROMERAL"
   },
   {
-    "ID": 60300,
+    "NUMERO": 60300,
     "NOMBRE": "VILLACAÑAS"
   },
   {
-    "ID": 60301,
+    "NUMERO": 60301,
     "NOMBRE": "QUERO"
   },
   {
-    "ID": 60400,
+    "NUMERO": 60400,
     "NOMBRE": "ALCAZAR DE SAN JUAN"
   },
   {
-    "ID": 60402,
+    "NUMERO": 60402,
     "NOMBRE": "CAMPO DE CRIPTANA"
   },
   {
-    "ID": 60406,
+    "NUMERO": 60406,
     "NOMBRE": "SOCUELLAMOS"
   },
   {
-    "ID": 60420,
+    "NUMERO": 60420,
     "NOMBRE": "L'HOSPITALET DE L'INFANT"
   },
   {
-    "ID": 60500,
+    "NUMERO": 60500,
     "NOMBRE": "VILLARROBLEDO"
   },
   {
-    "ID": 60503,
+    "NUMERO": 60503,
     "NOMBRE": "MINAYA"
   },
   {
-    "ID": 60505,
+    "NUMERO": 60505,
     "NOMBRE": "LA RODA DE ALBACETE"
   },
   {
-    "ID": 60507,
+    "NUMERO": 60507,
     "NOMBRE": "LA GINETA"
   },
   {
-    "ID": 60600,
+    "NUMERO": 60600,
     "NOMBRE": "ALBACETE LOS LLANOS"
   },
   {
-    "ID": 60800,
+    "NUMERO": 60800,
     "NOMBRE": "ALMANSA"
   },
   {
-    "ID": 60900,
+    "NUMERO": 60900,
     "NOMBRE": "LA ENCINA"
   },
   {
-    "ID": 60901,
+    "NUMERO": 60901,
     "NOMBRE": "CAUDETE"
   },
   {
-    "ID": 60902,
+    "NUMERO": 60902,
     "NOMBRE": "VILLENA"
   },
   {
-    "ID": 60904,
+    "NUMERO": 60904,
     "NOMBRE": "SAX"
   },
   {
-    "ID": 60905,
+    "NUMERO": 60905,
     "NOMBRE": "ELDA-PETRER"
   },
   {
-    "ID": 60907,
+    "NUMERO": 60907,
     "NOMBRE": "NOVELDA-ASPE"
   },
   {
-    "ID": 60911,
+    "NUMERO": 60911,
     "NOMBRE": "ALACANT-TERMINAL"
   },
   {
-    "ID": 60913,
+    "NUMERO": 60913,
     "NOMBRE": "SANT VICENT CENTRE"
   },
   {
-    "ID": 60914,
-    "NOMBRE": "UNIVERSIDAD DE ALICANTE"
+    "NUMERO": 60914,
+    "NOMBRE": "UNIVERSNUMEROAD DE ALICANTE"
   },
   {
-    "ID": 61005,
+    "NUMERO": 61005,
     "NOMBRE": "HELLIN"
   },
   {
-    "ID": 61009,
+    "NUMERO": 61009,
     "NOMBRE": "CALASPARRA"
   },
   {
-    "ID": 61012,
+    "NUMERO": 61012,
     "NOMBRE": "CIEZA"
   },
   {
-    "ID": 61015,
+    "NUMERO": 61015,
     "NOMBRE": "ARCHENA-FORTUNA"
   },
   {
-    "ID": 61200,
+    "NUMERO": 61200,
     "NOMBRE": "MURCIA DEL CARMEN"
   },
   {
-    "ID": 61303,
+    "NUMERO": 61303,
     "NOMBRE": "BALSICAS-MAR MENOR"
   },
   {
-    "ID": 61304,
+    "NUMERO": 61304,
     "NOMBRE": "TORRE-PACHECO"
   },
   {
-    "ID": 61307,
+    "NUMERO": 61307,
     "NOMBRE": "CARTAGENA"
   },
   {
-    "ID": 62001,
+    "NUMERO": 62001,
     "NOMBRE": "BENIEL"
   },
   {
-    "ID": 62002,
+    "NUMERO": 62002,
     "NOMBRE": "ORIHUELA MIGUEL HERNANDEZ"
   },
   {
-    "ID": 62003,
+    "NUMERO": 62003,
     "NOMBRE": "CALLOSA DE SEGURA"
   },
   {
-    "ID": 62100,
-    "NOMBRE": "SAN ISIDRO-ALBATERA-CATRAL"
+    "NUMERO": 62100,
+    "NOMBRE": "SAN ISNUMERORO-ALBATERA-CATRAL"
   },
   {
-    "ID": 62101,
+    "NUMERO": 62101,
     "NOMBRE": "CREVILLENTE"
   },
   {
-    "ID": 62102,
+    "NUMERO": 62102,
     "NOMBRE": "ELX-CARRUS"
   },
   {
-    "ID": 62103,
+    "NUMERO": 62103,
     "NOMBRE": "ELX-PARC"
   },
   {
-    "ID": 62104,
+    "NUMERO": 62104,
     "NOMBRE": "TORRELLANO"
   },
   {
-    "ID": 62109,
+    "NUMERO": 62109,
     "NOMBRE": "SANT GABRIEL"
   },
   {
-    "ID": 64003,
+    "NUMERO": 64003,
     "NOMBRE": "MOIXENT"
   },
   {
-    "ID": 64004,
+    "NUMERO": 64004,
     "NOMBRE": "VALLADA"
   },
   {
-    "ID": 64005,
+    "NUMERO": 64005,
     "NOMBRE": "MONTESA"
   },
   {
-    "ID": 64006,
+    "NUMERO": 64006,
     "NOMBRE": "L'ALCUDIA"
   },
   {
-    "ID": 64007,
+    "NUMERO": 64007,
     "NOMBRE": "L'ENOVA-MANUEL"
   },
   {
-    "ID": 64100,
+    "NUMERO": 64100,
     "NOMBRE": "XATIVA"
   },
   {
-    "ID": 64102,
+    "NUMERO": 64102,
     "NOMBRE": "LA POBLA LLARGA"
   },
   {
-    "ID": 64103,
+    "NUMERO": 64103,
     "NOMBRE": "CARCAIXENT"
   },
   {
-    "ID": 64104,
+    "NUMERO": 64104,
     "NOMBRE": "ALZIRA"
   },
   {
-    "ID": 64105,
+    "NUMERO": 64105,
     "NOMBRE": "ALGEMESI"
   },
   {
-    "ID": 64107,
+    "NUMERO": 64107,
     "NOMBRE": "BENIFAIO"
   },
   {
-    "ID": 64200,
+    "NUMERO": 64200,
     "NOMBRE": "SILLA"
   },
   {
-    "ID": 64201,
+    "NUMERO": 64201,
     "NOMBRE": "CATARROJA"
   },
   {
-    "ID": 64202,
+    "NUMERO": 64202,
     "NOMBRE": "MASSANASSA"
   },
   {
-    "ID": 64203,
+    "NUMERO": 64203,
     "NOMBRE": "ALFAFAR-BENETUSSER"
   },
   {
-    "ID": 65000,
+    "NUMERO": 65000,
     "NOMBRE": "VALENCIA-ESTACIO DEL NORD"
   },
   {
-    "ID": 65001,
+    "NUMERO": 65001,
     "NOMBRE": "ROCA-CUPER"
   },
   {
-    "ID": 65002,
+    "NUMERO": 65002,
     "NOMBRE": "VALENCIA-LA FONT DE SANT LLUIS"
   },
   {
-    "ID": 65003,
+    "NUMERO": 65003,
     "NOMBRE": "VALENCIA-CABANYAL"
   },
   {
-    "ID": 65005,
+    "NUMERO": 65005,
     "NOMBRE": "ALBUIXECH"
   },
   {
-    "ID": 65006,
+    "NUMERO": 65006,
     "NOMBRE": "MASSALFASSAR"
   },
   {
-    "ID": 65007,
+    "NUMERO": 65007,
     "NOMBRE": "EL PUIG"
   },
   {
-    "ID": 65008,
+    "NUMERO": 65008,
     "NOMBRE": "PUÇOL"
   },
   {
-    "ID": 65200,
+    "NUMERO": 65200,
     "NOMBRE": "SAGUNT"
   },
   {
-    "ID": 65201,
+    "NUMERO": 65201,
     "NOMBRE": "LES VALLS"
   },
   {
-    "ID": 65202,
+    "NUMERO": 65202,
     "NOMBRE": "ALMENARA"
   },
   {
-    "ID": 65203,
+    "NUMERO": 65203,
     "NOMBRE": "LA LLOSA"
   },
   {
-    "ID": 65204,
+    "NUMERO": 65204,
     "NOMBRE": "CHILCHES"
   },
   {
-    "ID": 65205,
+    "NUMERO": 65205,
     "NOMBRE": "MONCOFAR"
   },
   {
-    "ID": 65206,
+    "NUMERO": 65206,
     "NOMBRE": "NULES-VILLAVIEJA"
   },
   {
-    "ID": 65207,
-    "NOMBRE": "BURRIANA-ALQUERIAS DEL NIÑO PERDIDO"
+    "NUMERO": 65207,
+    "NOMBRE": "BURRIANA-ALQUERIAS DEL NIÑO PERDNUMEROO"
   },
   {
-    "ID": 65208,
+    "NUMERO": 65208,
     "NOMBRE": "VILA-REAL"
   },
   {
-    "ID": 65209,
+    "NUMERO": 65209,
     "NOMBRE": "ALMASSORA"
   },
   {
-    "ID": 65300,
+    "NUMERO": 65300,
     "NOMBRE": "CASTELLO DE LA PLANA"
   },
   {
-    "ID": 65304,
+    "NUMERO": 65304,
     "NOMBRE": "ORPESA"
   },
   {
-    "ID": 65306,
+    "NUMERO": 65306,
     "NOMBRE": "TORREBLANCA"
   },
   {
-    "ID": 65308,
+    "NUMERO": 65308,
     "NOMBRE": "ALCALA DE CHIVERT"
   },
   {
-    "ID": 65311,
+    "NUMERO": 65311,
     "NOMBRE": "BENICARLO-PEÑISCOLA"
   },
   {
-    "ID": 65312,
+    "NUMERO": 65312,
     "NOMBRE": "VINAROS"
   },
   {
-    "ID": 65314,
+    "NUMERO": 65314,
     "NOMBRE": "ULLDECONA-ALCANAR-LA SENIA"
   },
   {
-    "ID": 65318,
+    "NUMERO": 65318,
     "NOMBRE": "BENICASSIM"
   },
   {
-    "ID": 65400,
+    "NUMERO": 65400,
     "NOMBRE": "TORTOSA"
   },
   {
-    "ID": 65401,
+    "NUMERO": 65401,
     "NOMBRE": "CAMP-REDO"
   },
   {
-    "ID": 65402,
+    "NUMERO": 65402,
     "NOMBRE": "L'ALDEA-AMPOSTA-TORTOSA"
   },
   {
-    "ID": 65403,
+    "NUMERO": 65403,
     "NOMBRE": "CAMARLES-DELTEBRE"
   },
   {
-    "ID": 65404,
+    "NUMERO": 65404,
     "NOMBRE": "L'AMPOLLA-PERELLO-DELTEBRE"
   },
   {
-    "ID": 65405,
+    "NUMERO": 65405,
     "NOMBRE": "L'AMETLLA DE MAR"
   },
   {
-    "ID": 65407,
+    "NUMERO": 65407,
     "NOMBRE": "L'HOSPITALET DE L'INFANT"
   },
   {
-    "ID": 65408,
+    "NUMERO": 65408,
     "NOMBRE": "MONT-ROIG DEL CAMP"
   },
   {
-    "ID": 65409,
+    "NUMERO": 65409,
     "NOMBRE": "CAMBRILS"
   },
   {
-    "ID": 65410,
+    "NUMERO": 65410,
     "NOMBRE": "SALOU"
   },
   {
-    "ID": 65411,
+    "NUMERO": 65411,
     "NOMBRE": "PORT AVENTURA"
   },
   {
-    "ID": 65422,
+    "NUMERO": 65422,
     "NOMBRE": "CAMBRILS"
   },
   {
-    "ID": 66001,
+    "NUMERO": 66001,
     "NOMBRE": "ONTIGOLA"
   },
   {
-    "ID": 66002,
+    "NUMERO": 66002,
     "NOMBRE": "OCAÑA"
   },
   {
-    "ID": 66003,
+    "NUMERO": 66003,
     "NOMBRE": "NOBLEJAS"
   },
   {
-    "ID": 66004,
+    "NUMERO": 66004,
     "NOMBRE": "VILLARRUBIA DE SANTIAGO"
   },
   {
-    "ID": 66005,
+    "NUMERO": 66005,
     "NOMBRE": "SANTA CRUZ DE LA ZARZA"
   },
   {
-    "ID": 66006,
+    "NUMERO": 66006,
     "NOMBRE": "TARANCON"
   },
   {
-    "ID": 66011,
+    "NUMERO": 66011,
     "NOMBRE": "HUETE"
   },
   {
-    "ID": 66013,
+    "NUMERO": 66013,
     "NOMBRE": "CASTILLEJO DEL ROMERAL"
   },
   {
-    "ID": 66014,
+    "NUMERO": 66014,
     "NOMBRE": "CUEVAS DE VELASCO"
   },
   {
-    "ID": 66016,
+    "NUMERO": 66016,
     "NOMBRE": "CHILLARON"
   },
   {
-    "ID": 66100,
+    "NUMERO": 66100,
     "NOMBRE": "CUENCA"
   },
   {
-    "ID": 66103,
+    "NUMERO": 66103,
     "NOMBRE": "CAÑADA DEL HOYO"
   },
   {
-    "ID": 66104,
+    "NUMERO": 66104,
     "NOMBRE": "CARBONERAS DE GUADAZAON"
   },
   {
-    "ID": 66105,
+    "NUMERO": 66105,
     "NOMBRE": "ARGUISUELAS"
   },
   {
-    "ID": 66108,
+    "NUMERO": 66108,
     "NOMBRE": "YEMEDA-CARDENETE"
   },
   {
-    "ID": 66109,
+    "NUMERO": 66109,
     "NOMBRE": "VILLORA"
   },
   {
-    "ID": 66112,
+    "NUMERO": 66112,
     "NOMBRE": "CAMPORROBLES"
   },
   {
-    "ID": 66113,
+    "NUMERO": 66113,
     "NOMBRE": "LAS CUEVAS"
   },
   {
-    "ID": 66200,
+    "NUMERO": 66200,
     "NOMBRE": "UTIEL"
   },
   {
-    "ID": 66201,
+    "NUMERO": 66201,
     "NOMBRE": "SAN ANTONIO DE REQUENA"
   },
   {
-    "ID": 66202,
+    "NUMERO": 66202,
     "NOMBRE": "REQUENA"
   },
   {
-    "ID": 66203,
+    "NUMERO": 66203,
     "NOMBRE": "EL REBOLLAR"
   },
   {
-    "ID": 66204,
+    "NUMERO": 66204,
     "NOMBRE": "SIETE AGUAS"
   },
   {
-    "ID": 66205,
+    "NUMERO": 66205,
     "NOMBRE": "VENTA MINA-SIETE AGUAS"
   },
   {
-    "ID": 66206,
+    "NUMERO": 66206,
     "NOMBRE": "BUÑOL"
   },
   {
-    "ID": 66207,
+    "NUMERO": 66207,
     "NOMBRE": "CHIVA"
   },
   {
-    "ID": 66208,
+    "NUMERO": 66208,
     "NOMBRE": "CHESTE"
   },
   {
-    "ID": 66209,
+    "NUMERO": 66209,
     "NOMBRE": "LORIGUILLA-REVA"
   },
   {
-    "ID": 66210,
+    "NUMERO": 66210,
     "NOMBRE": "CIRCUIT RICARDO TORMO"
   },
   {
-    "ID": 66211,
+    "NUMERO": 66211,
     "NOMBRE": "ALDAIA"
   },
   {
-    "ID": 66212,
-    "NOMBRE": "VALENCIA SANT ISIDRE"
+    "NUMERO": 66212,
+    "NOMBRE": "VALENCIA SANT ISNUMERORE"
   },
   {
-    "ID": 66214,
+    "NUMERO": 66214,
     "NOMBRE": "XIRIVELLA-ALQUERIES"
   },
   {
-    "ID": 67004,
+    "NUMERO": 67004,
     "NOMBRE": "MARIA DE HUERVA"
   },
   {
-    "ID": 67007,
+    "NUMERO": 67007,
     "NOMBRE": "ARAÑALES DE MUEL"
   },
   {
-    "ID": 67009,
+    "NUMERO": 67009,
     "NOMBRE": "LONGARES"
   },
   {
-    "ID": 67010,
+    "NUMERO": 67010,
     "NOMBRE": "CARIÑENA"
   },
   {
-    "ID": 67011,
+    "NUMERO": 67011,
     "NOMBRE": "ENCINACORBA"
   },
   {
-    "ID": 67013,
+    "NUMERO": 67013,
     "NOMBRE": "VILLARREAL DE HUERVA"
   },
   {
-    "ID": 67014,
+    "NUMERO": 67014,
     "NOMBRE": "VILLADOZ"
   },
   {
-    "ID": 67015,
+    "NUMERO": 67015,
     "NOMBRE": "BADULES"
   },
   {
-    "ID": 67016,
+    "NUMERO": 67016,
     "NOMBRE": "VILLAHERMOSA"
   },
   {
-    "ID": 67017,
+    "NUMERO": 67017,
     "NOMBRE": "FERRERUELA"
   },
   {
-    "ID": 67018,
+    "NUMERO": 67018,
     "NOMBRE": "CUENCABUENA"
   },
   {
-    "ID": 67019,
+    "NUMERO": 67019,
     "NOMBRE": "LECHAGO"
   },
   {
-    "ID": 67020,
+    "NUMERO": 67020,
     "NOMBRE": "NAVARRETE"
   },
   {
-    "ID": 67021,
+    "NUMERO": 67021,
     "NOMBRE": "CALAMOCHA"
   },
   {
-    "ID": 67100,
+    "NUMERO": 67100,
     "NOMBRE": "CAMINREAL-FUENTES CLARAS"
   },
   {
-    "ID": 67101,
+    "NUMERO": 67101,
     "NOMBRE": "TORRIJO DEL CAMPO"
   },
   {
-    "ID": 67103,
+    "NUMERO": 67103,
     "NOMBRE": "VILLAFRANCA DEL CAMPO"
   },
   {
-    "ID": 67105,
+    "NUMERO": 67105,
     "NOMBRE": "SANTA EULALIA DEL CAMPO"
   },
   {
-    "ID": 67107,
+    "NUMERO": 67107,
     "NOMBRE": "CELLA"
   },
   {
-    "ID": 67113,
+    "NUMERO": 67113,
     "NOMBRE": "MONREAL DEL CAMPO"
   },
   {
-    "ID": 67200,
+    "NUMERO": 67200,
     "NOMBRE": "TERUEL"
   },
   {
-    "ID": 67202,
+    "NUMERO": 67202,
     "NOMBRE": "PUERTO ESCANDON"
   },
   {
-    "ID": 67203,
+    "NUMERO": 67203,
     "NOMBRE": "PUEBLA DE VALVERDE"
   },
   {
-    "ID": 67205,
+    "NUMERO": 67205,
     "NOMBRE": "SARRION"
   },
   {
-    "ID": 67206,
+    "NUMERO": 67206,
     "NOMBRE": "MORA DE RUBIELOS"
   },
   {
-    "ID": 67207,
+    "NUMERO": 67207,
     "NOMBRE": "RUBIELOS DE MORA"
   },
   {
-    "ID": 67208,
+    "NUMERO": 67208,
     "NOMBRE": "BARRACAS"
   },
   {
-    "ID": 67211,
+    "NUMERO": 67211,
     "NOMBRE": "CAUDIEL"
   },
   {
-    "ID": 67212,
+    "NUMERO": 67212,
     "NOMBRE": "JERICA-VIVER"
   },
   {
-    "ID": 67213,
+    "NUMERO": 67213,
     "NOMBRE": "NAVAJAS"
   },
   {
-    "ID": 67214,
+    "NUMERO": 67214,
     "NOMBRE": "SEGORBE-ARRABAL"
   },
   {
-    "ID": 67215,
+    "NUMERO": 67215,
     "NOMBRE": "SEGORBE-CIUDAD"
   },
   {
-    "ID": 67216,
+    "NUMERO": 67216,
     "NOMBRE": "ALGIMIA-CIUDAD"
   },
   {
-    "ID": 67217,
+    "NUMERO": 67217,
     "NOMBRE": "SONEJA"
   },
   {
-    "ID": 67221,
+    "NUMERO": 67221,
     "NOMBRE": "ESTIVELLA-ALBALAT DELS TARONGERS"
   },
   {
-    "ID": 67223,
+    "NUMERO": 67223,
     "NOMBRE": "GILET"
   },
   {
-    "ID": 69001,
+    "NUMERO": 69001,
     "NOMBRE": "GENOVES"
   },
   {
-    "ID": 69002,
+    "NUMERO": 69002,
     "NOMBRE": "BENIGANIM"
   },
   {
-    "ID": 69003,
+    "NUMERO": 69003,
     "NOMBRE": "LA POBLA DEL DUC"
   },
   {
-    "ID": 69004,
+    "NUMERO": 69004,
     "NOMBRE": "MONTABERNER"
   },
   {
-    "ID": 69005,
+    "NUMERO": 69005,
     "NOMBRE": "BUFALI"
   },
   {
-    "ID": 69006,
-    "NOMBRE": "ALBAIDA"
+    "NUMERO": 69006,
+    "NOMBRE": "ALBANUMEROA"
   },
   {
-    "ID": 69007,
+    "NUMERO": 69007,
     "NOMBRE": "AGULLENT"
   },
   {
-    "ID": 69008,
+    "NUMERO": 69008,
     "NOMBRE": "ONTINYENT"
   },
   {
-    "ID": 69009,
+    "NUMERO": 69009,
     "NOMBRE": "AGRES"
   },
   {
-    "ID": 69010,
+    "NUMERO": 69010,
     "NOMBRE": "COCENTAINA"
   },
   {
-    "ID": 69011,
+    "NUMERO": 69011,
     "NOMBRE": "ALCOI"
   },
   {
-    "ID": 69101,
+    "NUMERO": 69101,
     "NOMBRE": "EL ROMANI"
   },
   {
-    "ID": 69102,
+    "NUMERO": 69102,
     "NOMBRE": "SOLLANA"
   },
   {
-    "ID": 69103,
+    "NUMERO": 69103,
     "NOMBRE": "SUECA"
   },
   {
-    "ID": 69104,
+    "NUMERO": 69104,
     "NOMBRE": "CULLERA"
   },
   {
-    "ID": 69105,
+    "NUMERO": 69105,
     "NOMBRE": "TAVERNES DE LA VALLDIGNA"
   },
   {
-    "ID": 69107,
+    "NUMERO": 69107,
     "NOMBRE": "XERACO"
   },
   {
-    "ID": 69110,
+    "NUMERO": 69110,
     "NOMBRE": "GANDIA"
   },
   {
-    "ID": 69111,
+    "NUMERO": 69111,
     "NOMBRE": "PLATJA I GRAU DE GANDIA"
   },
   {
-    "ID": 69200,
+    "NUMERO": 69200,
     "NOMBRE": "XIRIVELLA-L'ALTER"
   },
   {
-    "ID": 70001,
+    "NUMERO": 70001,
     "NOMBRE": "VALLECAS"
   },
   {
-    "ID": 70002,
-    "NOMBRE": "ASAMBLEA DE MADRID-ENTREVIAS"
+    "NUMERO": 70002,
+    "NOMBRE": "ASAMBLEA DE MADRNUMERO-ENTREVIAS"
   },
   {
-    "ID": 70003,
+    "NUMERO": 70003,
     "NOMBRE": "EL POZO"
   },
   {
-    "ID": 70100,
+    "NUMERO": 70100,
     "NOMBRE": "VICALVARO"
   },
   {
-    "ID": 70101,
+    "NUMERO": 70101,
     "NOMBRE": "SAN FERNANDO DE HENARES"
   },
   {
-    "ID": 70102,
+    "NUMERO": 70102,
     "NOMBRE": "TORREJON DE ARDOZ"
   },
   {
-    "ID": 70103,
+    "NUMERO": 70103,
     "NOMBRE": "ALCALA DE HENARES"
   },
   {
-    "ID": 70104,
+    "NUMERO": 70104,
     "NOMBRE": "MECO"
   },
   {
-    "ID": 70105,
+    "NUMERO": 70105,
     "NOMBRE": "AZUQUECA"
   },
   {
-    "ID": 70107,
-    "NOMBRE": "ALCALA DE HENARES-UNIVERSIDAD"
+    "NUMERO": 70107,
+    "NOMBRE": "ALCALA DE HENARES-UNIVERSNUMEROAD"
   },
   {
-    "ID": 70108,
+    "NUMERO": 70108,
     "NOMBRE": "COSLADA"
   },
   {
-    "ID": 70109,
+    "NUMERO": 70109,
     "NOMBRE": "SANTA EUGENIA"
   },
   {
-    "ID": 70111,
+    "NUMERO": 70111,
     "NOMBRE": "LA GARENA"
   },
   {
-    "ID": 70112,
+    "NUMERO": 70112,
     "NOMBRE": "SOTO DEL HENARES"
   },
   {
-    "ID": 70200,
+    "NUMERO": 70200,
     "NOMBRE": "GUADALAJARA"
   },
   {
-    "ID": 70202,
+    "NUMERO": 70202,
     "NOMBRE": "YUNQUERA DE HENARES"
   },
   {
-    "ID": 70204,
+    "NUMERO": 70204,
     "NOMBRE": "HUMANES DE MOHERNANDO"
   },
   {
-    "ID": 70207,
+    "NUMERO": 70207,
     "NOMBRE": "ESPINOSA DE HENARES"
   },
   {
-    "ID": 70208,
+    "NUMERO": 70208,
     "NOMBRE": "CARRASCOSA DE HENARES"
   },
   {
-    "ID": 70209,
+    "NUMERO": 70209,
     "NOMBRE": "JADRAQUE"
   },
   {
-    "ID": 70210,
+    "NUMERO": 70210,
     "NOMBRE": "MATILLAS"
   },
   {
-    "ID": 70300,
-    "NOMBRE": "BAIDES"
+    "NUMERO": 70300,
+    "NOMBRE": "BANUMEROES"
   },
   {
-    "ID": 70302,
+    "NUMERO": 70302,
     "NOMBRE": "SIGÜENZA"
   },
   {
-    "ID": 70400,
+    "NUMERO": 70400,
     "NOMBRE": "TORRALBA"
   },
   {
-    "ID": 70401,
+    "NUMERO": 70401,
     "NOMBRE": "MEDINACELI"
   },
   {
-    "ID": 70403,
+    "NUMERO": 70403,
     "NOMBRE": "ARCOS DE JALON"
   },
   {
-    "ID": 70404,
+    "NUMERO": 70404,
     "NOMBRE": "SANTA MARIA DE HUERTA"
   },
   {
-    "ID": 70405,
+    "NUMERO": 70405,
     "NOMBRE": "MONREAL DE ARIZA"
   },
   {
-    "ID": 70500,
+    "NUMERO": 70500,
     "NOMBRE": "ARIZA"
   },
   {
-    "ID": 70501,
+    "NUMERO": 70501,
     "NOMBRE": "CETINA"
   },
   {
-    "ID": 70502,
+    "NUMERO": 70502,
     "NOMBRE": "ALHAMA DE ARAGON"
   },
   {
-    "ID": 70503,
+    "NUMERO": 70503,
     "NOMBRE": "BUBIERCA"
   },
   {
-    "ID": 70504,
+    "NUMERO": 70504,
     "NOMBRE": "ATECA"
   },
   {
-    "ID": 70505,
+    "NUMERO": 70505,
     "NOMBRE": "TERRER"
   },
   {
-    "ID": 70600,
+    "NUMERO": 70600,
     "NOMBRE": "CALATAYUD"
   },
   {
-    "ID": 70602,
-    "NOMBRE": "EMBID DE JALON"
+    "NUMERO": 70602,
+    "NOMBRE": "EMBNUMERO DE JALON"
   },
   {
-    "ID": 70603,
+    "NUMERO": 70603,
     "NOMBRE": "PARACUELLOS-SABIÑAN"
   },
   {
-    "ID": 70604,
+    "NUMERO": 70604,
     "NOMBRE": "SABIÑAN"
   },
   {
-    "ID": 70605,
+    "NUMERO": 70605,
     "NOMBRE": "MORES"
   },
   {
-    "ID": 70606,
+    "NUMERO": 70606,
     "NOMBRE": "PURROY"
   },
   {
-    "ID": 70607,
+    "NUMERO": 70607,
     "NOMBRE": "MORATA DE JALON"
   },
   {
-    "ID": 70700,
+    "NUMERO": 70700,
     "NOMBRE": "RICLA-LA ALMUNIA"
   },
   {
-    "ID": 70701,
+    "NUMERO": 70701,
     "NOMBRE": "CALATORAO"
   },
   {
-    "ID": 70702,
+    "NUMERO": 70702,
     "NOMBRE": "SALILLAS DE JALON"
   },
   {
-    "ID": 70703,
+    "NUMERO": 70703,
     "NOMBRE": "EPILA"
   },
   {
-    "ID": 70704,
+    "NUMERO": 70704,
     "NOMBRE": "RUEDA DE JALON-LUMPIAQUE"
   },
   {
-    "ID": 70705,
+    "NUMERO": 70705,
     "NOMBRE": "PLASENCIA DE JALON"
   },
   {
-    "ID": 70706,
+    "NUMERO": 70706,
     "NOMBRE": "GRISEN"
   },
   {
-    "ID": 70800,
+    "NUMERO": 70800,
     "NOMBRE": "CASETAS"
   },
   {
-    "ID": 70801,
+    "NUMERO": 70801,
     "NOMBRE": "UTEBO-PUEBLO"
   },
   {
-    "ID": 70806,
+    "NUMERO": 70806,
     "NOMBRE": "ZARAGOZA-EL PORTILLO"
   },
   {
-    "ID": 70807,
+    "NUMERO": 70807,
     "NOMBRE": "ZARAGOZA-GOYA"
   },
   {
-    "ID": 71100,
+    "NUMERO": 71100,
     "NOMBRE": "MIRAFLORES"
   },
   {
-    "ID": 71103,
+    "NUMERO": 71103,
     "NOMBRE": "FUENTES DE EBRO"
   },
   {
-    "ID": 71105,
+    "NUMERO": 71105,
     "NOMBRE": "QUINTO"
   },
   {
-    "ID": 71108,
-    "NOMBRE": "LA ZAIDA-SASTAGO"
+    "NUMERO": 71108,
+    "NOMBRE": "LA ZANUMEROA-SASTAGO"
   },
   {
-    "ID": 71200,
+    "NUMERO": 71200,
     "NOMBRE": "LA PUEBLA DE HIJAR"
   },
   {
-    "ID": 71201,
+    "NUMERO": 71201,
     "NOMBRE": "SAMPER"
   },
   {
-    "ID": 71204,
+    "NUMERO": 71204,
     "NOMBRE": "CASPE"
   },
   {
-    "ID": 71205,
+    "NUMERO": 71205,
     "NOMBRE": "VAL DE PILAS"
   },
   {
-    "ID": 71206,
+    "NUMERO": 71206,
     "NOMBRE": "FABARA"
   },
   {
-    "ID": 71207,
+    "NUMERO": 71207,
     "NOMBRE": "NONASPE"
   },
   {
-    "ID": 71208,
+    "NUMERO": 71208,
     "NOMBRE": "FAIO-LA POBLA DE MASSALUCA"
   },
   {
-    "ID": 71209,
+    "NUMERO": 71209,
     "NOMBRE": "RIBA-ROJA D'EBRE"
   },
   {
-    "ID": 71210,
+    "NUMERO": 71210,
     "NOMBRE": "FLIX"
   },
   {
-    "ID": 71211,
+    "NUMERO": 71211,
     "NOMBRE": "ASCO"
   },
   {
-    "ID": 71300,
+    "NUMERO": 71300,
     "NOMBRE": "MORA LA NOVA"
   },
   {
-    "ID": 71301,
+    "NUMERO": 71301,
     "NOMBRE": "ELS GUIAMETS"
   },
   {
-    "ID": 71302,
+    "NUMERO": 71302,
     "NOMBRE": "CAPÇANES"
   },
   {
-    "ID": 71303,
+    "NUMERO": 71303,
     "NOMBRE": "MARÇA-FALSET"
   },
   {
-    "ID": 71304,
+    "NUMERO": 71304,
     "NOMBRE": "PRADELL"
   },
   {
-    "ID": 71305,
+    "NUMERO": 71305,
     "NOMBRE": "DUESAIGÜES-L'ARGENTERA"
   },
   {
-    "ID": 71306,
+    "NUMERO": 71306,
     "NOMBRE": "RIUDECANYES-BOTARELL"
   },
   {
-    "ID": 71307,
+    "NUMERO": 71307,
     "NOMBRE": "LES BORGES DEL CAMP"
   },
   {
-    "ID": 71400,
+    "NUMERO": 71400,
     "NOMBRE": "REUS"
   },
   {
-    "ID": 71401,
+    "NUMERO": 71401,
     "NOMBRE": "VILA-SECA"
   },
   {
-    "ID": 71500,
+    "NUMERO": 71500,
     "NOMBRE": "TARRAGONA"
   },
   {
-    "ID": 71502,
+    "NUMERO": 71502,
     "NOMBRE": "ALTAFULLA-TAMARIT"
   },
   {
-    "ID": 71503,
+    "NUMERO": 71503,
     "NOMBRE": "TORREDEMBARRA"
   },
   {
-    "ID": 71600,
+    "NUMERO": 71600,
     "NOMBRE": "SANT VICENÇ DE CALDERS"
   },
   {
-    "ID": 71601,
+    "NUMERO": 71601,
     "NOMBRE": "CALAFELL"
   },
   {
-    "ID": 71602,
+    "NUMERO": 71602,
     "NOMBRE": "SEGUR DE CALAFELL"
   },
   {
-    "ID": 71603,
+    "NUMERO": 71603,
     "NOMBRE": "CUNIT"
   },
   {
-    "ID": 71604,
+    "NUMERO": 71604,
     "NOMBRE": "CUBELLES"
   },
   {
-    "ID": 71700,
+    "NUMERO": 71700,
     "NOMBRE": "VILANOVA I LA GELTRU"
   },
   {
-    "ID": 71701,
+    "NUMERO": 71701,
     "NOMBRE": "SITGES"
   },
   {
-    "ID": 71703,
+    "NUMERO": 71703,
     "NOMBRE": "GARRAF"
   },
   {
-    "ID": 71704,
+    "NUMERO": 71704,
     "NOMBRE": "PLATJA DE CASTELLDEFELS"
   },
   {
-    "ID": 71705,
+    "NUMERO": 71705,
     "NOMBRE": "CASTELLDEFELS"
   },
   {
-    "ID": 71706,
+    "NUMERO": 71706,
     "NOMBRE": "GAVA"
   },
   {
-    "ID": 71707,
+    "NUMERO": 71707,
     "NOMBRE": "EL PRAT DE LLOBREGAT"
   },
   {
-    "ID": 71708,
+    "NUMERO": 71708,
     "NOMBRE": "BELLVITGE"
   },
   {
-    "ID": 71709,
+    "NUMERO": 71709,
     "NOMBRE": "VILADECANS"
   },
   {
-    "ID": 71801,
+    "NUMERO": 71801,
     "NOMBRE": "BARCELONA-SANTS"
   },
   {
-    "ID": 71802,
+    "NUMERO": 71802,
     "NOMBRE": "BARCELONA-PASSEIG DE GRACIA"
   },
   {
-    "ID": 72100,
+    "NUMERO": 72100,
     "NOMBRE": "RODA DE BARA"
   },
   {
-    "ID": 72101,
+    "NUMERO": 72101,
     "NOMBRE": "RODA DE MAR"
   },
   {
-    "ID": 72201,
+    "NUMERO": 72201,
     "NOMBRE": "EL VENDRELL"
   },
   {
-    "ID": 72202,
+    "NUMERO": 72202,
     "NOMBRE": "L'ARBOÇ"
   },
   {
-    "ID": 72203,
+    "NUMERO": 72203,
     "NOMBRE": "ELS MONJOS"
   },
   {
-    "ID": 72204,
+    "NUMERO": 72204,
     "NOMBRE": "VILAFRANCA DEL PENEDES"
   },
   {
-    "ID": 72205,
+    "NUMERO": 72205,
     "NOMBRE": "LA GRANADA"
   },
   {
-    "ID": 72206,
+    "NUMERO": 72206,
     "NOMBRE": "LAVERN-SUBIRATS"
   },
   {
-    "ID": 72207,
+    "NUMERO": 72207,
     "NOMBRE": "SANT SADURNI D'ANOIA"
   },
   {
-    "ID": 72208,
-    "NOMBRE": "GELIDA"
+    "NUMERO": 72208,
+    "NOMBRE": "GELNUMEROA"
   },
   {
-    "ID": 72209,
+    "NUMERO": 72209,
     "NOMBRE": "MARTORELL"
   },
   {
-    "ID": 72210,
+    "NUMERO": 72210,
     "NOMBRE": "CASTELLBISBAL"
   },
   {
-    "ID": 72211,
+    "NUMERO": 72211,
     "NOMBRE": "EL PAPIOL"
   },
   {
-    "ID": 72300,
+    "NUMERO": 72300,
     "NOMBRE": "MOLINS DE REI"
   },
   {
-    "ID": 72301,
+    "NUMERO": 72301,
     "NOMBRE": "SANT FELIU DE LLOBREGAT"
   },
   {
-    "ID": 72302,
+    "NUMERO": 72302,
     "NOMBRE": "SANT JOAN DESPI"
   },
   {
-    "ID": 72303,
+    "NUMERO": 72303,
     "NOMBRE": "CORNELLA"
   },
   {
-    "ID": 72305,
+    "NUMERO": 72305,
     "NOMBRE": "L'HOSPITALET DE LLOBREGAT"
   },
   {
-    "ID": 72400,
+    "NUMERO": 72400,
     "NOMBRE": "AEROPORT"
   },
   {
-    "ID": 72501,
+    "NUMERO": 72501,
     "NOMBRE": "RUBI"
   },
   {
-    "ID": 72502,
+    "NUMERO": 72502,
     "NOMBRE": "SANT CUGAT DEL VALLES"
   },
   {
-    "ID": 72503,
+    "NUMERO": 72503,
     "NOMBRE": "CERDANYOLA UNIVERSITAT"
   },
   {
-    "ID": 73001,
-    "NOMBRE": "PUIGVERD DE LLEIDA-ARTESA DE LLEIDA"
+    "NUMERO": 73001,
+    "NOMBRE": "PUIGVERD DE LLENUMEROA-ARTESA DE LLENUMEROA"
   },
   {
-    "ID": 73002,
+    "NUMERO": 73002,
     "NOMBRE": "JUNEDA"
   },
   {
-    "ID": 73003,
+    "NUMERO": 73003,
     "NOMBRE": "LES BORGES BLANQUES"
   },
   {
-    "ID": 73004,
+    "NUMERO": 73004,
     "NOMBRE": "LA FLORESTA"
   },
   {
-    "ID": 73005,
+    "NUMERO": 73005,
     "NOMBRE": "VINAIXA"
   },
   {
-    "ID": 73006,
+    "NUMERO": 73006,
     "NOMBRE": "VIMBODI I POBLET"
   },
   {
-    "ID": 73007,
+    "NUMERO": 73007,
     "NOMBRE": "L'ESPLUGA DE FRANCOLI"
   },
   {
-    "ID": 73008,
+    "NUMERO": 73008,
     "NOMBRE": "MONTBLANC"
   },
   {
-    "ID": 73009,
+    "NUMERO": 73009,
     "NOMBRE": "VILAVERD"
   },
   {
-    "ID": 73010,
+    "NUMERO": 73010,
     "NOMBRE": "LA RIBA"
   },
   {
-    "ID": 73100,
+    "NUMERO": 73100,
     "NOMBRE": "LA PLANA-PICAMOIXONS"
   },
   {
-    "ID": 73101,
+    "NUMERO": 73101,
     "NOMBRE": "ALCOVER"
   },
   {
-    "ID": 73102,
+    "NUMERO": 73102,
     "NOMBRE": "LA SELVA DEL CAMP"
   },
   {
-    "ID": 74200,
+    "NUMERO": 74200,
     "NOMBRE": "HUESCA"
   },
   {
-    "ID": 74202,
+    "NUMERO": 74202,
     "NOMBRE": "PLASENCIA DEL MONTE"
   },
   {
-    "ID": 74204,
+    "NUMERO": 74204,
     "NOMBRE": "AYERBE"
   },
   {
-    "ID": 74205,
+    "NUMERO": 74205,
     "NOMBRE": "RIGLOS-CONCILIO"
   },
   {
-    "ID": 74206,
+    "NUMERO": 74206,
     "NOMBRE": "RIGLOS"
   },
   {
-    "ID": 74207,
+    "NUMERO": 74207,
     "NOMBRE": "SANTA MARIA Y LA PEÑA"
   },
   {
-    "ID": 74208,
+    "NUMERO": 74208,
     "NOMBRE": "ANZANIGO"
   },
   {
-    "ID": 74209,
+    "NUMERO": 74209,
     "NOMBRE": "CALDEARENAS-AQUILUE"
   },
   {
-    "ID": 74211,
+    "NUMERO": 74211,
     "NOMBRE": "SABIÑANIGO"
   },
   {
-    "ID": 74213,
+    "NUMERO": 74213,
     "NOMBRE": "JACA"
   },
   {
-    "ID": 74214,
+    "NUMERO": 74214,
     "NOMBRE": "CASTIELLO-PUEBLO"
   },
   {
-    "ID": 74216,
+    "NUMERO": 74216,
     "NOMBRE": "VILLANUA-LETRANZ"
   },
   {
-    "ID": 74217,
+    "NUMERO": 74217,
     "NOMBRE": "CANFRANC"
   },
   {
-    "ID": 76001,
+    "NUMERO": 76001,
     "NOMBRE": "SALOMO"
   },
   {
-    "ID": 76002,
+    "NUMERO": 76002,
     "NOMBRE": "VILABELLA"
   },
   {
-    "ID": 76003,
+    "NUMERO": 76003,
     "NOMBRE": "NULLES-BRAFIM"
   },
   {
-    "ID": 76004,
+    "NUMERO": 76004,
     "NOMBRE": "VALLS"
   },
   {
-    "ID": 77002,
+    "NUMERO": 77002,
     "NOMBRE": "MONTCADA-RIPOLLET"
   },
   {
-    "ID": 77003,
+    "NUMERO": 77003,
     "NOMBRE": "SANTA PERPETUA DE MOGODA"
   },
   {
-    "ID": 77004,
+    "NUMERO": 77004,
     "NOMBRE": "MOLLET-SANTA ROSA"
   },
   {
-    "ID": 77005,
+    "NUMERO": 77005,
     "NOMBRE": "PARETS DEL VALLES"
   },
   {
-    "ID": 77006,
+    "NUMERO": 77006,
     "NOMBRE": "GRANOLLERS-CANOVELLES"
   },
   {
-    "ID": 77100,
+    "NUMERO": 77100,
     "NOMBRE": "LES FRANQUESES DEL VALLES"
   },
   {
-    "ID": 77102,
+    "NUMERO": 77102,
     "NOMBRE": "LA GARRIGA"
   },
   {
-    "ID": 77103,
+    "NUMERO": 77103,
     "NOMBRE": "FIGARO"
   },
   {
-    "ID": 77104,
+    "NUMERO": 77104,
     "NOMBRE": "SANT MARTI DE CENTELLES"
   },
   {
-    "ID": 77105,
+    "NUMERO": 77105,
     "NOMBRE": "CENTELLES"
   },
   {
-    "ID": 77106,
+    "NUMERO": 77106,
     "NOMBRE": "BALENYA-ELS HOSTALETS"
   },
   {
-    "ID": 77107,
+    "NUMERO": 77107,
     "NOMBRE": "BALENYA-TONA-SEVA"
   },
   {
-    "ID": 77109,
+    "NUMERO": 77109,
     "NOMBRE": "VIC"
   },
   {
-    "ID": 77110,
+    "NUMERO": 77110,
     "NOMBRE": "MANLLEU"
   },
   {
-    "ID": 77111,
+    "NUMERO": 77111,
     "NOMBRE": "TORELLO"
   },
   {
-    "ID": 77112,
+    "NUMERO": 77112,
     "NOMBRE": "BORGONYA"
   },
   {
-    "ID": 77113,
+    "NUMERO": 77113,
     "NOMBRE": "SANT QUIRZE DE BESORA-MONTESQUIU"
   },
   {
-    "ID": 77114,
+    "NUMERO": 77114,
     "NOMBRE": "LA FARGA DE BEBIE"
   },
   {
-    "ID": 77200,
+    "NUMERO": 77200,
     "NOMBRE": "RIPOLL"
   },
   {
-    "ID": 77301,
+    "NUMERO": 77301,
     "NOMBRE": "CAMPDEVANOL"
   },
   {
-    "ID": 77303,
+    "NUMERO": 77303,
     "NOMBRE": "RIBES DE FRESER"
   },
   {
-    "ID": 77304,
+    "NUMERO": 77304,
     "NOMBRE": "PLANOLES"
   },
   {
-    "ID": 77305,
+    "NUMERO": 77305,
     "NOMBRE": "TOSES"
   },
   {
-    "ID": 77306,
+    "NUMERO": 77306,
     "NOMBRE": "LA MOLINA"
   },
   {
-    "ID": 77307,
+    "NUMERO": 77307,
     "NOMBRE": "URTX-ALP"
   },
   {
-    "ID": 77309,
+    "NUMERO": 77309,
     "NOMBRE": "PUIGCERDA"
   },
   {
-    "ID": 77310,
+    "NUMERO": 77310,
     "NOMBRE": "LATOUR DE CAROL"
   },
   {
-    "ID": 78005,
+    "NUMERO": 78005,
     "NOMBRE": "VILLANUEVA DE GALLEGO"
   },
   {
-    "ID": 78100,
+    "NUMERO": 78100,
     "NOMBRE": "ZUERA"
   },
   {
-    "ID": 78200,
+    "NUMERO": 78200,
     "NOMBRE": "TARDIENTA"
   },
   {
-    "ID": 78201,
+    "NUMERO": 78201,
     "NOMBRE": "GRAÑEN"
   },
   {
-    "ID": 78203,
+    "NUMERO": 78203,
     "NOMBRE": "SARIÑENA"
   },
   {
-    "ID": 78301,
+    "NUMERO": 78301,
     "NOMBRE": "MONZON-RIO CINCA"
   },
   {
-    "ID": 78302,
+    "NUMERO": 78302,
     "NOMBRE": "BINEFAR"
   },
   {
-    "ID": 78400,
-    "NOMBRE": "LLEIDA-PIRINEUS"
+    "NUMERO": 78400,
+    "NOMBRE": "LLENUMEROA-PIRINEUS"
   },
   {
-    "ID": 78402,
+    "NUMERO": 78402,
     "NOMBRE": "BELL-LLOC D'URGELL"
   },
   {
-    "ID": 78403,
+    "NUMERO": 78403,
     "NOMBRE": "MOLLERUSSA"
   },
   {
-    "ID": 78404,
+    "NUMERO": 78404,
     "NOMBRE": "GOLMES"
   },
   {
-    "ID": 78405,
+    "NUMERO": 78405,
     "NOMBRE": "CASTELLNOU DE SEANA"
   },
   {
-    "ID": 78406,
+    "NUMERO": 78406,
     "NOMBRE": "BELLPUIG"
   },
   {
-    "ID": 78407,
+    "NUMERO": 78407,
     "NOMBRE": "ANGLESOLA"
   },
   {
-    "ID": 78408,
+    "NUMERO": 78408,
     "NOMBRE": "TARREGA"
   },
   {
-    "ID": 78500,
+    "NUMERO": 78500,
     "NOMBRE": "CERVERA"
   },
   {
-    "ID": 78501,
+    "NUMERO": 78501,
     "NOMBRE": "SANT GUIM DE FREIXENET"
   },
   {
-    "ID": 78502,
+    "NUMERO": 78502,
     "NOMBRE": "SANT MARTI SESGUEIOLES"
   },
   {
-    "ID": 78503,
+    "NUMERO": 78503,
     "NOMBRE": "CALAF"
   },
   {
-    "ID": 78504,
+    "NUMERO": 78504,
     "NOMBRE": "SEGUERS-SANT PERE SALLAVINERA"
   },
   {
-    "ID": 78505,
+    "NUMERO": 78505,
     "NOMBRE": "AGUILAR DE SEGARRA"
   },
   {
-    "ID": 78506,
+    "NUMERO": 78506,
     "NOMBRE": "RAJADELL"
   },
   {
-    "ID": 78600,
+    "NUMERO": 78600,
     "NOMBRE": "MANRESA"
   },
   {
-    "ID": 78604,
+    "NUMERO": 78604,
     "NOMBRE": "SANT VICENÇ DE CASTELLET"
   },
   {
-    "ID": 78605,
+    "NUMERO": 78605,
     "NOMBRE": "CASTELLBELL I EL VILAR-MONISTROL DE MONTSERRAT"
   },
   {
-    "ID": 78606,
+    "NUMERO": 78606,
     "NOMBRE": "VACARISSES"
   },
   {
-    "ID": 78607,
+    "NUMERO": 78607,
     "NOMBRE": "VACARISSES-TORREBLANCA"
   },
   {
-    "ID": 78609,
+    "NUMERO": 78609,
     "NOMBRE": "VILADECAVALLS"
   },
   {
-    "ID": 78610,
+    "NUMERO": 78610,
     "NOMBRE": "SANT MIQUEL DE GONTERES"
   },
   {
-    "ID": 78700,
+    "NUMERO": 78700,
     "NOMBRE": "TERRASSA"
   },
   {
-    "ID": 78703,
+    "NUMERO": 78703,
     "NOMBRE": "SABADELL SUD"
   },
   {
-    "ID": 78704,
+    "NUMERO": 78704,
     "NOMBRE": "SABADELL CENTRE"
   },
   {
-    "ID": 78705,
+    "NUMERO": 78705,
     "NOMBRE": "BARBERA DEL VALLES"
   },
   {
-    "ID": 78706,
+    "NUMERO": 78706,
     "NOMBRE": "CERDANYOLA DEL VALLES"
   },
   {
-    "ID": 78707,
+    "NUMERO": 78707,
     "NOMBRE": "MONTCADA I REIXAC-SANTA MARIA"
   },
   {
-    "ID": 78708,
+    "NUMERO": 78708,
     "NOMBRE": "MONTCADA I REIXAC-MANRESA"
   },
   {
-    "ID": 78709,
+    "NUMERO": 78709,
     "NOMBRE": "SABADELL NORD"
   },
   {
-    "ID": 78710,
+    "NUMERO": 78710,
     "NOMBRE": "TERRASSA EST"
   },
   {
-    "ID": 78800,
+    "NUMERO": 78800,
     "NOMBRE": "MONTCADA-BIFURCACIO"
   },
   {
-    "ID": 78801,
+    "NUMERO": 78801,
     "NOMBRE": "TORRE DEL BARO"
   },
   {
-    "ID": 78802,
+    "NUMERO": 78802,
     "NOMBRE": "SANT ANDREU ARENAL"
   },
   {
-    "ID": 78804,
+    "NUMERO": 78804,
     "NOMBRE": "ARC DE TRIOMF"
   },
   {
-    "ID": 78805,
+    "NUMERO": 78805,
     "NOMBRE": "PLAÇA  DE CATALUNYA"
   },
   {
-    "ID": 78806,
-    "NOMBRE": "LA SAGRERA-MERIDIANA"
+    "NUMERO": 78806,
+    "NOMBRE": "LA SAGRERA-MERNUMEROIANA"
   },
   {
-    "ID": 79004,
+    "NUMERO": 79004,
     "NOMBRE": "BARCELONA-SANT ANDREU COMTAL"
   },
   {
-    "ID": 79005,
+    "NUMERO": 79005,
     "NOMBRE": "MONTCADA I REIXAC"
   },
   {
-    "ID": 79006,
+    "NUMERO": 79006,
     "NOMBRE": "MOLLET-SANT FOST"
   },
   {
-    "ID": 79007,
+    "NUMERO": 79007,
     "NOMBRE": "MONTMELO"
   },
   {
-    "ID": 79009,
+    "NUMERO": 79009,
     "NOMBRE": "BARCELONA-CLOT-ARAGO"
   },
   {
-    "ID": 79011,
+    "NUMERO": 79011,
     "NOMBRE": "LA LLAGOSTA"
   },
   {
-    "ID": 79100,
+    "NUMERO": 79100,
     "NOMBRE": "GRANOLLERS-CENTRE"
   },
   {
-    "ID": 79101,
+    "NUMERO": 79101,
     "NOMBRE": "CARDEDEU"
   },
   {
-    "ID": 79102,
+    "NUMERO": 79102,
     "NOMBRE": "LLINARS DEL VALLES"
   },
   {
-    "ID": 79103,
+    "NUMERO": 79103,
     "NOMBRE": "PALAUTORDERA"
   },
   {
-    "ID": 79104,
+    "NUMERO": 79104,
     "NOMBRE": "SANT CELONI"
   },
   {
-    "ID": 79105,
+    "NUMERO": 79105,
     "NOMBRE": "GUALBA"
   },
   {
-    "ID": 79106,
+    "NUMERO": 79106,
     "NOMBRE": "RIELLS I VIABREA-BREDA"
   },
   {
-    "ID": 79107,
+    "NUMERO": 79107,
     "NOMBRE": "HOSTALRIC"
   },
   {
-    "ID": 79109,
+    "NUMERO": 79109,
     "NOMBRE": "LES FRANQUESES-GRANOLLERS NORD"
   },
   {
-    "ID": 79200,
+    "NUMERO": 79200,
     "NOMBRE": "MAÇANET-MASSANES"
   },
   {
-    "ID": 79202,
+    "NUMERO": 79202,
     "NOMBRE": "SILS"
   },
   {
-    "ID": 79203,
+    "NUMERO": 79203,
     "NOMBRE": "CALDES DE MALAVELLA"
   },
   {
-    "ID": 79204,
+    "NUMERO": 79204,
     "NOMBRE": "RIUDELLOTS"
   },
   {
-    "ID": 79205,
+    "NUMERO": 79205,
     "NOMBRE": "FORNELLS DE LA SELVA"
   },
   {
-    "ID": 79300,
+    "NUMERO": 79300,
     "NOMBRE": "GIRONA"
   },
   {
-    "ID": 79301,
+    "NUMERO": 79301,
     "NOMBRE": "CELRA"
   },
   {
-    "ID": 79302,
+    "NUMERO": 79302,
     "NOMBRE": "BORDILS-JUIA"
   },
   {
-    "ID": 79303,
+    "NUMERO": 79303,
     "NOMBRE": "FLAÇA"
   },
   {
-    "ID": 79304,
+    "NUMERO": 79304,
     "NOMBRE": "SANT JORDI DESVALLS"
   },
   {
-    "ID": 79305,
+    "NUMERO": 79305,
     "NOMBRE": "CAMALLERA"
   },
   {
-    "ID": 79306,
+    "NUMERO": 79306,
     "NOMBRE": "SANT MIQUEL DE FLUVIA"
   },
   {
-    "ID": 79308,
+    "NUMERO": 79308,
     "NOMBRE": "VILAMALLA"
   },
   {
-    "ID": 79309,
+    "NUMERO": 79309,
     "NOMBRE": "FIGUERES"
   },
   {
-    "ID": 79311,
+    "NUMERO": 79311,
     "NOMBRE": "VILAJUIGA"
   },
   {
-    "ID": 79312,
+    "NUMERO": 79312,
     "NOMBRE": "LLANÇA"
   },
   {
-    "ID": 79314,
+    "NUMERO": 79314,
     "NOMBRE": "COLERA"
   },
   {
-    "ID": 79315,
+    "NUMERO": 79315,
     "NOMBRE": "PORTBOU"
   },
   {
-    "ID": 79316,
+    "NUMERO": 79316,
     "NOMBRE": "CERBERE"
   },
   {
-    "ID": 79400,
+    "NUMERO": 79400,
     "NOMBRE": "BARCELONA-ESTACIO DE FRANÇA"
   },
   {
-    "ID": 79403,
+    "NUMERO": 79403,
     "NOMBRE": "SANT ADRIA DE BESOS"
   },
   {
-    "ID": 79404,
+    "NUMERO": 79404,
     "NOMBRE": "BADALONA"
   },
   {
-    "ID": 79405,
+    "NUMERO": 79405,
     "NOMBRE": "MONTGAT"
   },
   {
-    "ID": 79406,
+    "NUMERO": 79406,
     "NOMBRE": "MONTGAT-NORD"
   },
   {
-    "ID": 79407,
+    "NUMERO": 79407,
     "NOMBRE": "EL MASNOU"
   },
   {
-    "ID": 79408,
+    "NUMERO": 79408,
     "NOMBRE": "OCATA"
   },
   {
-    "ID": 79409,
+    "NUMERO": 79409,
     "NOMBRE": "PREMIA DE MAR"
   },
   {
-    "ID": 79410,
+    "NUMERO": 79410,
     "NOMBRE": "VILASSAR DE MAR"
   },
   {
-    "ID": 79412,
+    "NUMERO": 79412,
     "NOMBRE": "CABRERA DE MAR-VILASSAR DE MAR"
   },
   {
-    "ID": 79500,
+    "NUMERO": 79500,
     "NOMBRE": "MATARO"
   },
   {
-    "ID": 79501,
+    "NUMERO": 79501,
     "NOMBRE": "SANT ANDREU DE LLAVANERES"
   },
   {
-    "ID": 79502,
+    "NUMERO": 79502,
     "NOMBRE": "CALDES D'ESTRAC"
   },
   {
-    "ID": 79600,
+    "NUMERO": 79600,
     "NOMBRE": "ARENYS DE MAR"
   },
   {
-    "ID": 79601,
+    "NUMERO": 79601,
     "NOMBRE": "CANET DE MAR"
   },
   {
-    "ID": 79602,
+    "NUMERO": 79602,
     "NOMBRE": "SANT POL DE MAR"
   },
   {
-    "ID": 79603,
+    "NUMERO": 79603,
     "NOMBRE": "CALELLA"
   },
   {
-    "ID": 79604,
+    "NUMERO": 79604,
     "NOMBRE": "PINEDA DE MAR"
   },
   {
-    "ID": 79605,
+    "NUMERO": 79605,
     "NOMBRE": "MALGRAT DE MAR"
   },
   {
-    "ID": 79606,
+    "NUMERO": 79606,
     "NOMBRE": "BLANES"
   },
   {
-    "ID": 79607,
+    "NUMERO": 79607,
     "NOMBRE": "TORDERA"
   },
   {
-    "ID": 79608,
+    "NUMERO": 79608,
     "NOMBRE": "SANTA SUSANNA"
   },
   {
-    "ID": 80001,
+    "NUMERO": 80001,
     "NOMBRE": "ALTSASU-PUEBLO"
   },
   {
-    "ID": 80003,
+    "NUMERO": 80003,
     "NOMBRE": "ETXARRI-ARANATZ"
   },
   {
-    "ID": 80005,
+    "NUMERO": 80005,
     "NOMBRE": "UHARTE-ARAKIL"
   },
   {
-    "ID": 80100,
+    "NUMERO": 80100,
     "NOMBRE": "PAMPLONA"
   },
   {
-    "ID": 80108,
+    "NUMERO": 80108,
     "NOMBRE": "TAFALLA"
   },
   {
-    "ID": 80109,
+    "NUMERO": 80109,
     "NOMBRE": "OLITE/ERRIBERRI"
   },
   {
-    "ID": 80114,
+    "NUMERO": 80114,
     "NOMBRE": "MARCILLA DE NAVARRA"
   },
   {
-    "ID": 80115,
+    "NUMERO": 80115,
     "NOMBRE": "VILLAFRANCA DE NAVARRA"
   },
   {
-    "ID": 81002,
+    "NUMERO": 81002,
     "NOMBRE": "HARO"
   },
   {
-    "ID": 81100,
+    "NUMERO": 81100,
     "NOMBRE": "LOGROÑO"
   },
   {
-    "ID": 81102,
+    "NUMERO": 81102,
     "NOMBRE": "AGONCILLO"
   },
   {
-    "ID": 81105,
+    "NUMERO": 81105,
     "NOMBRE": "ALCANADRE"
   },
   {
-    "ID": 81106,
+    "NUMERO": 81106,
     "NOMBRE": "FECULAS-NAVARRA"
   },
   {
-    "ID": 81108,
+    "NUMERO": 81108,
     "NOMBRE": "CALAHORRA"
   },
   {
-    "ID": 81109,
+    "NUMERO": 81109,
     "NOMBRE": "RINCON DE SOTO"
   },
   {
-    "ID": 81110,
+    "NUMERO": 81110,
     "NOMBRE": "ALFARO"
   },
   {
-    "ID": 81200,
+    "NUMERO": 81200,
     "NOMBRE": "CASTEJON DE EBRO"
   },
   {
-    "ID": 81202,
+    "NUMERO": 81202,
     "NOMBRE": "TUDELA DE NAVARRA"
   },
   {
-    "ID": 81203,
+    "NUMERO": 81203,
     "NOMBRE": "RIBAFORADA"
   },
   {
-    "ID": 81205,
+    "NUMERO": 81205,
     "NOMBRE": "CORTES DE NAVARRA"
   },
   {
-    "ID": 81206,
+    "NUMERO": 81206,
     "NOMBRE": "GALLUR"
   },
   {
-    "ID": 81207,
+    "NUMERO": 81207,
     "NOMBRE": "LUCENI"
   },
   {
-    "ID": 81208,
+    "NUMERO": 81208,
     "NOMBRE": "PEDROLA"
   },
   {
-    "ID": 81209,
+    "NUMERO": 81209,
     "NOMBRE": "CABAÑAS DE EBRO"
   },
   {
-    "ID": 81210,
+    "NUMERO": 81210,
     "NOMBRE": "ALAGON"
   },
   {
-    "ID": 82100,
+    "NUMERO": 82100,
     "NOMBRE": "SORIA"
   },
   {
-    "ID": 84101,
+    "NUMERO": 84101,
     "NOMBRE": "ALMAZAN-VILLA"
   },
   {
-    "ID": 84103,
+    "NUMERO": 84103,
     "NOMBRE": "TARDELCUENDE"
   },
   {
-    "ID": 84104,
+    "NUMERO": 84104,
     "NOMBRE": "QUINTANA REDONDA"
   },
   {
-    "ID": 87004,
+    "NUMERO": 87004,
     "NOMBRE": "LES AUBRAIS ORLEANS"
   },
   {
-    "ID": 87011,
+    "NUMERO": 87011,
     "NOMBRE": "PARIS AUSTERLITZ"
   },
   {
-    "ID": 87013,
+    "NUMERO": 87013,
     "NOMBRE": "PARIS GARE LYON"
   },
   {
-    "ID": 87078,
+    "NUMERO": 87078,
     "NOMBRE": "BEZIERS"
   },
   {
-    "ID": 87079,
+    "NUMERO": 87079,
     "NOMBRE": "TOULOUSE MATABIAU"
   },
   {
-    "ID": 87081,
+    "NUMERO": 87081,
     "NOMBRE": "POITIERS"
   },
   {
-    "ID": 87088,
+    "NUMERO": 87088,
     "NOMBRE": "NARBONNE"
   },
   {
-    "ID": 87089,
+    "NUMERO": 87089,
     "NOMBRE": "MARSEILLE ST CHARLES"
   },
   {
-    "ID": 87173,
+    "NUMERO": 87173,
     "NOMBRE": "MONTPELLIER ST ROCH"
   },
   {
-    "ID": 87175,
+    "NUMERO": 87175,
     "NOMBRE": "SETE"
   },
   {
-    "ID": 87176,
+    "NUMERO": 87176,
     "NOMBRE": "CARCASSONNE"
   },
   {
-    "ID": 87287,
+    "NUMERO": 87287,
     "NOMBRE": "AGDE"
   },
   {
-    "ID": 87300,
+    "NUMERO": 87300,
     "NOMBRE": "MONTPELLIER SAI"
   },
   {
-    "ID": 87302,
+    "NUMERO": 87302,
     "NOMBRE": "NIMES"
   },
   {
-    "ID": 87303,
+    "NUMERO": 87303,
     "NOMBRE": "LYON PART DIEU"
   },
   {
-    "ID": 87374,
+    "NUMERO": 87374,
     "NOMBRE": "PERPIGNAN"
   },
   {
-    "ID": 87402,
+    "NUMERO": 87402,
     "NOMBRE": "AVIGNON"
   },
   {
-    "ID": 87546,
+    "NUMERO": 87546,
     "NOMBRE": "BLOIS"
   },
   {
-    "ID": 87810,
+    "NUMERO": 87810,
     "NOMBRE": "VALENCE TGV RHONE ALPES SUD"
   },
   {
-    "ID": 87814,
+    "NUMERO": 87814,
     "NOMBRE": "AVIGNON TGV"
   },
   {
-    "ID": 87896,
+    "NUMERO": 87896,
     "NOMBRE": "AVIGNON TGV"
   },
   {
-    "ID": 87901,
+    "NUMERO": 87901,
     "NOMBRE": "AIX-EN-PROVENCE TGV"
   },
   {
-    "ID": 87912,
+    "NUMERO": 87912,
     "NOMBRE": "AIX EN PROVENCE TGV"
   },
   {
-    "ID": 87973,
+    "NUMERO": 87973,
     "NOMBRE": "MONTPELLIER SUD DE FRANCE"
   },
   {
-    "ID": 92102,
+    "NUMERO": 92102,
     "NOMBRE": "TOLEDO"
   },
   {
-    "ID": 94002,
+    "NUMERO": 94002,
     "NOMBRE": "DAIMIEL"
   },
   {
-    "ID": 94004,
+    "NUMERO": 94004,
     "NOMBRE": "ALMAGRO"
   },
   {
-    "ID": 94021,
+    "NUMERO": 94021,
     "NOMBRE": "NINE"
   },
   {
-    "ID": 94033,
+    "NUMERO": 94033,
     "NOMBRE": "VIANA DO CASTELO"
   },
   {
-    "ID": 94346,
+    "NUMERO": 94346,
     "NOMBRE": "PORTO-CAMPANHA"
   },
   {
-    "ID": 94401,
+    "NUMERO": 94401,
     "NOMBRE": "LISBOA-SANTA APOLONIA"
   },
   {
-    "ID": 94404,
+    "NUMERO": 94404,
     "NOMBRE": "LISBOA-ORIENTE"
   },
   {
-    "ID": 94428,
+    "NUMERO": 94428,
     "NOMBRE": "ENTRONCAMENTO"
   },
   {
-    "ID": 94434,
+    "NUMERO": 94434,
     "NOMBRE": "CAXARIAS"
   },
   {
-    "ID": 94438,
+    "NUMERO": 94438,
     "NOMBRE": "POMBAL"
   },
   {
-    "ID": 94452,
+    "NUMERO": 94452,
     "NOMBRE": "COIMBRA-B"
   },
   {
-    "ID": 94524,
+    "NUMERO": 94524,
     "NOMBRE": "STA. COMBA DAO"
   },
   {
-    "ID": 94536,
+    "NUMERO": 94536,
     "NOMBRE": "MANGUALDE"
   },
   {
-    "ID": 94543,
+    "NUMERO": 94543,
     "NOMBRE": "CELORICO-BEIRA"
   },
   {
-    "ID": 94551,
+    "NUMERO": 94551,
     "NOMBRE": "GUARDA"
   },
   {
-    "ID": 94563,
+    "NUMERO": 94563,
     "NOMBRE": "VILAR FORMOSO"
   },
   {
-    "ID": 95100,
+    "NUMERO": 95100,
     "NOMBRE": "DELICIAS-EMPALME"
   },
   {
-    "ID": 97100,
+    "NUMERO": 97100,
     "NOMBRE": "PITIS"
   },
   {
-    "ID": 97200,
+    "NUMERO": 97200,
     "NOMBRE": "Mirasierra"
   },
   {
-    "ID": 97201,
+    "NUMERO": 97201,
     "NOMBRE": "RAMON Y CAJAL"
   },
   {
-    "ID": 98003,
+    "NUMERO": 98003,
     "NOMBRE": "FUENTE DE LA MORA"
   },
   {
-    "ID": 98304,
+    "NUMERO": 98304,
     "NOMBRE": "VALDEBEBAS"
   },
   {
-    "ID": 98305,
+    "NUMERO": 98305,
     "NOMBRE": "AEROPUERTO T-4"
   }
 ]
