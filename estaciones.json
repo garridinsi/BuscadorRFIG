@@ -1,2460 +1,2460 @@
 [
   {
-    "NUMERO": "01003",
+    "NUMERO": 1003,
     "NOMBRE": "ARAHAL",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "01005",
+    "NUMERO": 1005,
     "NOMBRE": "MARCHENA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "01007",
+    "NUMERO": 1007,
     "NOMBRE": "OSUNA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "01009",
+    "NUMERO": 1009,
     "NOMBRE": "PEDRERA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "02002",
+    "NUMERO": 2002,
     "NOMBRE": "PUENTE GENIL-HERRERA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "02003",
+    "NUMERO": 2003,
     "NOMBRE": "ANTEQUERA-SANTA ANA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "03001",
+    "NUMERO": 3001,
     "NOMBRE": "MENGIBAR-ARTICHUELA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "03100",
+    "NUMERO": 3100,
     "NOMBRE": "JAEN",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "03208",
+    "NUMERO": 3208,
     "NOMBRE": "CUENCA FERNANDO ZOBEL",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "03213",
+    "NUMERO": 3213,
     "NOMBRE": "REQUENA-UTIEL",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "03216",
+    "NUMERO": 3216,
     "NOMBRE": "VALENCIA JOAQUIN SOROLLA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "03309",
+    "NUMERO": 3309,
     "NOMBRE": "VILLENA ALTA VELOCIDAD",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "03410",
+    "NUMERO": 3410,
     "NOMBRE": "ELX ALTA VELOCIDAD",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "04007",
+    "NUMERO": 4007,
     "NOMBRE": "GUADALAJARA-YEBES",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "04040",
+    "NUMERO": 4040,
     "NOMBRE": "ZARAGOZA-DELICIAS",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "04104",
+    "NUMERO": 4104,
     "NOMBRE": "CAMP DE TARRAGONA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "04307",
+    "NUMERO": 4307,
     "NOMBRE": "FIGUERES-VILAFANT",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "05000",
+    "NUMERO": 5000,
     "NOMBRE": "GRANADA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "05013",
+    "NUMERO": 5013,
     "NOMBRE": "LOJA-SAN FRANCISCO",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "05019",
+    "NUMERO": 5019,
     "NOMBRE": "ANTEQUERA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "05102",
+    "NUMERO": 5102,
     "NOMBRE": "SAN XOAN",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05103",
+    "NUMERO": 5103,
     "NOMBRE": "SANTA ICIA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05104",
+    "NUMERO": 5104,
     "NOMBRE": "VIRXE DO MAR",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05105",
-    "NOMBRE": "PI�EIROS",
+    "NUMERO": 5105,
+    "NOMBRE": "PIÑEIROS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05106",
+    "NUMERO": 5106,
     "NOMBRE": "O PONTO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05107",
+    "NUMERO": 5107,
     "NOMBRE": "XUVIA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05108",
-    "NOMBRE": "O ALTO DO CASTI�EIRO",
+    "NUMERO": 5108,
+    "NOMBRE": "O ALTO DO CASTIÑEIRO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05109",
+    "NUMERO": 5109,
     "NOMBRE": "FERRERIAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05111",
+    "NUMERO": 5111,
     "NOMBRE": "SEDES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05113",
+    "NUMERO": 5113,
     "NOMBRE": "PEDROSO DE NARON",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05115",
-    "NOMBRE": "SAN SADURNI�O",
+    "NUMERO": 5115,
+    "NOMBRE": "SAN SADURNIÑO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05117",
+    "NUMERO": 5117,
     "NOMBRE": "LAMAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05119",
+    "NUMERO": 5119,
     "NOMBRE": "APALLA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05121",
+    "NUMERO": 5121,
     "NOMBRE": "MOECHE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05123",
+    "NUMERO": 5123,
     "NOMBRE": "LABACENGOS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05125",
+    "NUMERO": 5125,
     "NOMBRE": "ENTRAMBARRIAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05127",
+    "NUMERO": 5127,
     "NOMBRE": "CERDIDO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05129",
+    "NUMERO": 5129,
     "NOMBRE": "A CUQUEIRA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05131",
+    "NUMERO": 5131,
     "NOMBRE": "SANTA MARIA DE MERA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05133",
+    "NUMERO": 5133,
     "NOMBRE": "PONTE MERA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05135",
+    "NUMERO": 5135,
     "NOMBRE": "SAN CLODIO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05137",
+    "NUMERO": 5137,
     "NOMBRE": "SENRA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05139",
+    "NUMERO": 5139,
     "NOMBRE": "ORTIGUEIRA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05141",
+    "NUMERO": 5141,
     "NOMBRE": "ESPASANTE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05143",
+    "NUMERO": 5143,
     "NOMBRE": "LOIBA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05145",
+    "NUMERO": 5145,
     "NOMBRE": "O BARQUEIRO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05147",
+    "NUMERO": 5147,
     "NOMBRE": "O VICEDO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05149",
+    "NUMERO": 5149,
     "NOMBRE": "MOSENDE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05151",
+    "NUMERO": 5151,
     "NOMBRE": "FOLGUEIRO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05153",
+    "NUMERO": 5153,
     "NOMBRE": "COVAS DE VIVEIRO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05155",
+    "NUMERO": 5155,
     "NOMBRE": "VIVEIRO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05156",
+    "NUMERO": 5156,
     "NOMBRE": "VIVEIRO-APEADERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05157",
+    "NUMERO": 5157,
     "NOMBRE": "XUANCES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05159",
+    "NUMERO": 5159,
     "NOMBRE": "XOVE-POBO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05161",
+    "NUMERO": 5161,
     "NOMBRE": "XOVE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05163",
+    "NUMERO": 5163,
     "NOMBRE": "LAGO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05165",
+    "NUMERO": 5165,
     "NOMBRE": "BIDUEIROS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05167",
+    "NUMERO": 5167,
     "NOMBRE": "SAN CIBRAO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05169",
+    "NUMERO": 5169,
     "NOMBRE": "MADEIRO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05171",
+    "NUMERO": 5171,
     "NOMBRE": "BURELA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05173",
+    "NUMERO": 5173,
     "NOMBRE": "CANGAS DE FOZ",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05175",
+    "NUMERO": 5175,
     "NOMBRE": "NOIS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05177",
+    "NUMERO": 5177,
     "NOMBRE": "FAZOURO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05179",
+    "NUMERO": 5179,
     "NOMBRE": "MARZAN",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05181",
+    "NUMERO": 5181,
     "NOMBRE": "FOZ",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05183",
+    "NUMERO": 5183,
     "NOMBRE": "BARREIROS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05185",
+    "NUMERO": 5185,
     "NOMBRE": "REINANTE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05187",
+    "NUMERO": 5187,
     "NOMBRE": "ESTEIRO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05189",
+    "NUMERO": 5189,
     "NOMBRE": "OS CASTROS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05191",
+    "NUMERO": 5191,
     "NOMBRE": "RINLO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05193",
+    "NUMERO": 5193,
     "NOMBRE": "RIBADEO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05197",
+    "NUMERO": 5197,
     "NOMBRE": "VEGADEO PUEBLO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05199",
+    "NUMERO": 5199,
     "NOMBRE": "VILAVEDELLE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05203",
-    "NOMBRE": "TREMA�ES-CARRE�O",
+    "NUMERO": 5203,
+    "NOMBRE": "TREMAÑES-CARREÑO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05204",
+    "NUMERO": 5204,
     "NOMBRE": "CENTRO DE TRANSPORTES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05207",
-    "NOMBRE": "ABO�O-APEADERO",
+    "NUMERO": 5207,
+    "NOMBRE": "ABOÑO-APEADERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05208",
+    "NUMERO": 5208,
     "NOMBRE": "XIVARES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05209",
+    "NUMERO": 5209,
     "NOMBRE": "PERLORA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05210",
+    "NUMERO": 5210,
     "NOMBRE": "CANDAS-APEADERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05211",
+    "NUMERO": 5211,
     "NOMBRE": "CANDAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05213",
+    "NUMERO": 5213,
     "NOMBRE": "REGUERAL",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05215",
+    "NUMERO": 5215,
     "NOMBRE": "ZANZABORNIN",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05216",
+    "NUMERO": 5216,
     "NOMBRE": "GUDIN LAMINACION",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05217",
+    "NUMERO": 5217,
     "NOMBRE": "TRASONA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05218",
+    "NUMERO": 5218,
     "NOMBRE": "OFICINAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05219",
+    "NUMERO": 5219,
     "NOMBRE": "LLARANES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05220",
+    "NUMERO": 5220,
     "NOMBRE": "CRISTALERIA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05221",
+    "NUMERO": 5221,
     "NOMBRE": "AVILES-APEADERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05224",
+    "NUMERO": 5224,
     "NOMBRE": "RAICES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05225",
+    "NUMERO": 5225,
     "NOMBRE": "SALINAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05227",
+    "NUMERO": 5227,
     "NOMBRE": "PIEDRAS BLANCAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05229",
+    "NUMERO": 5229,
     "NOMBRE": "VEGARROZADAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05231",
+    "NUMERO": 5231,
     "NOMBRE": "SANTIAGO DEL MONTE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05232",
+    "NUMERO": 5232,
     "NOMBRE": "EL PARADOR",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05233",
+    "NUMERO": 5233,
     "NOMBRE": "SOTO DEL BARCO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05235",
+    "NUMERO": 5235,
     "NOMBRE": "RIBERAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05237",
-    "NOMBRE": "PE�AULLAN",
+    "NUMERO": 5237,
+    "NOMBRE": "PEÑAULLAN",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05239",
+    "NUMERO": 5239,
     "NOMBRE": "SANTIANES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05241",
+    "NUMERO": 5241,
     "NOMBRE": "LOS CABOS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05243",
+    "NUMERO": 5243,
     "NOMBRE": "MUROS DE NALON",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05244",
-    "NOMBRE": "EL PITO PI�ERA",
+    "NUMERO": 5244,
+    "NOMBRE": "EL PITO PIÑERA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05245",
+    "NUMERO": 5245,
     "NOMBRE": "CUDILLERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05247",
+    "NUMERO": 5247,
     "NOMBRE": "VILLADEMAR",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05249",
+    "NUMERO": 5249,
     "NOMBRE": "LA MAGDALENA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05251",
-    "NOMBRE": "SAN MARTIN DE LUI�A",
+    "NUMERO": 5251,
+    "NOMBRE": "SAN MARTIN DE LUIÑA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05253",
+    "NUMERO": 5253,
     "NOMBRE": "SAN COSME",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05255",
-    "NOMBRE": "SOTO DE LUI�A",
+    "NUMERO": 5255,
+    "NOMBRE": "SOTO DE LUIÑA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05257",
+    "NUMERO": 5257,
     "NOMBRE": "VALDREDO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05259",
+    "NUMERO": 5259,
     "NOMBRE": "NOVELLANA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05261",
+    "NUMERO": 5261,
     "NOMBRE": "SANTA MARINA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05263",
+    "NUMERO": 5263,
     "NOMBRE": "BALLOTA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05265",
+    "NUMERO": 5265,
     "NOMBRE": "TABLIZO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05267",
+    "NUMERO": 5267,
     "NOMBRE": "CADAVEDO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05269",
+    "NUMERO": 5269,
     "NOMBRE": "SAN CRISTOBAL",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05271",
+    "NUMERO": 5271,
     "NOMBRE": "CANERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05273",
+    "NUMERO": 5273,
     "NOMBRE": "BARCIA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05275",
+    "NUMERO": 5275,
     "NOMBRE": "LUARCA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05277",
+    "NUMERO": 5277,
     "NOMBRE": "OTUR",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05279",
+    "NUMERO": 5279,
     "NOMBRE": "VILLAPEDRE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05281",
-    "NOMBRE": "PI�ERA-VILLAORIL",
+    "NUMERO": 5281,
+    "NOMBRE": "PIÑERA-VILLAORIL",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05283",
+    "NUMERO": 5283,
     "NOMBRE": "NAVIA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05285",
+    "NUMERO": 5285,
     "NOMBRE": "MEDAL",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05287",
+    "NUMERO": 5287,
     "NOMBRE": "LOZA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05289",
+    "NUMERO": 5289,
     "NOMBRE": "CARTAVIO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05291",
+    "NUMERO": 5291,
     "NOMBRE": "LA CARIDAD",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05293",
+    "NUMERO": 5293,
     "NOMBRE": "TAPIA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05295",
+    "NUMERO": 5295,
     "NOMBRE": "TOL",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05297",
+    "NUMERO": 5297,
     "NOMBRE": "LAS CAMPAS DE CASTROPOL",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05299",
+    "NUMERO": 5299,
     "NOMBRE": "CASTROPOL",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05300",
+    "NUMERO": 5300,
     "NOMBRE": "VALLOBIN",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05301",
-    "NOMBRE": "LA ARGA�OSA-LAVAPIES",
+    "NUMERO": 5301,
+    "NOMBRE": "LA ARGAÑOSA-LAVAPIES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05302",
+    "NUMERO": 5302,
     "NOMBRE": "LAS CAMPAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05303",
+    "NUMERO": 5303,
     "NOMBRE": "LAS MAZAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05304",
+    "NUMERO": 5304,
     "NOMBRE": "SAN CLAUDIO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05306",
+    "NUMERO": 5306,
     "NOMBRE": "SAN PEDRO NORA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05308",
+    "NUMERO": 5308,
     "NOMBRE": "SOTO UDRION",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05311",
+    "NUMERO": 5311,
     "NOMBRE": "TRUBIA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05313",
+    "NUMERO": 5313,
     "NOMBRE": "SANTA MARIA DE GRADO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05315",
+    "NUMERO": 5315,
     "NOMBRE": "VEGA DE ANZO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05316",
-    "NOMBRE": "PE�AFLOR DE GRADO",
+    "NUMERO": 5316,
+    "NOMBRE": "PEÑAFLOR DE GRADO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05317",
+    "NUMERO": 5317,
     "NOMBRE": "GRADO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05319",
+    "NUMERO": 5319,
     "NOMBRE": "SANDICHE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05320",
+    "NUMERO": 5320,
     "NOMBRE": "ACES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05321",
+    "NUMERO": 5321,
     "NOMBRE": "SAN ROMAN",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05323",
+    "NUMERO": 5323,
     "NOMBRE": "BEIFAR",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05325",
+    "NUMERO": 5325,
     "NOMBRE": "PRAVIA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05327",
+    "NUMERO": 5327,
     "NOMBRE": "SAN RANON",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05329",
+    "NUMERO": 5329,
     "NOMBRE": "SAN ESTEBAN",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05361",
-    "NOMBRE": "BAI�A",
+    "NUMERO": 5361,
+    "NOMBRE": "BAIÑA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05369",
+    "NUMERO": 5369,
     "NOMBRE": "MIERES VASCO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05371",
+    "NUMERO": 5371,
     "NOMBRE": "CAUDALIA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05373",
+    "NUMERO": 5373,
     "NOMBRE": "FIGAREDO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05375",
+    "NUMERO": 5375,
     "NOMBRE": "UJO TARUELO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05376",
+    "NUMERO": 5376,
     "NOMBRE": "SANTA CRUZ",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05377",
+    "NUMERO": 5377,
     "NOMBRE": "CABORANA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05379",
+    "NUMERO": 5379,
     "NOMBRE": "MOREDA DE ALLER",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05380",
+    "NUMERO": 5380,
     "NOMBRE": "SAN ANTONIO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05381",
+    "NUMERO": 5381,
     "NOMBRE": "OYANCO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05382",
+    "NUMERO": 5382,
     "NOMBRE": "CORIGOS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05383",
-    "NOMBRE": "PI�ERES",
+    "NUMERO": 5383,
+    "NOMBRE": "PIÑERES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05384",
+    "NUMERO": 5384,
     "NOMBRE": "SANTA ANA-SOTO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05385",
-    "NOMBRE": "CABA�AQUINTA",
+    "NUMERO": 5385,
+    "NOMBRE": "CABAÑAQUINTA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05387",
+    "NUMERO": 5387,
     "NOMBRE": "LEVINCO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05389",
+    "NUMERO": 5389,
     "NOMBRE": "COLLANZO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05403",
-    "NOMBRE": "TREMA�ES-LANGREO",
+    "NUMERO": 5403,
+    "NOMBRE": "TREMAÑES-LANGREO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05405",
+    "NUMERO": 5405,
     "NOMBRE": "SOTIELLO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05407",
+    "NUMERO": 5407,
     "NOMBRE": "PINZALES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05409",
+    "NUMERO": 5409,
     "NOMBRE": "AGUDA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05410",
+    "NUMERO": 5410,
     "NOMBRE": "XIXUN",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05411",
+    "NUMERO": 5411,
     "NOMBRE": "LA FLORIDA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05412",
+    "NUMERO": 5412,
     "NOMBRE": "PUENTE BURACOS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05413",
-    "NOMBRE": "NORE�A",
+    "NUMERO": 5413,
+    "NOMBRE": "NOREÑA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05415",
+    "NUMERO": 5415,
     "NOMBRE": "BENDICION",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05416",
+    "NUMERO": 5416,
     "NOMBRE": "VALDESOTO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05417",
+    "NUMERO": 5417,
     "NOMBRE": "CARBAYIN",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05420",
+    "NUMERO": 5420,
     "NOMBRE": "CURUXONA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05421",
+    "NUMERO": 5421,
     "NOMBRE": "TUILLA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05425",
+    "NUMERO": 5425,
     "NOMBRE": "LA FELGUERA-VEGA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05429",
+    "NUMERO": 5429,
     "NOMBRE": "SAMA-LOS LLERONES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05431",
-    "NOMBRE": "CIA�O-ESCOBIO",
+    "NUMERO": 5431,
+    "NOMBRE": "CIAÑO-ESCOBIO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05432",
+    "NUMERO": 5432,
     "NOMBRE": "SAN VICENTE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05433",
+    "NUMERO": 5433,
     "NOMBRE": "EL ENTREGO-LA OSCURA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05435",
+    "NUMERO": 5435,
     "NOMBRE": "CARROCERA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05436",
+    "NUMERO": 5436,
     "NOMBRE": "SAN MARTIN",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05437",
+    "NUMERO": 5437,
     "NOMBRE": "SOTRONDIO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05439",
+    "NUMERO": 5439,
     "NOMBRE": "BLIMEA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05441",
+    "NUMERO": 5441,
     "NOMBRE": "BARREDOS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05443",
+    "NUMERO": 5443,
     "NOMBRE": "LAVIANA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05451",
+    "NUMERO": 5451,
     "NOMBRE": "BILBAO-LA CONCORDIA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05455",
+    "NUMERO": 5455,
     "NOMBRE": "BASURTO HOSPITAL",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05457",
+    "NUMERO": 5457,
     "NOMBRE": "ZORROTZA-ZORROZGOITI",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05459",
+    "NUMERO": 5459,
     "NOMBRE": "SANTA AGUEDA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05460",
+    "NUMERO": 5460,
     "NOMBRE": "KASTREXANA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05461",
+    "NUMERO": 5461,
     "NOMBRE": "IRAUREGI",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05463",
+    "NUMERO": 5463,
     "NOMBRE": "ZARAMILLO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05465",
+    "NUMERO": 5465,
     "NOMBRE": "LA QUADRA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05467",
+    "NUMERO": 5467,
     "NOMBRE": "SODUPE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05469",
+    "NUMERO": 5469,
     "NOMBRE": "ARTXUBE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05470",
+    "NUMERO": 5470,
     "NOMBRE": "LAMBARRI",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05471",
-    "NOMBRE": "G�E�ES",
+    "NUMERO": 5471,
+    "NOMBRE": "GÜEÑES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05473",
+    "NUMERO": 5473,
     "NOMBRE": "ARANGUREN",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05474",
+    "NUMERO": 5474,
     "NOMBRE": "ARANGUREN-APEADERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05475",
+    "NUMERO": 5475,
     "NOMBRE": "ZALLA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05477",
+    "NUMERO": 5477,
     "NOMBRE": "COLEGIO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05479",
+    "NUMERO": 5479,
     "NOMBRE": "IBARRA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05480",
+    "NUMERO": 5480,
     "NOMBRE": "BOLUNBURU",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05481",
+    "NUMERO": 5481,
     "NOMBRE": "LA HERRERA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05483",
+    "NUMERO": 5483,
     "NOMBRE": "BALMASEDA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05484",
+    "NUMERO": 5484,
     "NOMBRE": "MIMETIZ",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05485",
+    "NUMERO": 5485,
     "NOMBRE": "LA CALZADA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05487",
-    "NOMBRE": "TRASLAVI�A",
+    "NUMERO": 5487,
+    "NOMBRE": "TRASLAVIÑA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05489",
+    "NUMERO": 5489,
     "NOMBRE": "ARTZENTALES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05493",
+    "NUMERO": 5493,
     "NOMBRE": "VILLAVERDE DE TRUCIOS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05497",
+    "NUMERO": 5497,
     "NOMBRE": "KARRANTZA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05504",
+    "NUMERO": 5504,
     "NOMBRE": "PARQUE PRINCIPADO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05505",
+    "NUMERO": 5505,
     "NOMBRE": "COLLOTO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05507",
+    "NUMERO": 5507,
     "NOMBRE": "MERES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05508",
+    "NUMERO": 5508,
     "NOMBRE": "FONCIELLO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05509",
+    "NUMERO": 5509,
     "NOMBRE": "EL BERRON",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05511",
+    "NUMERO": 5511,
     "NOMBRE": "LA CARRERA DE SIERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05513",
+    "NUMERO": 5513,
     "NOMBRE": "POLA DE SIERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05515",
+    "NUMERO": 5515,
     "NOMBRE": "LOS CORROS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05517",
+    "NUMERO": 5517,
     "NOMBRE": "LIERES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05521",
+    "NUMERO": 5521,
     "NOMBRE": "EL REMEDIO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05522",
+    "NUMERO": 5522,
     "NOMBRE": "LLAMES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05523",
+    "NUMERO": 5523,
     "NOMBRE": "NAVA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05525",
+    "NUMERO": 5525,
     "NOMBRE": "FUENTE SANTA DE NAVA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05527",
+    "NUMERO": 5527,
     "NOMBRE": "CECEDA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05529",
+    "NUMERO": 5529,
     "NOMBRE": "CARANCOS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05531",
+    "NUMERO": 5531,
     "NOMBRE": "PINTUELES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05533",
+    "NUMERO": 5533,
     "NOMBRE": "INFIESTO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05534",
+    "NUMERO": 5534,
     "NOMBRE": "INFIESTO-APEADERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05535",
+    "NUMERO": 5535,
     "NOMBRE": "VILLAMAYOR",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05537",
+    "NUMERO": 5537,
     "NOMBRE": "SEBARES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05539",
-    "NOMBRE": "SOTO DE DUE�AS",
+    "NUMERO": 5539,
+    "NOMBRE": "SOTO DE DUEÑAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05541",
+    "NUMERO": 5541,
     "NOMBRE": "OZANES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05542",
+    "NUMERO": 5542,
     "NOMBRE": "POLICLINICO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05543",
+    "NUMERO": 5543,
     "NOMBRE": "ARRIONDAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05545",
+    "NUMERO": 5545,
     "NOMBRE": "FUENTES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05547",
-    "NOMBRE": "TORA�O",
+    "NUMERO": 5547,
+    "NOMBRE": "TORAÑO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05549",
+    "NUMERO": 5549,
     "NOMBRE": "CUEVAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05551",
+    "NUMERO": 5551,
     "NOMBRE": "LLOVIO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05552",
-    "NOMBRE": "RIBADESELLA PUERTO",
+    "NUMERO": 5552,
+    "NOMBRE": "RIBADESELLA PUERTO  ",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05553",
+    "NUMERO": 5553,
     "NOMBRE": "RIBADESELLA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05555",
+    "NUMERO": 5555,
     "NOMBRE": "CAMANGO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05557",
+    "NUMERO": 5557,
     "NOMBRE": "BELMONTE DE PRIA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05559",
+    "NUMERO": 5559,
     "NOMBRE": "NUEVA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05561",
+    "NUMERO": 5561,
     "NOMBRE": "VILLAHORMES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05563",
+    "NUMERO": 5563,
     "NOMBRE": "POSADA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05565",
+    "NUMERO": 5565,
     "NOMBRE": "BALMORI",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05567",
+    "NUMERO": 5567,
     "NOMBRE": "CELORIO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05569",
+    "NUMERO": 5569,
     "NOMBRE": "POO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05571",
+    "NUMERO": 5571,
     "NOMBRE": "LLANES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05573",
+    "NUMERO": 5573,
     "NOMBRE": "SAN ROQUE DEL ACEBAL",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05575",
+    "NUMERO": 5575,
     "NOMBRE": "VIDIAGO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05577",
+    "NUMERO": 5577,
     "NOMBRE": "PENDUELES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05579",
+    "NUMERO": 5579,
     "NOMBRE": "COLOMBRES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05602",
+    "NUMERO": 5602,
     "NOMBRE": "VALDECILLA LA MARGA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05603",
-    "NOMBRE": "CAZO�A",
+    "NUMERO": 5603,
+    "NOMBRE": "CAZOÑA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05604",
+    "NUMERO": 5604,
     "NOMBRE": "ADARZO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05605",
+    "NUMERO": 5605,
     "NOMBRE": "BEZANA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05607",
+    "NUMERO": 5607,
     "NOMBRE": "MORTERA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05609",
+    "NUMERO": 5609,
     "NOMBRE": "BOO DE PIELAGOS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05611",
+    "NUMERO": 5611,
     "NOMBRE": "MOGRO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05613",
+    "NUMERO": 5613,
     "NOMBRE": "GORNAZO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05615",
+    "NUMERO": 5615,
     "NOMBRE": "MAR",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05617",
+    "NUMERO": 5617,
     "NOMBRE": "REQUEJADA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05619",
+    "NUMERO": 5619,
     "NOMBRE": "BARREDA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05620",
+    "NUMERO": 5620,
     "NOMBRE": "ALTAMIRA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05621",
+    "NUMERO": 5621,
     "NOMBRE": "TORRELAVEGA-CENTRO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05622",
+    "NUMERO": 5622,
     "NOMBRE": "GANZO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05623",
+    "NUMERO": 5623,
     "NOMBRE": "PUENTE SAN MIGUEL",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05625",
+    "NUMERO": 5625,
     "NOMBRE": "SANTA ISABEL DE QUIJAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05627",
-    "NOMBRE": "SAN PEDRO DE RUDAG�ERA",
+    "NUMERO": 5627,
+    "NOMBRE": "SAN PEDRO DE RUDAGÜERA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05629",
+    "NUMERO": 5629,
     "NOMBRE": "GOLBARDO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05631",
+    "NUMERO": 5631,
     "NOMBRE": "CASAR DE PERIEDO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05633",
-    "NOMBRE": "VIRGEN DE LA PE�A",
+    "NUMERO": 5633,
+    "NOMBRE": "VIRGEN DE LA PEÑA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05635",
+    "NUMERO": 5635,
     "NOMBRE": "ONTORIA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05637",
+    "NUMERO": 5637,
     "NOMBRE": "CABEZON DE LA SAL",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05641",
-    "NOMBRE": "TRECE�O",
+    "NUMERO": 5641,
+    "NOMBRE": "TRECEÑO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05643",
+    "NUMERO": 5643,
     "NOMBRE": "ROIZ",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05644",
+    "NUMERO": 5644,
     "NOMBRE": "EL BARCENAL",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05645",
+    "NUMERO": 5645,
     "NOMBRE": "SAN VICENTE DE LA BARQUERA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05647",
+    "NUMERO": 5647,
     "NOMBRE": "PESUES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05649",
+    "NUMERO": 5649,
     "NOMBRE": "UNQUERA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05651",
-    "NOMBRE": "NUEVA MONTA�A",
+    "NUMERO": 5651,
+    "NOMBRE": "NUEVA MONTAÑA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05652",
+    "NUMERO": 5652,
     "NOMBRE": "VALLE REAL",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05655",
-    "NOMBRE": "MALIA�O LA VIDRIERA",
+    "NUMERO": 5655,
+    "NOMBRE": "MALIAÑO LA VIDRIERA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05657",
+    "NUMERO": 5657,
     "NOMBRE": "ASTILLERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05658",
+    "NUMERO": 5658,
     "NOMBRE": "LA CANTABRICA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05659",
+    "NUMERO": 5659,
     "NOMBRE": "SAN SALVADOR",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05661",
+    "NUMERO": 5661,
     "NOMBRE": "HERAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05663",
+    "NUMERO": 5663,
     "NOMBRE": "OREJO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05665",
+    "NUMERO": 5665,
     "NOMBRE": "SOLARES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05667",
-    "NOMBRE": "CECE�AS",
+    "NUMERO": 5667,
+    "NOMBRE": "CECEÑAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05669",
+    "NUMERO": 5669,
     "NOMBRE": "LA CAVADA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05671",
+    "NUMERO": 5671,
     "NOMBRE": "LIERGANES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05672",
-    "NOMBRE": "PUENTE AG�ERO",
+    "NUMERO": 5672,
+    "NOMBRE": "PUENTE AGÜERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05673",
+    "NUMERO": 5673,
     "NOMBRE": "VILLAVERDE  DE PONTONES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05675",
+    "NUMERO": 5675,
     "NOMBRE": "HOZ DE ANERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05677",
+    "NUMERO": 5677,
     "NOMBRE": "BERANGA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05679",
+    "NUMERO": 5679,
     "NOMBRE": "GAMA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05681",
+    "NUMERO": 5681,
     "NOMBRE": "CICERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05683",
+    "NUMERO": 5683,
     "NOMBRE": "TRETO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05685",
+    "NUMERO": 5685,
     "NOMBRE": "LIMPIAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05687",
+    "NUMERO": 5687,
     "NOMBRE": "MARRON",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05689",
+    "NUMERO": 5689,
     "NOMBRE": "UDALLA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05691",
+    "NUMERO": 5691,
     "NOMBRE": "GIBAJA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05721",
+    "NUMERO": 5721,
     "NOMBRE": "ARLA BERRON",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05722",
+    "NUMERO": 5722,
     "NOMBRE": "UNGO NAVA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05724",
+    "NUMERO": 5724,
     "NOMBRE": "MERCADILLO-VILLASANA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05727",
+    "NUMERO": 5727,
     "NOMBRE": "CADAGUA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05730",
+    "NUMERO": 5730,
     "NOMBRE": "BERCEDO-MONTIJA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05731",
+    "NUMERO": 5731,
     "NOMBRE": "QUINTANA DE LOS PRADOS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05732",
+    "NUMERO": 5732,
     "NOMBRE": "ESPINOSA DE LOS MONTEROS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05733",
+    "NUMERO": 5733,
     "NOMBRE": "REDONDO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05734",
+    "NUMERO": 5734,
     "NOMBRE": "SOTOSCUEVA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05735",
+    "NUMERO": 5735,
     "NOMBRE": "PEDROSA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05736",
+    "NUMERO": 5736,
     "NOMBRE": "DOSANTE CIDAD",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05737",
+    "NUMERO": 5737,
     "NOMBRE": "ROBREDO AHEDO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05738",
+    "NUMERO": 5738,
     "NOMBRE": "SONCILLO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05739",
-    "NOMBRE": "CABA�AS DE VIRTUS",
+    "NUMERO": 5739,
+    "NOMBRE": "CABAÑAS DE VIRTUS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05740",
+    "NUMERO": 5740,
     "NOMBRE": "ARIJA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05741",
+    "NUMERO": 5741,
     "NOMBRE": "LLANO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05742",
+    "NUMERO": 5742,
     "NOMBRE": "LAS ROZAS DE VALDEARROYO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05743",
+    "NUMERO": 5743,
     "NOMBRE": "MONTES CLAROS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05744",
+    "NUMERO": 5744,
     "NOMBRE": "LOS CARABEOS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05747",
+    "NUMERO": 5747,
     "NOMBRE": "CILLAMAYOR",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05748",
+    "NUMERO": 5748,
     "NOMBRE": "SALINAS DE PISUERGA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05749",
+    "NUMERO": 5749,
     "NOMBRE": "VADO-CERVERA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05750",
-    "NOMBRE": "CASTREJON DE LA PE�A",
+    "NUMERO": 5750,
+    "NOMBRE": "CASTREJON DE LA PEÑA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05751",
+    "NUMERO": 5751,
     "NOMBRE": "VILLAVERDE TARILONTE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05752",
-    "NOMBRE": "SANTIBA�EZ DE LA PE�A",
+    "NUMERO": 5752,
+    "NOMBRE": "SANTIBAÑEZ DE LA PEÑA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05753",
+    "NUMERO": 5753,
     "NOMBRE": "GUARDO-APEADERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05754",
+    "NUMERO": 5754,
     "NOMBRE": "GUARDO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05755",
-    "NOMBRE": "LA LLAMA DE LA GUZPE�A",
+    "NUMERO": 5755,
+    "NOMBRE": "LA LLAMA DE LA GUZPEÑA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05756",
+    "NUMERO": 5756,
     "NOMBRE": "LA ESPINA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05757",
+    "NUMERO": 5757,
     "NOMBRE": "VALCUENDE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05758",
+    "NUMERO": 5758,
     "NOMBRE": "PUENTE ALMUHEY",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05759",
-    "NOMBRE": "PRADO DE LA GUZPE�A",
+    "NUMERO": 5759,
+    "NOMBRE": "PRADO DE LA GUZPEÑA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05760",
+    "NUMERO": 5760,
     "NOMBRE": "VALLE DE LAS CASAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05761",
+    "NUMERO": 5761,
     "NOMBRE": "CISTIERNA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05762",
+    "NUMERO": 5762,
     "NOMBRE": "YUGUEROS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05763",
+    "NUMERO": 5763,
     "NOMBRE": "LA ERCINA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05764",
+    "NUMERO": 5764,
     "NOMBRE": "BARRILLOS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05765",
+    "NUMERO": 5765,
     "NOMBRE": "LA LOSILLA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05766",
-    "NOMBRE": "BO�AR",
+    "NUMERO": 5766,
+    "NOMBRE": "BOÑAR",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05767",
+    "NUMERO": 5767,
     "NOMBRE": "LA VECILLA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05768",
+    "NUMERO": 5768,
     "NOMBRE": "AVIADOS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05769",
+    "NUMERO": 5769,
     "NOMBRE": "LA VALCUEVA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05770",
+    "NUMERO": 5770,
     "NOMBRE": "MATALLANA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05771",
+    "NUMERO": 5771,
     "NOMBRE": "PARDAVE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05772",
+    "NUMERO": 5772,
     "NOMBRE": "PEDRUN",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05773",
+    "NUMERO": 5773,
     "NOMBRE": "MANZANEDA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05774",
+    "NUMERO": 5774,
     "NOMBRE": "GARRAFE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05775",
+    "NUMERO": 5775,
     "NOMBRE": "PALAZUELO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05776",
+    "NUMERO": 5776,
     "NOMBRE": "SAN FELIZ",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05777",
+    "NUMERO": 5777,
     "NOMBRE": "VILLAQUILAMBRE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05778",
-    "NOMBRE": "LE�N, PADRE ISLA",
+    "NUMERO": 5778,
+    "NOMBRE": "LEÓN, PADRE ISLA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05784",
+    "NUMERO": 5784,
     "NOMBRE": "HOSPITALES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05785",
+    "NUMERO": 5785,
     "NOMBRE": "VILLASINTA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05786",
+    "NUMERO": 5786,
     "NOMBRE": "MATUECA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05787",
+    "NUMERO": 5787,
     "NOMBRE": "NAREDO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05788",
+    "NUMERO": 5788,
     "NOMBRE": "ROBLES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05789",
+    "NUMERO": 5789,
     "NOMBRE": "CAMPOHERMOSO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05790",
+    "NUMERO": 5790,
     "NOMBRE": "SORRIBA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05793",
+    "NUMERO": 5793,
     "NOMBRE": "LA MATA DE LA RIBA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05794",
+    "NUMERO": 5794,
     "NOMBRE": "LA RAYA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05795",
+    "NUMERO": 5795,
     "NOMBRE": "OTERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05796",
+    "NUMERO": 5796,
     "NOMBRE": "VILLA ROMANA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05797",
+    "NUMERO": 5797,
     "NOMBRE": "VALDEPIELAGO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05798",
+    "NUMERO": 5798,
     "NOMBRE": "LA DEVESA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05799",
-    "NOMBRE": "CEREZAL DE LA GUZPE�A",
+    "NUMERO": 5799,
+    "NOMBRE": "CEREZAL DE LA GUZPEÑA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05801",
+    "NUMERO": 5801,
     "NOMBRE": "VENTAS SAN MAMES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05803",
+    "NUMERO": 5803,
     "NOMBRE": "LA ASUNCION UNIVERSIDAD",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05805",
+    "NUMERO": 5805,
     "NOMBRE": "BARRIO DE LAS OLLAS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05807",
+    "NUMERO": 5807,
     "NOMBRE": "VALDERILLA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05951",
+    "NUMERO": 5951,
     "NOMBRE": "CARTAGENA-PLAZA BASTARRECHE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05952",
+    "NUMERO": 5952,
     "NOMBRE": "HOSPITAL",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05953",
+    "NUMERO": 5953,
     "NOMBRE": "MEDIA LEGUA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05955",
+    "NUMERO": 5955,
     "NOMBRE": "VISTA ALEGRE",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05957",
+    "NUMERO": 5957,
     "NOMBRE": "ABREVADERO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05959",
+    "NUMERO": 5959,
     "NOMBRE": "ALUMBRES",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05961",
+    "NUMERO": 5961,
     "NOMBRE": "LA ESPERANZA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05963",
+    "NUMERO": 5963,
     "NOMBRE": "LA UNION VIEJA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05965",
+    "NUMERO": 5965,
     "NOMBRE": "LA UNION",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05967",
+    "NUMERO": 5967,
     "NOMBRE": "SIERRA MINERA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05969",
+    "NUMERO": 5969,
     "NOMBRE": "LLANO DEL BEAL",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05971",
+    "NUMERO": 5971,
     "NOMBRE": "EL ESTRECHO",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05973",
+    "NUMERO": 5973,
     "NOMBRE": "LOS NIETOS-VIEJOS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05975",
+    "NUMERO": 5975,
     "NOMBRE": "LOS NIETOS-PESCADERIA",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "05977",
+    "NUMERO": 5977,
     "NOMBRE": "LOS NIETOS",
     "CERCANIAS": "NO",
     "FEVE": "SI"
   },
   {
-    "NUMERO": "06001",
+    "NUMERO": 6001,
     "NOMBRE": "LIBRILLA",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "06002",
+    "NUMERO": 6002,
     "NOMBRE": "ALHAMA DE MURCIA",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "06003",
+    "NUMERO": 6003,
     "NOMBRE": "TOTANA",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "06004",
+    "NUMERO": 6004,
     "NOMBRE": "LA HOYA",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "06005",
+    "NUMERO": 6005,
     "NOMBRE": "LORCA-SAN DIEGO",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "06006",
+    "NUMERO": 6006,
     "NOMBRE": "LORCA-SUTULLENA",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "06007",
+    "NUMERO": 6007,
     "NOMBRE": "PUERTO LUMBRERAS",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "06008",
+    "NUMERO": 6008,
     "NOMBRE": "ALCANTARILLA-LOS ROMANOS",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "06100",
+    "NUMERO": 6100,
     "NOMBRE": "ALMENDRICOS",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "07001",
+    "NUMERO": 7001,
     "NOMBRE": "PULPI",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "07003",
+    "NUMERO": 7003,
     "NOMBRE": "JARAVIA",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "07004",
+    "NUMERO": 7004,
     "NOMBRE": "AGUILAS",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "07007",
+    "NUMERO": 7007,
     "NOMBRE": "AGUILAS-EL LABRADORCICO",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "08004",
+    "NUMERO": 8004,
     "NOMBRE": "SEGOVIA-GUIOMAR",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "08223",
+    "NUMERO": 8223,
     "NOMBRE": "VIGO URZAIZ",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "08224",
+    "NUMERO": 8224,
     "NOMBRE": "REDONDELA-AV",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "08240",
+    "NUMERO": 8240,
     "NOMBRE": "MEDINA DEL CAMPO A.V.",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
-    "NUMERO": "08247",
+    "NUMERO": 8247,
     "NOMBRE": "SANABRIA ALTA VELOCIDAD",
     "CERCANIAS": "NO",
     "FEVE": "NO"
@@ -2581,7 +2581,7 @@
   },
   {
     "NUMERO": 10300,
-    "NOMBRE": "HERRADON-LA CA�ADA",
+    "NOMBRE": "HERRADON-LA CAÑADA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -2659,7 +2659,7 @@
   },
   {
     "NUMERO": 10605,
-    "NOMBRE": "DUE�AS",
+    "NOMBRE": "DUEÑAS",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -2671,7 +2671,7 @@
   },
   {
     "NUMERO": 11000,
-    "NOMBRE": "VENTA DE BA�OS",
+    "NOMBRE": "VENTA DE BAÑOS",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -3049,7 +3049,7 @@
   },
   {
     "NUMERO": 13100,
-    "NOMBRE": "ORDU�A",
+    "NOMBRE": "ORDUÑA",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -3139,7 +3139,7 @@
   },
   {
     "NUMERO": 13116,
-    "NOMBRE": "I�ARRATXU",
+    "NOMBRE": "IÑARRATXU",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -3157,7 +3157,7 @@
   },
   {
     "NUMERO": 13119,
-    "NOMBRE": "LA PE�A DE BILBAO",
+    "NOMBRE": "LA PEÑA DE BILBAO",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -3247,7 +3247,7 @@
   },
   {
     "NUMERO": 13404,
-    "NOMBRE": "PE�OTA",
+    "NOMBRE": "PEÑOTA",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -3331,7 +3331,7 @@
   },
   {
     "NUMERO": 14103,
-    "NOMBRE": "PI�A",
+    "NOMBRE": "PIÑA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -3427,7 +3427,7 @@
   },
   {
     "NUMERO": 14208,
-    "NOMBRE": "SANTA CRUZ DE IGU�A",
+    "NOMBRE": "SANTA CRUZ DE IGUÑA",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -3499,7 +3499,7 @@
   },
   {
     "NUMERO": 14220,
-    "NOMBRE": "MALIA�O",
+    "NOMBRE": "MALIAÑO",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -3517,7 +3517,7 @@
   },
   {
     "NUMERO": 14231,
-    "NOMBRE": "NUEVA MONTA�A",
+    "NOMBRE": "NUEVA MONTAÑA",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -3541,13 +3541,13 @@
   },
   {
     "NUMERO": 14235,
-    "NOMBRE": "ARENAS DE IGU�A",
+    "NOMBRE": "ARENAS DE IGUÑA",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
   {
     "NUMERO": 14236,
-    "NOMBRE": "VIO�O",
+    "NOMBRE": "VIOÑO",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -3715,7 +3715,7 @@
   },
   {
     "NUMERO": 15205,
-    "NOMBRE": "ABLA�A",
+    "NOMBRE": "ABLAÑA",
     "CERCANIAS": "SI",
     "FEVE": "SI"
   },
@@ -3805,7 +3805,7 @@
   },
   {
     "NUMERO": 15400,
-    "NOMBRE": "VERI�A",
+    "NOMBRE": "VERIÑA",
     "CERCANIAS": "SI",
     "FEVE": "SI"
   },
@@ -3835,7 +3835,7 @@
   },
   {
     "NUMERO": 16005,
-    "NOMBRE": "PE�A RUBIA",
+    "NOMBRE": "PEÑA RUBIA",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -3859,7 +3859,7 @@
   },
   {
     "NUMERO": 16010,
-    "NOMBRE": "CIA�O",
+    "NOMBRE": "CIAÑO",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -3871,7 +3871,7 @@
   },
   {
     "NUMERO": 16301,
-    "NOMBRE": "FERRO�ES",
+    "NOMBRE": "FERROÑES",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -4063,7 +4063,7 @@
   },
   {
     "NUMERO": 20104,
-    "NOMBRE": "BRA�UELAS",
+    "NOMBRE": "BRAÑUELAS",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4087,7 +4087,7 @@
   },
   {
     "NUMERO": 20113,
-    "NOMBRE": "SAN MIGUEL DE LAS DUE�AS",
+    "NOMBRE": "SAN MIGUEL DE LAS DUEÑAS",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4117,7 +4117,7 @@
   },
   {
     "NUMERO": 20208,
-    "NOMBRE": "QUERE�O",
+    "NOMBRE": "QUEREÑO",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4225,7 +4225,7 @@
   },
   {
     "NUMERO": 20318,
-    "NOMBRE": "PI�OI",
+    "NOMBRE": "PIÑOI",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4267,7 +4267,7 @@
   },
   {
     "NUMERO": 20410,
-    "NOMBRE": "ELVI�A-UNIVERSIDADE",
+    "NOMBRE": "ELVIÑA-UNIVERSIDADE",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4279,7 +4279,7 @@
   },
   {
     "NUMERO": 21002,
-    "NOMBRE": "MI�O",
+    "NOMBRE": "MIÑO",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4357,7 +4357,7 @@
   },
   {
     "NUMERO": 22006,
-    "NOMBRE": "BARRA DE MI�O",
+    "NOMBRE": "BARRA DE MIÑO",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4435,7 +4435,7 @@
   },
   {
     "NUMERO": 22201,
-    "NOMBRE": "O PORRI�O",
+    "NOMBRE": "O PORRIÑO",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4459,7 +4459,7 @@
   },
   {
     "NUMERO": 22402,
-    "NOMBRE": "VALEN�A DO MINHO",
+    "NOMBRE": "VALENÇA DO MINHO",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4537,7 +4537,7 @@
   },
   {
     "NUMERO": 30000,
-    "NOMBRE": "MONFRAG�E",
+    "NOMBRE": "MONFRAGÜE",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4597,7 +4597,7 @@
   },
   {
     "NUMERO": 31109,
-    "NOMBRE": "CABA�AS DE ALISTE",
+    "NOMBRE": "CABAÑAS DE ALISTE",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4615,7 +4615,7 @@
   },
   {
     "NUMERO": 31205,
-    "NOMBRE": "A GUDI�A",
+    "NOMBRE": "A GUDIÑA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4633,7 +4633,7 @@
   },
   {
     "NUMERO": 31304,
-    "NOMBRE": "O CARBALLI�O",
+    "NOMBRE": "O CARBALLIÑO",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4663,7 +4663,7 @@
   },
   {
     "NUMERO": 31412,
-    "NOMBRE": "A CORU�A",
+    "NOMBRE": "A CORUÑA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4705,7 +4705,7 @@
   },
   {
     "NUMERO": 32006,
-    "NOMBRE": "EL PEDROSO DE LA ARMU�A",
+    "NOMBRE": "EL PEDROSO DE LA ARMUÑA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4735,13 +4735,13 @@
   },
   {
     "NUMERO": 33016,
-    "NOMBRE": "FUENTES DE O�ORO",
+    "NOMBRE": "FUENTES DE OÑORO",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
     "NUMERO": 34002,
-    "NOMBRE": "CARDE�OSA DE AVILA",
+    "NOMBRE": "CARDEÑOSA DE AVILA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4765,7 +4765,7 @@
   },
   {
     "NUMERO": 34010,
-    "NOMBRE": "PE�ARANDA DE BRACAMONTE",
+    "NOMBRE": "PEÑARANDA DE BRACAMONTE",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -4891,7 +4891,7 @@
   },
   {
     "NUMERO": 35303,
-    "NOMBRE": "CA�AVERAL",
+    "NOMBRE": "CAÑAVERAL",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -5113,7 +5113,7 @@
   },
   {
     "NUMERO": 37410,
-    "NOMBRE": "GUARE�A",
+    "NOMBRE": "GUAREÑA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -5293,7 +5293,7 @@
   },
   {
     "NUMERO": 42015,
-    "NOMBRE": "CALA�AS",
+    "NOMBRE": "CALAÑAS",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -5419,7 +5419,7 @@
   },
   {
     "NUMERO": 50102,
-    "NOMBRE": "VALDEPE�AS",
+    "NOMBRE": "VALDEPEÑAS",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -5491,7 +5491,7 @@
   },
   {
     "NUMERO": 50507,
-    "NOMBRE": "PE�AFLOR",
+    "NOMBRE": "PEÑAFLOR",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -5533,7 +5533,7 @@
   },
   {
     "NUMERO": 50704,
-    "NOMBRE": "EL CA�AMO",
+    "NOMBRE": "EL CAÑAMO",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -5869,7 +5869,7 @@
   },
   {
     "NUMERO": 55003,
-    "NOMBRE": "ALMARGEN-CA�ETE LA REAL",
+    "NOMBRE": "ALMARGEN-CAÑETE LA REAL",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -5983,7 +5983,7 @@
   },
   {
     "NUMERO": 56301,
-    "NOMBRE": "FI�ANA",
+    "NOMBRE": "FIÑANA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -6079,7 +6079,7 @@
   },
   {
     "NUMERO": 60202,
-    "NOMBRE": "CASTILLEJO-A�OVER",
+    "NOMBRE": "CASTILLEJO-AÑOVER",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -6103,7 +6103,7 @@
   },
   {
     "NUMERO": 60300,
-    "NOMBRE": "VILLACA�AS",
+    "NOMBRE": "VILLACAÑAS",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -6463,7 +6463,7 @@
   },
   {
     "NUMERO": 65008,
-    "NOMBRE": "PU�OL",
+    "NOMBRE": "PUÇOL",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -6511,7 +6511,7 @@
   },
   {
     "NUMERO": 65207,
-    "NOMBRE": "BURRIANA-ALQUERIAS DEL NI�O PERDIDO",
+    "NOMBRE": "BURRIANA-ALQUERIAS DEL NIÑO PERDIDO",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -6553,7 +6553,7 @@
   },
   {
     "NUMERO": 65311,
-    "NOMBRE": "BENICARLO-PE�ISCOLA",
+    "NOMBRE": "BENICARLO-PEÑISCOLA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -6655,7 +6655,7 @@
   },
   {
     "NUMERO": 66002,
-    "NOMBRE": "OCA�A",
+    "NOMBRE": "OCAÑA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -6715,7 +6715,7 @@
   },
   {
     "NUMERO": 66103,
-    "NOMBRE": "CA�ADA DEL HOYO",
+    "NOMBRE": "CAÑADA DEL HOYO",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -6793,7 +6793,7 @@
   },
   {
     "NUMERO": 66206,
-    "NOMBRE": "BU�OL",
+    "NOMBRE": "BUÑOL",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -6847,7 +6847,7 @@
   },
   {
     "NUMERO": 67007,
-    "NOMBRE": "ARA�ALES DE MUEL",
+    "NOMBRE": "ARAÑALES DE MUEL",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -6859,7 +6859,7 @@
   },
   {
     "NUMERO": 67010,
-    "NOMBRE": "CARI�ENA",
+    "NOMBRE": "CARIÑENA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -7309,7 +7309,7 @@
   },
   {
     "NUMERO": 70302,
-    "NOMBRE": "SIG�ENZA",
+    "NOMBRE": "SIGÜENZA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -7393,13 +7393,13 @@
   },
   {
     "NUMERO": 70603,
-    "NOMBRE": "PARACUELLOS-SABI�AN",
+    "NOMBRE": "PARACUELLOS-SABIÑAN",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
     "NUMERO": 70604,
-    "NOMBRE": "SABI�AN",
+    "NOMBRE": "SABIÑAN",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -7585,13 +7585,13 @@
   },
   {
     "NUMERO": 71302,
-    "NOMBRE": "CAP�ANES",
+    "NOMBRE": "CAPÇANES",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
     "NUMERO": 71303,
-    "NOMBRE": "MAR�A-FALSET",
+    "NOMBRE": "MARÇA-FALSET",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -7603,7 +7603,7 @@
   },
   {
     "NUMERO": 71305,
-    "NOMBRE": "DUESAIG�ES-L'ARGENTERA",
+    "NOMBRE": "DUESAIGÜES-L'ARGENTERA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -7651,7 +7651,7 @@
   },
   {
     "NUMERO": 71600,
-    "NOMBRE": "SANT VICEN� DE CALDERS",
+    "NOMBRE": "SANT VICENÇ DE CALDERS",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -7765,7 +7765,7 @@
   },
   {
     "NUMERO": 72202,
-    "NOMBRE": "L'ARBO�",
+    "NOMBRE": "L'ARBOÇ",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -7987,7 +7987,7 @@
   },
   {
     "NUMERO": 74207,
-    "NOMBRE": "SANTA MARIA Y LA PE�A",
+    "NOMBRE": "SANTA MARIA Y LA PEÑA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -8005,7 +8005,7 @@
   },
   {
     "NUMERO": 74211,
-    "NOMBRE": "SABI�ANIGO",
+    "NOMBRE": "SABIÑANIGO",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -8239,13 +8239,13 @@
   },
   {
     "NUMERO": 78201,
-    "NOMBRE": "GRA�EN",
+    "NOMBRE": "GRAÑEN",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
   {
     "NUMERO": 78203,
-    "NOMBRE": "SARI�ENA",
+    "NOMBRE": "SARIÑENA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -8359,7 +8359,7 @@
   },
   {
     "NUMERO": 78604,
-    "NOMBRE": "SANT VICEN� DE CASTELLET",
+    "NOMBRE": "SANT VICENÇ DE CASTELLET",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -8473,7 +8473,7 @@
   },
   {
     "NUMERO": 78805,
-    "NOMBRE": "PLA�A  DE CATALUNYA",
+    "NOMBRE": "PLAÇA  DE CATALUNYA",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -8575,7 +8575,7 @@
   },
   {
     "NUMERO": 79200,
-    "NOMBRE": "MA�ANET-MASSANES",
+    "NOMBRE": "MAÇANET-MASSANES",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -8623,7 +8623,7 @@
   },
   {
     "NUMERO": 79303,
-    "NOMBRE": "FLA�A",
+    "NOMBRE": "FLAÇA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -8665,7 +8665,7 @@
   },
   {
     "NUMERO": 79312,
-    "NOMBRE": "LLAN�A",
+    "NOMBRE": "LLANÇA",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -8689,7 +8689,7 @@
   },
   {
     "NUMERO": 79400,
-    "NOMBRE": "BARCELONA-ESTACIO DE FRAN�A",
+    "NOMBRE": "BARCELONA-ESTACIO DE FRANÇA",
     "CERCANIAS": "SI",
     "FEVE": "NO"
   },
@@ -8875,7 +8875,7 @@
   },
   {
     "NUMERO": 81100,
-    "NOMBRE": "LOGRO�O",
+    "NOMBRE": "LOGROÑO",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -8959,7 +8959,7 @@
   },
   {
     "NUMERO": 81209,
-    "NOMBRE": "CABA�AS DE EBRO",
+    "NOMBRE": "CABAÑAS DE EBRO",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
@@ -9281,4 +9281,4 @@
     "CERCANIAS": "SI",
     "FEVE": "NO"
   }
-]
+ ]
