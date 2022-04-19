@@ -38,6 +38,18 @@
 							output += '<h5>' + val.NOMBRE + '</h5>';
 							output += '<p>' + val.NUMERO + '</p>';
 							output += '</div>';
+							if(val.CERCANIAS == "SI" && val.FEVE == "NO"){
+								output += "<p>Dispone de Cercanías</p>";
+							}
+							if (val.FEVE == "SI" && val.CERCANIAS == "NO"){
+								output += "<p>Dispone de FEVE</p>";
+							}
+							if (val.FEVE == "SI" && val.CERCANIAS == "SI"){
+								output += "<p>Dispone de Cercanías y FEVE</p>";
+							}
+							if (val.FEVE == "NO" && val.CERCANIAS == "NO"){
+								output += "<p>No dispone de Cercanías ni FEVE</p>";
+							}
 							output += '</div>';
 							if (count%2 == 0) {
 								output += '</div><div class="row">'
