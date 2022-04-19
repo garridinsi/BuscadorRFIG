@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+ <html lang="es">
+ <head>
+ 	<meta charset="UTF-8">
+ 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+ 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+ 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+ 	<title>Buscador estaciones</title>
+ </head>
+ <body>
+ 	<div class="container" style="padding:50px 250px;">
+ 		<h1>Introduce la estación</h1>
+ 		<form role="form">
+ 			<div class="form-group">
+ 				<input type="input" class="form-control input-lg" id="txt-search"
+ 					placeholder="Puedes introducir el nombre o el número">
+ 			</div>
+ 		</form>
+ 		<div id="filter-records"></div>
+ 	</div>
+	 <script type="text/javascript">
+		$(document).ready(function () {
+			$('#txt-search').keyup(function () {
+				var searchField = $(this).val();
+				if (searchField === '') {
+					$('#filter-records').html('');
+					return;
+				}
+					var regex = new RegExp(searchField, "i");
+					var output = '<div class="row">';
+					var count = 1;
+					var data;
+			   		$.getJSON("https://raw.githubusercontent.com/garridinsi/BuscadorRFIG/main/estaciones.json", function(data){
+					$.each(data, function (key, val) {
+						if ((val['NUMERO'].toString().search(regex) != -1) || (val.NOMBRE.search(regex) != -1)) {
+							output += '<div class="col-md-6 well">';
+							output += '<div class="col-md-7">';
+							output += '<h5>' + val.NOMBRE + '</h5>';
+							output += '<p>' + val.NUMERO + '</p>';
+							output += '</div>';
+							output += '</div>';
+							if (count%2 == 0) {
+								output += '</div><div class="row">'
+							}
+							count++;
+						}
+					});
+					output += '</div>';
+					$('#filter-records').html(output);
+				});
+			});
+		});
+	</script>
+ </body>
+</html>
