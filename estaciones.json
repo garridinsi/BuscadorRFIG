@@ -6132,7 +6132,7 @@
     "FEVE": "NO"
   },
   {
-    "NUMERO": 60420,
+    "NUMERO": 65420,
     "NOMBRE": "L'HOSPITALET DE L'INFANT",
     "CERCANIAS": "NO",
     "FEVE": "NO"
@@ -6608,12 +6608,6 @@
   {
     "NUMERO": 65405,
     "NOMBRE": "L'AMETLLA DE MAR",
-    "CERCANIAS": "NO",
-    "FEVE": "NO"
-  },
-  {
-    "NUMERO": 65407,
-    "NOMBRE": "L'HOSPITALET DE L'INFANT",
     "CERCANIAS": "NO",
     "FEVE": "NO"
   },
